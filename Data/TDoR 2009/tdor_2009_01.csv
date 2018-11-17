@@ -1,4 +1,4 @@
-﻿Name,Age,Photo,Photo source,Date,TGEU ref,Location,Country,Latitude,Longitude,Cause of death,Description,Permalink
+﻿Name,Age,Photo,Photo source,Date,Source ref,Location,Country,Latitude,Longitude,Cause of death,Description,Permalink
 Kátia Otacílio Vilela,48,,,1-Jan-2009,01 Jan 2009/Kátia Otacílio Vilela,Jataí,Brazil,-17.878383,-51.720424,stabbed,"Kátia was a bar owner. She was stabbed 14 times in her own bar.
 
 Diario da Manha, 11.01.2009, Gazeta Popula 09.01.2009",https://tdor.translivesmatter.info/reports/2009/01/01/katia-otacilio-vilela_jatai-brazil_3548033a
@@ -63,5 +63,5 @@ Daisy,,,,31-Jan-2009,"January 2009/""Daisy""",San Cristobal,Mexico,16.735377,-92
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
-,,Entries shown in black appear in the TGEU list.,,,,,,,,,,
-,,Entries shown in blue were identified from other direct reports.,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

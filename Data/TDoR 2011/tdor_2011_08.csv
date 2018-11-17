@@ -1,4 +1,4 @@
-﻿Name,Age,Photo,Photo source,Date,TGEU ref,Location,Country,Latitude,Longitude,Cause of death,Description,Permalink
+﻿Name,Age,Photo,Photo source,Date,Source ref,Location,Country,Latitude,Longitude,Cause of death,Description,Permalink
 Camila Guzman,38,,,1-Aug-2011,01 Aug 2011/Camila Guzman,"New York City, USA",USA,41.9841,-74.09064,stabbed,"Camila was found with several stab wounds in her back and neck. Her boyfriend confessed the murder.
 
 The relationship was described as abusive, e.g. the boyfriend stole items from Camila.
@@ -63,5 +63,5 @@ Name Unknown,,,,25-Aug-2011,August 2011/N.N.,Chennai,India,13.079691,80.282953,s
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
-,,Entries shown in black appear in the TGEU list.,,,,,,,,,,
-,,Entries shown in blue were identified from other direct reports.,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

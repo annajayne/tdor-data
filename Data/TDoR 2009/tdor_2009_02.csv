@@ -1,4 +1,4 @@
-﻿Name,Age,Photo,Photo source,Date,TGEU ref,Location,Country,Latitude,Longitude,Cause of death,Description,Permalink
+﻿Name,Age,Photo,Photo source,Date,Source ref,Location,Country,Latitude,Longitude,Cause of death,Description,Permalink
 Will Teixeira da Silva,25,,,1-Feb-2009,01 Feb 2009/Will Teixeira da Silva,Recife,Brazil,-8.058108,-34.897905,shot,"The victim was a sex worker murdered in the street.
 
 Folha de Pernambuco, 02.02.2009",https://tdor.translivesmatter.info/reports/2009/02/01/will-teixeira-da-silva_recife-brazil_ac09a09a
@@ -55,8 +55,8 @@ Source: www.liminalis.org and La Razon, 03.04.2009",https://tdor.translivesmatte
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
-,,Entries shown in black appear in the TGEU list.,,,,,,,,,,
-,,Entries shown in blue were identified from other direct reports.,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,

@@ -1,4 +1,4 @@
-﻿Name,Age,Photo,Photo source,Date,TGEU ref,Location,Country,Latitude,Longitude,Cause of death,Description,Permalink
+﻿Name,Age,Photo,Photo source,Date,Source ref,Location,Country,Latitude,Longitude,Cause of death,Description,Permalink
 """Caio Júnior” dos Santos",19,,,3-May-2009,03 May 2009/“Caio Júnior” dos Santos,Varzea Grande,Brazil,-15.645816,-56.132218,strangled,"Dos was strangled.
 
 Sources: 24horas News, 04.05.2009 and www.liminalis.org",https://tdor.translivesmatter.info/reports/2009/05/03/caio-junior-dos-santos_varzea-grande-brazil_1e44203e
@@ -203,5 +203,5 @@ BBC News 02.06.2009",https://tdor.translivesmatter.info/reports/2009/05/31/name-
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
-,,Entries shown in black appear in the TGEU list.,,,,,,,,,,
-,,Entries shown in blue were identified from other direct reports.,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
