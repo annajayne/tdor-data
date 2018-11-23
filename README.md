@@ -15,6 +15,8 @@ Just clone the repository. Inidividual CSV files can be edited with a spreadshee
 
 When you are finished making changes, submit a pull request. I recommend that each commit be atomic and related to a single entry or group of entries rather than a "mass commit" as the latter are much more complex to merge.
 
+**Be careful wih date fields**, as spreadhseets like Excel have a habit of converting them to ambiguous formats (e.g. 4-5-2018 or 5-4-2018) when the data is saved. As a result I've deliberately included the month name as an abbreviation in dates (e.g. 4-May-2018) rather than save in ISO date format, and I recommend that you do the same.
+
 
 ### Contribution guidelines ###
 
