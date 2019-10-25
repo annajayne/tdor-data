@@ -1,8 +1,8 @@
-﻿Name,Age,Photo,Photo source,Date,Source ref,Location,Country,Latitude,Longitude,Cause of death,Description,Permalink
-Mayla Gonzales,25,,,1-Nov-16,1-Nov-16/Mayla Gonzales,Isabela,Philippines,10.203695,122.988145,beaten,"The suspects thought Mayla was a cisgender female and became mad when they found out that she was trans. Her skull was smashed with a 2x2 wooden beam.
+﻿Name,Age,Photo,Photo source,Date,Source ref,Location,State/Province,Country,Latitude,Longitude,Cause of death,Description,Tweet,Permalink
+Mayla Gonzales,25,,,1-Nov-2016,tgeu/1-Nov-2016/Mayla Gonzales,,Isabela,Philippines,10.203695,122.988145,beaten,"The suspects thought Mayla was a cisgender female and became mad when they found out that she was trans. Her skull was smashed with a 2x2 wooden beam.
 
-TvT partner organisation APTN & Philstar, 09.11.2016",http://tdor.translivesmatter.info/reports/2016/11/01/mayla-gonzales_isabela-philippines_0925139e
-Lili,,2016_11_03_Lili.jpg,https://web.archive.org/web/20170331234505/http://redetransbrasil.org/assassinatos.html,2-Nov-2016,tgeu/2-Nov-2016/Lili,"Laranjeiras,Sergipe",Brazil,-10.804262,-37.167223,shot,"Lili was shot dead on the night of 2nd November. She was a corn seller.
+TvT partner organisation APTN & Philstar, 09.11.2016",,https://tdor.translivesmatter.info/reports/2016/11/01/mayla-gonzales_isabela-philippines_0925139e
+Lili,,2016_11_03_Lili.jpg,https://web.archive.org/web/20170331234505/http://redetransbrasil.org/assassinatos.html,2-Nov-2016,tgeu/2-Nov-2016/Lili,Laranjeiras,Sergipe,Brazil,-10.804262,-37.167223,shot,"Lili was shot dead on the night of 2nd November. She was a corn seller.
 
 > Murder in the city of Laranjeiras last night 02/11/2016.
 >
@@ -14,8 +14,8 @@ TvT partner organisation Rede Trans Brasil & Informações Policiais e Astra LGB
 
 https://www.facebook.com/informacoespoliciais/posts/1501955406485183
 
-https://web.archive.org/web/20170331234505/http://redetransbrasil.org/assassinatos.html",https://tdor.translivesmatter.info/reports/2016/11/02/lili_laranjeiras-sergipe-brazil_5a9f7871
-Lorena,,,,3-Nov-16,3-Nov-16/Lorena,Arapiraca,Brazil,-9.754866,-36.661471,shot,"Lorena was shot several times outside a bar on Rua Antônio Pituba in the Ouro Preto neighborhood of Arapiraca. She died at the scene.
+https://web.archive.org/web/20170331234505/http://redetransbrasil.org/assassinatos.html",,https://tdor.translivesmatter.info/reports/2016/11/02/lili_laranjeiras-sergipe-brazil_5a9f7871
+Lorena,,,,3-Nov-2016,tgeu/3-Nov-2016/Lorena,Arapiraca,Alagoas,Brazil,-9.754866,-36.661471,shot,"Lorena was shot several times outside a bar on Rua Antônio Pituba in the Ouro Preto neighborhood of Arapiraca. She died at the scene.
 
 https://goqueer.blogspot.com/2016/12/lgbt-people-killed-in-brazil-oct-17-to.html
 
@@ -23,44 +23,60 @@ http://diarioarapiraca.com.br/editoria/policia/imagens-fortes:-travesti-e-assass
 
 http://www.jaenoticia.com.br/noticia/34788/Travesti-e-assassinada-a-tiros-no-bairro-0uro-Preto-em-Arapiraca
 
-http://www.alagoas24horas.com.br/1012249/travesti-e-morta-tiros-proximo-bar-em-arapiraca/",http://tdor.translivesmatter.info/reports/2016/11/03/lorena_arapiraca-brazil_8bd243f1
-I.M. de Sousa,18,,,3-Nov-16,3-Nov-16/I.M. de Sousa,"Guarus, Rio de Janeiro",Brazil,-23.992777,-46.255833,shot,"I. M was shot in the back and breast on the banks of the Paraíba river in Campos dos Goytacazes. A 16 year old suspect was detained by the police.
+http://www.alagoas24horas.com.br/1012249/travesti-e-morta-tiros-proximo-bar-em-arapiraca/",,https://tdor.translivesmatter.info/reports/2016/11/03/lorena_arapiraca-alagoas-brazil_8bd243f1
+I.M. de Sousa,18,,,3-Nov-2016,tgeu/3-Nov-2016/I.M. de Sousa,Guarus,Rio de Janeiro,Brazil,-23.992777,-46.255833,shot,"I. M was shot in the back and breast on the banks of the Paraíba river in Campos dos Goytacazes. A 16 year old suspect was detained by the police.
 
 https://goqueer.blogspot.com/2016/12/lgbt-people-killed-in-brazil-oct-17-to.html
 
-http://campos24horas.com.br/portal/travesti-e-assassinado-em-plena-luz-do-dia-nesta-quinta-em-campos/",http://tdor.translivesmatter.info/reports/2016/11/03/im-de-sousa_guarus-brazil_bb2da3e5
-Name Unknown,,,,3-Nov-16,3-Nov-16/N.N.,Sao Carlos,Brazil,-22.017544,-47.890971,not reported,"The victim’s body was found in woods in a state of decomposition. Her arms and legs had been tied.
+http://campos24horas.com.br/portal/travesti-e-assassinado-em-plena-luz-do-dia-nesta-quinta-em-campos/",,https://tdor.translivesmatter.info/reports/2016/11/03/im-de-sousa_guarus-brazil_bb2da3e5
+Name Unknown,,,,3-Nov-2016,tgeu/3-Nov-2016/N.N.,São Carlos,São Paulo,Brazil,-22.017544,-47.890971,murdered,"The victim’s body was found in woods in a state of decomposition. Her arms and legs had been tied.
 
-https://goqueer.blogspot.com/2016/12/lgbt-people-killed-in-brazil-oct-17-to.html",http://tdor.translivesmatter.info/reports/2016/11/03/name-unknown_sao-carlos-brazil_a46abb60
-Noony Norwood,30,2016_11_05_Noony-Norwood.jpg,,5-Nov-16,tgeu/5-Nov-16/Noony Norwood,"Richmond, Virginia",USA,37.540759,-77.433932,shot,"Noony was shot. She died in hospital the next day.
+https://goqueer.blogspot.com/2016/12/lgbt-people-killed-in-brazil-oct-17-to.html",,https://tdor.translivesmatter.info/reports/2016/11/03/name-unknown_sao-carlos-sao-paulo-brazil_a46abb60
+Noony Norwood,30,2016_11_05_Noony-Norwood.jpg,,5-Nov-2016,tgeu/5-Nov-2016/Noony Norwood,Richmond,Virginia,USA,37.540759,-77.433932,shot,"Noony was shot. She died in hospital the next day.
 
 https://www.advocate.com/transgender/2016/11/08/transgender-woman-shot-death-virginia
 
-http://virginiaavp.org/vavp-community-alert-noony-norwood/",https://tdor.translivesmatter.info/reports/2016/11/05/noony-norwood_richmond-virginia-usa_2514ab84
-Alynda Leitte,29,2016_11_07_Alynda-Leitte.jpg,,7-Nov-16,7-Nov-16/Alynda Leite,Manaus,Brazil,-3.132862,-59.986529,suffocated,"Alynda was suffocated with a sheet and found by her sister. A neighbour said she had been seen with a tall white man.
+http://virginiaavp.org/vavp-community-alert-noony-norwood/",,https://tdor.translivesmatter.info/reports/2016/11/05/noony-norwood_richmond-virginia-usa_2514ab84
+Alynda Leitte,29,2016_11_07_Alynda-Leitte.jpg,,7-Nov-2016,tgeu/7-Nov-2016/Alynda Leite,Manaus,Amazonas,Brazil,-3.132862,-59.986529,suffocated,"Alynda was suffocated with a sheet and found by her sister. A neighbour said she had been seen with a tall white man.
 
 Her Facebook profile is https://www.facebook.com/alynda.leitte.
 
 TvT partner organisation Rede Trans Brasil & Amazonas ao vivo.com, 07.11.2016
 
-https://www.facebook.com/groups/pgmreal/permalink/1279708855435746/",http://tdor.translivesmatter.info/reports/2016/11/07/alynda-leitte_manaus-brazil_a7653ae4
-Name Unknown,,,,7-Nov-16,7-Nov-16/N.N.,Distrito Federal,Mexico,25.859417,-99.941748,run-over by car,"The victim was run over on a a bridge in the Escandón neighborhood, Miguel Hidalgo delegation. The vehicle responsible failed to stop.
+https://www.facebook.com/groups/pgmreal/permalink/1279708855435746/",,https://tdor.translivesmatter.info/reports/2016/11/07/alynda-leitte_manaus-amazonas-brazil_a7653ae4
+Name Unknown,,,,7-Nov-2016,tgeu/7-Nov-2016/N.N.,Ciudad de Mexico,Distrito Federal,Mexico,25.859417,-99.941748,run-over by car,"The victim was run over on a a bridge in the Escandón neighborhood, Miguel Hidalgo delegation. The vehicle responsible failed to stop.
 
-http://www.excelsior.com.mx/comunidad/2016/11/07/1126744",http://tdor.translivesmatter.info/reports/2016/11/07/name-unknown_distrito-federal-mexico_2b6565f1
-Pitty,,,,8-Nov-16,8-Nov-16/Pitty,Paragominas,Brazil,-2.99564,-47.354894,stabbed,"Pitty was stabbed 15 times.
+http://www.excelsior.com.mx/comunidad/2016/11/07/1126744",,https://tdor.translivesmatter.info/reports/2016/11/07/name-unknown_ciudad-de-mexico-distrito-federal-mexico_2b6565f1
+Pitty,,,,8-Nov-2016,tgeu/8-Nov-2016/Pitty,Paragominas,Pará,Brazil,-2.99564,-47.354894,stabbed,"Pitty was stabbed 15 times.
 
-TvT partner organisation Rede Trans Brasil & Diario on line, 08.11.2016",http://tdor.translivesmatter.info/reports/2016/11/08/pitty_paragominas-brazil_e2b75e2e
-Tara,28,2016_11_09_Tara.jpg,,9-Nov-16,9-Nov-16/Tara,Chennai,India,13.079691,80.282953,burned,"Tara was was found severely burnt outside of a police station. She died in hospital.
+> In the municipality of Paragominas in the southeast of Pará dawn on Tuesday (8) began bloodily with the death of a [trans woman].
+>
+> According to information gathered, the victim was known as “Pitty” and was stabbed to death in the Nagibão neighborhood at around 5:30 am.
+>
+> Police are already conducting investigations to reach those responsible for the crime.
+
+TvT partner organisation Rede Trans Brasil & Diario on line, 08.11.2016
+
+https://transfofa.blogspot.com/2016/11/portugal-20-anos-depois-lara-crespo-o.html
+
+https://www.diarioonline.com.br/noticias/policia/noticia-385183-travesti-e-morta-a-facadas-em-paragominas.html
+
+https://jorgequadros.com.br/paragominas-travesti-assassinado-facadas-no-bairro-nagibao/ [BROKEN LINK]",,https://tdor.translivesmatter.info/reports/2016/11/08/pitty_paragominas-para-brazil_e2b75e2e
+Tara,28,2016_11_09_Tara.jpg,,9-Nov-2016,tgeu/9-Nov-2016/Tara,Chennai,Tamil Nadu,India,13.079691,80.282953,burned,"Tara was was found severely burnt outside of a police station. She died in hospital.
 
 Police had stopped her the night before and accused her of soliciting sex work while she charged her phone at a 24-hour store. They confiscated her phone and the keys to her vehicle. According to a friend, when she argued she was assaulted and taken to the police station for questioning, where they allegedly assaulted her again.
 
 The local community believes that the police were responsible for burning her to death.
 
-https://www.thenewsminute.com/article/transgender-woman-dies-chennai-she-was-found-burnt-outside-police-station-52639",http://tdor.translivesmatter.info/reports/2016/11/09/tara_chennai-india_0c61f41b
-Day Azevedo,,2016_11_10_Day-Azevedo.jpg,,10-Nov-16,10-Nov-16/Day Azevedo,Caiaco,Brazil,-6.459454,-37.097191,shot,"Day also went by the name Day Mininão. He was shot 9 times while travelling on a motorcycle and died from internal bleeding.
+https://www.thenewsminute.com/article/transgender-woman-dies-chennai-she-was-found-burnt-outside-police-station-52639",,https://tdor.translivesmatter.info/reports/2016/11/09/tara_chennai-tamil-nadu-india_0c61f41b
+Day Azevedo,,2016_11_10_Day-Azevedo.jpg,,10-Nov-2016,tgeu/10-Nov-2016/Day Azevedo,Caicó,Rio Grande do Norte,Brazil,-6.459454,-37.097191,shot,"Day also went by the name Day Mininão. He was shot 9 times while travelling on a motorcycle and died from internal bleeding.
 
-http://www.nlucon.com/2016/11/homem-trans-day-azevedo-e-assassinado.html",http://tdor.translivesmatter.info/reports/2016/11/10/day-azevedo_caiaco-brazil_56929a65
-Niurkeli Carguaitongo,33,2016_11_12_Niurkeli-Carguaitongo.jpg,https://www.lepotcommun.fr/pot/0p6qo0nx,12-Nov-16,Nov-16/Niurkeli,Nantes,France,47.218563,-1.560241,not reported,"Niurkeli (also known as Niurka) was an Ecuadorian sex worker who disappeared after travelling from Paris to Nantes on 15th October 2016. On 21st October her colleague reported her disappearance to the police in Nantes, and her death was confirmed on 12th November.
+> The trans-man  Day Azevedo  was killed with nine shots last Thursday (10) in Caicó, Rio Grande do Norte. He was a motorcycle taxi driver, lived in a hostel, and was also known as  Day Mininão.
+>
+> According to local media, Day was in Samanáu neighborhood with a woman - identified as Ana Paula - when he was approached by the killers. The two fell in front of the Fire Department, where Day was shot with more than six times The victim was rescued by the SAMU team and sent by ambulance to Natal, but along the way he had complications and was admitted to the hospital of  Currais Novos. Ana suffered no gunshot wounds, but is under observation.
+
+http://www.nlucon.com/2016/11/homem-trans-day-azevedo-e-assassinado.html",,https://tdor.translivesmatter.info/reports/2016/11/10/day-azevedo_caiaco-rio-grande-do-norte-brazil_56929a65
+Niurkeli Carguaitongo,33,2016_11_12_Niurkeli-Carguaitongo.jpg,https://www.lepotcommun.fr/pot/0p6qo0nx,12-Nov-2016,tgeu/Nov-2016/Niurkeli,Nantes,Loire-Atlantique,France,47.218563,-1.560241,murdered,"Niurkeli (also known as Niurka) was an Ecuadorian sex worker who disappeared after travelling from Paris to Nantes on 15th October 2016. On 21st October her colleague reported her disappearance to the police in Nantes, and her death was confirmed on 12th November.
 
 Niurkeli’s friends found a piece of paper with the phone number of the person they suspected had murdered her and gave the number to the police.
 
@@ -74,25 +90,25 @@ http://strass-syndicat.org/le-strass/qui-sommes-nous/
 
 http://strass-syndicat.org/justice-pour-niurkeli-assassinee/
 
-https://www.lepotcommun.fr/pot/",http://tdor.translivesmatter.info/reports/2016/11/12/niurkeli-carguaitongo_nantes-france_da5d80dd
-Celeste,35,,,16-Nov-16,16-Nov-16/Celeste,Cordoba,Argentina,-31.416775,-64.183601,not reported,"Celeste was found by neighbours on the street with multiple wounds in her arms and legs. She was taken to the hospital but died there.
+https://www.lepotcommun.fr/pot/",,https://tdor.translivesmatter.info/reports/2016/11/12/niurkeli-carguaitongo_nantes- loire-atlantique-france_da5d80dd
+Celeste,35,,,16-Nov-2016,tgeu/16-Nov-2016/Celeste,Córdoba,Córdoba,Argentina,-31.416775,-64.183601,murdered,"Celeste was found by neighbours on the street with multiple wounds in her arms and legs. She was taken to the hospital but died there.
 
 Before losing consciousness she gave her name as “Celeste”, but her full identity is unknown.
 
-http://www.cadena3.com/contenido/2016/11/17/Misteriosa-muerte-en-Cordoba-de-una-joven-travesti-173080.asp",http://tdor.translivesmatter.info/reports/2016/11/16/celeste_cordoba-argentina_735ed107
-Rafael Guilherme Silva Pereira,,,,16-Nov-16,16-Nov-16/Rafael Guilherme Silva Pereira,Porto Alegre,Brazil,-30.028268,-51.22843,shot,"Rafael was shot several times.
+http://www.cadena3.com/contenido/2016/11/17/Misteriosa-muerte-en-Cordoba-de-una-joven-travesti-173080.asp",,https://tdor.translivesmatter.info/reports/2016/11/16/celeste_cordoba-argentina_735ed107
+Rafael Guilherme Silva Pereira,,,,16-Nov-2016,tgeu/16-Nov-2016/Rafael Guilherme Silva Pereira,Porto Alegre,Rio Grande do Sul,Brazil,-30.028268,-51.22843,shot,"Rafael was shot several times.
 
-TvT partner organisation Rede Trans Brasil & G1 Rio Grande do Sul, 16.11.2016",http://tdor.translivesmatter.info/reports/2016/11/16/rafael-guilherme-silva-pereira_porto-alegre-brazil_d73e4c1d
-Evelyn Zulma,,,,18-Nov-16,18-Oct-16/Evelyn Zulma,,Guatemala,14.642516,-90.513138,not reported,"Evelyn was murdered inside her home. She was an activist of the OTRANS organisation and had interim protective measures from a case in which she had intervened.
+TvT partner organisation Rede Trans Brasil & G1 Rio Grande do Sul, 16.11.2016",,https://tdor.translivesmatter.info/reports/2016/11/16/rafael-guilherme-silva-pereira_porto-alegre-rio-grande-do-sul-brazil_d73e4c1d
+Evelyn Zulma,,,,18-Nov-2016,tgeu/18-Oct-2016/Evelyn Zulma,,,Guatemala,14.642516,-90.513138,murdered,"Evelyn was murdered inside her home. She was an activist of the OTRANS organisation and had interim protective measures from a case in which she had intervened.
 
-TvT partner organisation Centro de Apoyo a las Identidades Trans & Noticias Terra, 03.12.2016",http://tdor.translivesmatter.info/reports/2016/11/18/evelyn-zulma_guatemala-guatemala_9c8de855
-Munich Oliveira Moreno,,,,18-Nov-16,18-Oct-16/Munich Oliveira Moreno,Osasco,Brazil,-23.532486,-46.79168,not reported,"We don’t know what happened to Munich, but some details were apparently posted to Facebook by a friend.
+TvT partner organisation Centro de Apoyo a las Identidades Trans & Noticias Terra, 03.12.2016",,https://tdor.translivesmatter.info/reports/2016/11/18/evelyn-zulma_guatemala-guatemala_9c8de855
+Munich Oliveira Moreno,,,,18-Nov-2016,tgeu/18-Oct-2016/Munich Oliveira Moreno,Osasco,São Paulo,Brazil,-23.532486,-46.79168,not reported,"We don’t know what happened to Munich, but some details were apparently posted to Facebook by a friend.
 
-TvT partner organisation Rede Trans Brasil & Facebook Gustavo Augusto Costa, 18.11.2016",http://tdor.translivesmatter.info/reports/2016/11/18/munich-oliveira-moreno_osasco-brazil_24c58851
-Name Unknown,,,,20-Nov-16,20-Oct-16/N.N.,San Salvador,El Salvador,13.696972,-89.19283,beaten,"The victim was found beaten to death on the street.
+TvT partner organisation Rede Trans Brasil & Facebook Gustavo Augusto Costa, 18.11.2016",,https://tdor.translivesmatter.info/reports/2016/11/18/munich-oliveira-moreno_osasco-sao-paulo-brazil_24c58851
+Name Unknown,,,,20-Nov-2016,tgeu/20-Oct-2016/N.N.,San Salvador,San Salvador,El Salvador,13.696972,-89.19283,beaten,"The victim was found beaten to death on the street.
 
-TvT partner organisation Centro de Apoyo a las Identidades Trans & La Pagina, 20.11.2016",http://tdor.translivesmatter.info/reports/2016/11/20/name-unknown_san-salvador-el-salvador_176f1f2e
-E. J. Pereira Gomes,26,2016_11_21_E-J-Pereira-Gomes.jpg,https://nlucon.com/2016/11/23/travesti-de-26-anos-e-assassinada-em-campos-dos-goytacazes-rj/,21-Nov-16,21-Oct-16/Juninho da Mangueira,"Guarus, Rio de Janeiro",Brazil,-23.992777,-46.255833,shot,"E. was shot 5 times at some time during the night. Her body was found by residents in the morning.
+TvT partner organisation Centro de Apoyo a las Identidades Trans & La Pagina, 20.11.2016",,https://tdor.translivesmatter.info/reports/2016/11/20/name-unknown_san-salvador-el-salvador_176f1f2e
+E. J. Pereira Gomes,26,2016_11_21_E-J-Pereira-Gomes.jpg,https://nlucon.com/2016/11/23/travesti-de-26-anos-e-assassinada-em-campos-dos-goytacazes-rj/,21-Nov-2016,tgeu/21-Oct-2016/Juninho da Mangueira,Guarus,Rio de Janeiro,Brazil,-23.992777,-46.255833,shot,"E. was shot 5 times at some time during the night. Her body was found by residents in the morning.
 
 TvT partner organisation Rede Trans Brasil & Click Campos
 
@@ -100,8 +116,8 @@ https://nlucon.com/2016/11/23/travesti-de-26-anos-e-assassinada-em-campos-dos-go
 
 https://web.archive.org/web/20161220121719/https://www.clickcampos.com/2016/11/21/travesti-e-assassinado-com-cinco-tiros-em-guarus/
 
-https://web.archive.org/web/20170109025434/http://redetransbrasil.org:80/assassinatos.html",http://tdor.translivesmatter.info/reports/2016/11/21/juninho-da-mangueira_guarus-brazil_64017a22
-Hannia Camacho Rodriguez,30,2016_11_23_Hannia-Camacho-Rodriguez.jpg,http://desastre.mx/mexico/asesinan-a-mujer-trans-futbolista-en-tamaulipas,23-Nov-16,23-Nov-16/Hannia Camacho Rodriguez,"Ciudad Victoria, Tamaulipas",Mexico,23.743957,-99.141934,shot,"Hannia was shot three times in the chest outside the ""El Senderito"" bar in Ciudad Victoria at about 3am.
+https://web.archive.org/web/20170109025434/http://redetransbrasil.org:80/assassinatos.html",,https://tdor.translivesmatter.info/reports/2016/11/21/juninho-da-mangueira_guarus-brazil_64017a22
+Hannia Camacho Rodriguez,30,2016_11_23_Hannia-Camacho-Rodriguez.jpg,http://desastre.mx/mexico/asesinan-a-mujer-trans-futbolista-en-tamaulipas,23-Nov-2016,tgeu/23-Nov-2016/Hannia Camacho Rodriguez,Ciudad Victoria,Tamaulipas,Mexico,23.743957,-99.141934,shot,"Hannia was shot three times in the chest outside the ""El Senderito"" bar in Ciudad Victoria at about 3am.
 
 Her killer was a man who had argued with her earlier in the evening. He left and later returned, shooting her at point-blank range and then fleeing on a motorcycle.
 
@@ -111,47 +127,32 @@ Hannia was part of a soccer team and last June he participated in the National G
 
 http://desastre.mx/mexico/asesinan-a-mujer-trans-futbolista-en-tamaulipas/
 
-https://www.proceso.com.mx/463959/asesinan-a-campeona-trans-futbol-en-ciudad-victoria",http://tdor.translivesmatter.info/reports/2016/11/23/hannia-camacho-rodriguez_victoria-mexico_93d1663c
-Madeleine Delbom,62,2016_11_24_Madeleine-Delbom.jpg,,24-Nov-16,24-Nov-16/Madeleine Delbom,Borlänge,Sweden,60.485643,15.423456,stabbed,"Madeleine was strangled and stabbed to death by a group of people who owed money to her after being lured to a remote location for a barbecue.
+https://www.proceso.com.mx/463959/asesinan-a-campeona-trans-futbol-en-ciudad-victoria",,https://tdor.translivesmatter.info/reports/2016/11/23/hannia-camacho-rodriguez_victoria-mexico_93d1663c
+Madeleine Delbom,62,2016_11_24_Madeleine-Delbom.jpg,,24-Nov-2016,tgeu/24-Nov-2016/Madeleine Delbom,"Långshyttan, Hedemora",Dalarna,Sweden,60.485643,15.423456,stabbed,"Madeleine was strangled and stabbed to death by a group of people who owed money to her after being lured to a remote location for a barbecue.
 
 https://www.aftonbladet.se/nyheter/krim/article23932335.ab
 
-https://www.expressen.se/nyheter/de-doms-for-mordet-pa-madeleine-i-langshyttan/",http://tdor.translivesmatter.info/reports/2016/11/24/madeleine-delbom_borlange-sweden_f20c81b8
-Paola Bracho,25,,,24-Nov-16,24-Nov-16/Paola Bracho,Manaus,Brazil,-3.132862,-59.986529,suffocated,"Three men took Paola into a room, suffocated her with tape and fled with cell phones and money.
+https://www.expressen.se/nyheter/de-doms-for-mordet-pa-madeleine-i-langshyttan/",,https://tdor.translivesmatter.info/reports/2016/11/24/madeleine-delbom_borlange-sweden_f20c81b8
+Paola Bracho,25,,,24-Nov-2016,tgeu/24-Nov-2016/Paola Bracho,Manaus,Amazonas,Brazil,-3.132862,-59.986529,suffocated,"Three men took Paola into a room, suffocated her with tape and fled with cell phones and money.
 
-TvT partner organisation Rede Trans Brasil & Expresso AM, 24.11.2016",http://tdor.translivesmatter.info/reports/2016/11/24/paola-bracho_manaus-brazil_1efd40bb
-Michele Rios,,2016_11_26_Michele-Rios.jpg,,26-Nov-16,26-Nov-16/Michele Rios,Rio de Janeiro,Brazil,-22.911014,-43.209373,not reported,"Michele was murdered inside her own house. No other details are known.
+TvT partner organisation Rede Trans Brasil & Expresso AM, 24.11.2016",,https://tdor.translivesmatter.info/reports/2016/11/24/paola-bracho_manaus-amazonas-brazil_1efd40bb
+Michele Rios,,2016_11_26_Michele-Rios.jpg,https://www.facebook.com/photo.php?fbid=1674632316192857&set=a.1418814468441311&type=3&theater,26-Nov-2016,tgeu/26-Nov-2016/Michele Rios,Rio de Janeiro,Rio de Janeiro,Brazil,-22.911014,-43.209373,murdered,"Michele was murdered inside her own house. No other details are known.
 
-Her Facebook profile is at https://www.facebook.com/michele.rios.5680?fref=ts
+Her Facebook profile is at https://www.facebook.com/michele.rios.5680.
 
-TvT partner organisation Rede Trans Brasil",http://tdor.translivesmatter.info/reports/2016/11/26/michele-rios_rio-de-janeiro-brazil_bf3a068c
-Patricia Araujo,,2016_11_27_Patricia-Araujo.jpg,https://web.archive.org/web/20170331234505/http://redetransbrasil.org/assassinatos.html,27-Nov-2016,tgeu/27-Nov-2016/Patricia Araujo,São Paulo,Brazil,-23.550651,-46.633382,shot and burned,"Patricia was shot in the head at dawn on Friday 25th November on Avenida João XXIII - Vila Formosa.
+TvT partner organisation Rede Trans Brasil
+
+https://web.archive.org/web/20170331234505/http://redetransbrasil.org/assassinatos.html",,https://tdor.translivesmatter.info/reports/2016/11/26/michele-rios_rio-de-janeiro-brazil_bf3a068c
+Patricia Araujo,,2016_11_27_Patricia-Araujo.jpg,https://web.archive.org/web/20170331234505/http://redetransbrasil.org/assassinatos.html,27-Nov-2016,tgeu/27-Nov-2016/Patricia Araujo,São Paulo,São Paulo,Brazil,-23.550651,-46.633382,shot and burned,"Patricia was shot in the head at dawn on Friday 25th November on Avenida João XXIII - Vila Formosa.
 
 Reported by TvT partner organisation Rede Trans Brasil
 
 https://www.facebook.com/photo.php?fbid=1161998623895797&set=gm.688568817984713&type=3&theater [T-Girl World] 27/11/2016
 
-https://web.archive.org/web/20170331234505/http://redetransbrasil.org/assassinatos.html",https://tdor.translivesmatter.info/reports/2016/11/27/patricia-araujo_sao-paulo-brazil_7b0bdba9
-Dandara,,,,28-Nov-16,28-Nov-16/Dandara,Natal,Brazil,-5.805398,-35.208091,shot,"A man on a motorcycle called Dandara for sex and then shot her in the head.
+https://web.archive.org/web/20170331234505/http://redetransbrasil.org/assassinatos.html",,https://tdor.translivesmatter.info/reports/2016/11/27/patricia-araujo_sao-paulo-brazil_7b0bdba9
+Dandara,,,,28-Nov-2016,tgeu/28-Nov-2016/Dandara,Natal,Rio Grande do Norte,Brazil,-5.805398,-35.208091,shot,"Dandara was shot in the head by a man on a motorcycle who called her for sex.
 
-Reported by TvT partner organisation Rede Trans Brasil & GGB, 28.11.2016",http://tdor.translivesmatter.info/reports/2016/11/28/dandara_natal-brazil_f0d21133
-Alejandro Polanco Botero,37,2016_11_30_Alejandro-Polanco-Botero.jpg,,30-Nov-16,30-Nov-16/Alejandro Polanco Botero,Risaralda,Colombia,5.166386,-75.765485,shot,"Alejandro was a lawyer. He was shot in the head 4 times by a hitman while opening a car door for his assistant.
+Reported by TvT partner organisation Rede Trans Brasil & GGB, 28.11.2016",,https://tdor.translivesmatter.info/reports/2016/11/28/dandara_natal-rio-grande-do-norte-brazil_f0d21133
+Alejandro Polanco Botero,37,2016_11_30_Alejandro-Polanco-Botero.jpg,,30-Nov-2016,tgeu/30-Nov-2016/Alejandro Polanco Botero,Pereira,Risaralda,Colombia,4.8083081,-75.6893178,shot,"Alejandro was a lawyer. He was shot in the head 4 times by a hitman while opening a car door for his assistant.
 
-http://www.cronicadelquindio.com/noticia-completa-titulo-asesinaron_en_pereira_al_abogado_quindiano_alejandro_polanco_botero-seccion-la_judicial-nota-105072.htm",http://tdor.translivesmatter.info/reports/2016/11/30/alejandro-polanco-botero_risaralda-colombia_a5ffae33
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
+http://www.cronicadelquindio.com/noticia-completa-titulo-asesinaron_en_pereira_al_abogado_quindiano_alejandro_polanco_botero-seccion-la_judicial-nota-105072.htm",,https://tdor.translivesmatter.info/reports/2016/11/30/alejandro-polanco-botero_pereira-risaralda-colombia_a5ffae33
