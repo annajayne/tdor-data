@@ -1,5 +1,5 @@
-﻿Name,Age,Photo,Photo source,Date,Source ref,Location,Country,Latitude,Longitude,Cause of death,Description,Permalink
-Marcela Estefanya Chocobar,26,2015_09_06_Marcela-Chocobar.jpg,https://www.tiemposur.com.ar/nota/156535-noche-de-siluetas,6-Sep-2015,tgeu/6 Sep 2015/Marcela Estefanya Chocobar,"Río Gallegos, Santa Cruz",Argentina,-50.019205,-68.523053,murdered,"Marcela was last seen alive when she left a bar in the downtown area of  Río Gallegos and climbed into a red Renault 9. Several days later her skull, along with some clothes and a wig, were found in a field in the San Benito neighborhood.
+﻿Name,Age,Birthdate,Photo,Photo source,Date,Source ref,Location,State/Province,Country,Latitude,Longitude,Category,Cause of death,Description,Tweet,Permalink
+Marcela Estefanya Chocobar,26,,2015_09_06_Marcela-Chocobar.jpg,https://www.tiemposur.com.ar/nota/156535-noche-de-siluetas,6-Sep-2015,tgeu/6-Sep-2015/Marcela Estefanya Chocobar,Río Gallegos,Santa Cruz,Argentina,-50.019205,-68.523053,violence,murdered,"Marcela was last seen alive when she left a bar in the downtown area of  Río Gallegos and climbed into a red Renault 9. Several days later her skull, along with some clothes and a wig, were found in a field in the San Benito neighborhood.
 
 The rest of her body has never been found.
 
@@ -63,8 +63,8 @@ https://www.tiemposur.com.ar/nota/156535-noche-de-siluetas
 
 https://laopinionaustral.com.ar/la-nueva-caratula-de-travesticidio-y-la-muerte-de-marcela-chocobar/
 
-http://revistaanfibia.com/cronica/crimen-odio-la-ciudad-del-poder/",https://tdor.translivesmatter.info/reports/2015/09/06/marcela-estefanya-chocobar_rio-gallegos-santa-cruz-argentina_b80bc3f5
-Paulinha,,,,8-Sep-2015,tgeu/8 Sep 2015/Paulinha,"Natal, Rio Grande do Norte",Brazil,-5.805398,-35.208091,shot,"Paulinha was shot 3 times in the headon rua Chico Serra in the Pajuçara neighborhood on the night of Tuesday 8th September.
+http://revistaanfibia.com/cronica/crimen-odio-la-ciudad-del-poder/",,https://tdor.translivesmatter.info/reports/2015/09/06/marcela-estefanya-chocobar_rio-gallegos-santa-cruz-argentina_b80bc3f5
+Paulinha,,,,,8-Sep-2015,tgeu/8-Sep-2015/Paulinha,Natal,Rio Grande do Norte,Brazil,-5.805398,-35.208091,violence,shot,"Paulinha was shot 3 times in the headon rua Chico Serra in the Pajuçara neighborhood on the night of Tuesday 8th September.
 
 She died at the scene.
 
@@ -72,11 +72,9 @@ TvT partner organization Grupo Gay da Bahia & Xua do Agreste 08.09.2015
 
 http://g1.globo.com/rn/rio-grande-do-norte/noticia/2015/09/travesti-e-morta-tiros-na-zona-norte-de-natal.html
 
-http://falandoirreverente.blogspot.com.br/2015/09/travesti-e-assassinado-tiros-na-zona.html [BROKEN LINK]",https://tdor.translivesmatter.info/reports/2015/09/08/paulinha_natal-rio-grande-do-norte-brazil_0aafec28
-Dipa Bandyopadhyay,55,,,11-Sep-2015,tgeu/11 Sep 2015/Dipa Bandyopadhyay,Shyampur,India,12.72615,75.89602,not reported,"
-
-TvT project: The Times of India 13.09.2015",https://tdor.translivesmatter.info/reports/2015/09/11/dipa-bandyopadhyay_shyampur-india_dd12ae7c
-Waleska Rayala,24,2015_09_12_Waleska-Rayala.jpg,https://altonoticias10.blogspot.com/2015/09/luto-amigos-de-washington-da-costa.html,12-Sep-2015,tgeu/12 Sep 2015/Waleska Rayala,"Pendencias, Rio Grande do Norte",Brazil,-5.257209,-36.718249,stabbed,"Waleska was stabbed 27 times by a 17 year-old boy on 2nd September. She died in hospital 10 days later.
+http://falandoirreverente.blogspot.com.br/2015/09/travesti-e-assassinado-tiros-na-zona.html [BROKEN LINK]",,https://tdor.translivesmatter.info/reports/2015/09/08/paulinha_natal-rio-grande-do-norte-brazil_0aafec28
+Dipa Bandyopadhyay,55,,,,11-Sep-2015,tgeu/11-Sep-2015/Dipa Bandyopadhyay,Shyampur,West Bengal,India,12.72615,75.89602,uncategorised,not reported,TvT project: The Times of India 13.09.2015,,https://tdor.translivesmatter.info/reports/2015/09/11/dipa-bandyopadhyay_shyampur-west-bengal-india_dd12ae7c
+Waleska Rayala,24,,2015_09_12_Waleska-Rayala.jpg,https://altonoticias10.blogspot.com/2015/09/luto-amigos-de-washington-da-costa.html,12-Sep-2015,tgeu/12-Sep-2015/Waleska Rayala,Pendencias,Rio Grande do Norte,Brazil,-5.257209,-36.718249,violence,stabbed,"Waleska was stabbed 27 times by a 17 year-old boy on 2nd September. She died in hospital 10 days later.
 
 Waleska loved to dance and was part of the jungle band Explosão Potiguar, was also a futsal player.
 
@@ -84,30 +82,22 @@ Waleska loved to dance and was part of the jungle band Explosão Potiguar, was a
 
 TvT partner organization Grupo Gay da Bahia & Altonoticias 13.09.2015 & Difusorajucurutu 14.09.2015
 
-https://altonoticias10.blogspot.com/2015/09/luto-amigos-de-washington-da-costa.html",https://tdor.translivesmatter.info/reports/2015/09/12/waleska-rayala_pendencias-rio-grande-do-norte-brazil_20c7324b
-L. Alves de Souza,22,,,16-Sep-2015,tgeu/16 Sep 2015/L. Alves de Souza,"Campinas, São Paulo",Brazil,-22.90556,-47.06083,stabbed,"L. was found in a landfill with a knife wound to the neck.
+https://altonoticias10.blogspot.com/2015/09/luto-amigos-de-washington-da-costa.html",,https://tdor.translivesmatter.info/reports/2015/09/12/waleska-rayala_pendencias-rio-grande-do-norte-brazil_20c7324b
+L. Alves de Souza,22,,,,16-Sep-2015,tgeu/16-Sep-2015/L. Alves de Souza,Campinas,São Paulo,Brazil,-22.90556,-47.06083,violence,stabbed,"L. was found in a landfill with a knife wound to the neck.
 
 TvT partner organization Grupo Gay da Bahia & Radio Central 29.09.2015
 
-https://web.archive.org/web/20160318011610/http://www.tvb.com.br/balancogeral/videos-exibe.asp?v=40777",https://tdor.translivesmatter.info/reports/2015/09/16/l-alves-de-souza_campinas-sao-paulo-brazil_bf244bf4
-Name Unknown,,,,20-Sep-2015,20 Sep 2015/N.N.,Culiacan,Mexico,24.801719,-107.393051,not reported,"
-
-TvT project: El Debate 26.09.2015",https://tdor.translivesmatter.info/reports/2015/09/20/name-unknown_culiacan-mexico_64482db4
-Name Unknown,,,,22-Sep-2015,22 Sep 2015/N.N.,Culiacan,Mexico,24.801719,-107.393051,not reported,"
-
-TvT project: El Debate 26.09.2015",https://tdor.translivesmatter.info/reports/2015/09/22/name_unknown_culiacan-mexico_aa3548b4
-J. Salino Galeano,32,,,23-Sep-2015,23 Sep 2015/J. Salino Galeano,Catalao,Brazil,-18.177233,-47.941726,not reported,"
-
-TvT partner organization Grupo Gay da Bahia & Planato JTI 24.09.2015 & Diario de Goias 24.09.2015",https://tdor.translivesmatter.info/reports/2015/09/23/j-salino-galeano_catalao-brazil_8d929bb5
-C. Neto Alves de Matos Junior,21,,,23-Sep-2015,tgeu/23 Sep 2015/C. Neto Alves de Matos Junior,Sao Paulo,Brazil,-23.550651,-46.633382,stabbed and dismembered,"C.'s body was found in their killer's home along with the remains of two others. The perpetrator was called a homophobic serial killer.
+https://web.archive.org/web/20160318011610/http://www.tvb.com.br/balancogeral/videos-exibe.asp?v=40777",,https://tdor.translivesmatter.info/reports/2015/09/16/l-alves-de-souza_campinas-sao-paulo-brazil_bf244bf4
+Name Unknown,,,,,20-Sep-2015,tgeu/20-Sep-2015/N.N.,Culiacán,Sinaloa,Mexico,24.801719,-107.393051,uncategorised,not reported,TvT project: El Debate 26.09.2015,,https://tdor.translivesmatter.info/reports/2015/09/20/name-unknown_culiacan-sinaloa-mexico_64482db4
+Name Unknown,,,,,22-Sep-2015,tgeu/22-Sep-2015/N.N.,Culiacan,Sinaloa,Mexico,24.801719,-107.393051,uncategorised,not reported,TvT project: El Debate 26.09.2015,,https://tdor.translivesmatter.info/reports/2015/09/22/name_unknown_culiacan-sinaloa-mexico_aa3548b4
+J. Salino Galeano,32,,,,23-Sep-2015,tgeu/23-Sep-2015/J. Salino Galeano,Catalão,Goiás,Brazil,-18.177233,-47.941726,uncategorised,not reported,TvT partner organization Grupo Gay da Bahia & Planato JTI 24.09.2015 & Diario de Goias 24.09.2015,,https://tdor.translivesmatter.info/reports/2015/09/23/j-salino-galeano_catalao-goias-brazil_8d929bb5
+C. Neto Alves de Matos Junior,21,,,,23-Sep-2015,tgeu/23-Sep-2015/C. Neto Alves de Matos Junior,,São Paulo,Brazil,-23.550651,-46.633382,violence,stabbed and dismembered,"C.'s body was found in their killer's home along with the remains of two others. The perpetrator was called a homophobic serial killer.
 
 TvT partner organization Grupo Gay da Bahia & O Globo 27.09.2015
 
-https://web.archive.org/web/20151226051328/http://boainforalonmacao.com.br:80/2015/09/28/homossexual-surdo-e-mudo-e-encontrado-morto-em-sp/",https://tdor.translivesmatter.info/reports/2015/09/23/c-neto-alves-de-matos-junior_sao-paulo-brazil_de615158
-Alexia,20,,,24-Sep-2015,24 Sep 2015/Alexia,Ciudad Acre,El Salvador,13.84093,-89.44671,not reported,"
-
-TvT Project: La Pagina 24.09.2015",https://tdor.translivesmatter.info/reports/2015/09/24/alexia_ciudad-acre-el-salvador_c319417d
-"Fernanda ""Coty"" Olmos",59,,,25-Sep-2015,tgeu/25 Sep 2015/Coty Olmos,Santa Fe,Argentina,-31.618455,-60.702975,"beaten, stabbed and shot","Coty was brutally murdered in her own home. SHe had been shot in the chest, had numerous stab wounds in the back and dorsal area and a bruise covering her right eye.
+https://web.archive.org/web/20151226051328/http://boainforalonmacao.com.br:80/2015/09/28/homossexual-surdo-e-mudo-e-encontrado-morto-em-sp/",,https://tdor.translivesmatter.info/reports/2015/09/23/c-neto-alves-de-matos-junior_sao-paulo-brazil_de615158
+Alexia,20,,,,24-Sep-2015,tgeu/24-Sep-2015/Alexia,Ciudad Arce,La Libertad,El Salvador,13.84093,-89.44671,uncategorised,not reported,TvT Project: La Pagina 24.09.2015,,https://tdor.translivesmatter.info/reports/2015/09/24/alexia_ciudad-arce-la-libertad-el-salvador_c319417d
+"Fernanda ""Coty"" Olmos",59,,,,25-Sep-2015,tgeu/25-Sep-2015/Coty Olmos,Santa Fe,Santa Fe,Argentina,-31.618455,-60.702975,violence,"beaten, stabbed and shot","Coty was brutally murdered in her own home. SHe had been shot in the chest, had numerous stab wounds in the back and dorsal area and a bruise covering her right eye.
 
 > Fernanda ""Coty"" Olmos was a beloved neighbor of the Alfonso neighborhood of Santa Fe. She had spearheaded complaints from the residents of the neighborhood and in particular, she stood out for her supportive work during the dramatic floods that affected the city in 2003.
 >
@@ -123,36 +113,36 @@ https://www.laizquierdadiario.com/Brutal-asesinato-de-una-mujer-trans-la-fiscali
 
 http://www.falgbt.org/slider/en-la-sede-portena-de-la-casa-de-santa-fe-attta-y-la-falgbt-reclamaron-justicia-para-fernanda-olmos/
 
-https://www.perfil.com/noticias/sociedad/preocupacion-por-los-tres-asesinatos-de-trans-en-un-mes-1017-0177.phtml",https://tdor.translivesmatter.info/reports/2015/09/25/fernanda-coty-olmos_santa-fe-argentina_e6c8ae02
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
+https://www.perfil.com/noticias/sociedad/preocupacion-por-los-tres-asesinatos-de-trans-en-un-mes-1017-0177.phtml",,https://tdor.translivesmatter.info/reports/2015/09/25/fernanda-coty-olmos_santa-fe-argentina_e6c8ae02
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,

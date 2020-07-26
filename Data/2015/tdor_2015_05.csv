@@ -1,5 +1,5 @@
-﻿Name,Age,Photo,Photo source,Date,Source ref,Location,Country,Latitude,Longitude,Cause of death,Description,Permalink
-Name Unknown,,,,3-May-2015,,"Curitiba, Paraná",Brazil,-25.3968774,-49.2166374,shot,"The victim's body was found in the street on the morning of Sunday 3rd May. She had been shot twice.
+﻿Name,Age,Birthdate,Photo,Photo source,Date,Source ref,Location,State/Province,Country,Latitude,Longitude,Category,Cause of death,Description,Tweet,Permalink
+Name Unknown,,,,,3-May-2015,,Curitiba,Paraná,Brazil,-25.3968774,-49.2166374,violence,shot,"The victim's body was found in the street on the morning of Sunday 3rd May. She had been shot twice.
  
 > A [trans woman], not yet officially identified, was found murdered on Sunday morning (3) on Rua Maria Petroski in the Tingui neighborhood of Curitiba.
 >  
@@ -7,32 +7,22 @@ Name Unknown,,,,3-May-2015,,"Curitiba, Paraná",Brazil,-25.3968774,-49.2166374,s
 
 The victim's death was not recorded in the official TDoR 2015 list released by Transgender Europe (TGEU) in November 2015.
 
-http://www.bandab.com.br/jornalismo/transexual-e-encontrada-assassinada-com-dois-tiros-em-bairro-de-curitiba/",https://tdor.translivesmatter.info/reports/2015/05/03/name-unknown_curitiba-parana-brazil_a289f518
-Name Unknown,,,,7-May-2015,05.07.2015/N.N.,Maracaibo,Venezuela,10.665156,-71.623075,not reported,"The victim was a person of colour.
+http://www.bandab.com.br/jornalismo/transexual-e-encontrada-assassinada-com-dois-tiros-em-bairro-de-curitiba/",,https://tdor.translivesmatter.info/reports/2015/05/03/name-unknown_curitiba-parana-brazil_a289f518
+Name Unknown,,,,,7-May-2015,tgeu/7-May-2015/N.N.,Maracaibo,Zulia,Venezuela,10.665156,-71.623075,uncategorised,not reported,"The victim was a person of colour.
 
-TvT project: El Proprio 08.05.2015 & Primicia 11.05.2015",https://tdor.translivesmatter.info/reports/2015/05/07/name-unknown_maracaibo-venezuela_db74ba9d
-Name Unknown,,,,9-May-2015,05.09.2015/NN,Maracaibo,Venezuela,10.665156,-71.623075,tortured,"The victim’s body showed signs of torture.
+TvT project: El Proprio 08.05.2015 & Primicia 11.05.2015",,https://tdor.translivesmatter.info/reports/2015/05/07/name-unknown_maracaibo-zulia-venezuela_db74ba9d
+Name Unknown,,,,,9-May-2015,tgeu/9-May-2015/NN,Maracaibo,Zulia,Venezuela,10.665156,-71.623075,violence,tortured,"The victim’s body showed signs of torture.
 
-TvT partner organization: Centro de Apoyo a las Identidades Trans hoyennoticias.com.ve    07.05.2015",https://tdor.translivesmatter.info/reports/2015/05/09/name-unknown_maracaibo-venezuela_31034b12
-Anlly Ferrety,,,,9-May-2015,05.09.2015/Anlly Ferrety,El Salvador,El Salvador,13.9726,-89.21818,not reported,"
+TvT partner organization: Centro de Apoyo a las Identidades Trans hoyennoticias.com.ve    07.05.2015",,https://tdor.translivesmatter.info/reports/2015/05/09/name-unknown_maracaibo-zulia-venezuela_31034b12
+Anlly Ferrety,,,,,9-May-2015,tgeu/9-May-2015/Anlly Ferrety,,,El Salvador,13.9726,-89.21818,uncategorised,not reported,TvT partner organization: Centro de Apoyo a las Identidades Trans sinetiquetas.org   11.05.2015,,https://tdor.translivesmatter.info/reports/2015/05/09/anlly-ferrety_el-salvador_aded9d14
+Saima Shahzadi,,,,,9-May-2015,tgeu/9-May-2015/Saima Shahzadi,Islamabad,Islamabad,Pakistan,33.694796,73.064527,uncategorised,not reported,TvT project: The Tribune 13.05.2015 & Dawn 11.05.2015,,https://tdor.translivesmatter.info/reports/2015/05/09/saima-shahzadi_islamabad-pakistan_542ed396
+Billi Yasin,,,,,9-May-2015,tgeu/9-May-2015/Billi Yasin,Islamabad,Islamabad,Pakistan,33.694796,73.064527,uncategorised,not reported,TvT project: The Tribune 13.05.2015 & Dawn 11.05.2015,,https://tdor.translivesmatter.info/reports/2015/05/09/billi-yasin_islamabad-pakistan_50178b83
+Shahzaib Tanveer,,,,,9-May-2015,tgeu/9-May-2015/Shahzaib Tanveer,Islamabad,Islamabad,Pakistan,33.694796,73.064527,uncategorised,not reported,TvT project: The Tribune 13.05.2015 & Dawn 11.05.2015,,https://tdor.translivesmatter.info/reports/2015/05/09/shahzaib-tanveer_islamabad-pakistan_641c273c
+Sabrina Ferreira de Castro,21,,,,10-May-2015,tgeu/10-May-2015/Sabrina Ferreira de Castro,Goiânia,Goiás,Brazil,-16.680882,-49.253269,violence,murdered,"The victim was killed by a police sergeant.
 
-TvT partner organization: Centro de Apoyo a las Identidades Trans sinetiquetas.org   11.05.2015",https://tdor.translivesmatter.info/reports/2015/05/09/anlly-ferrety_el-salvador_aded9d14
-Saima Shahzadi,,,,9-May-2015,05.09.2015/Saima Shahzadi,Islamabad,Pakistan,33.694796,73.064527,not reported,"
-
-TvT project: The Tribune 13.05.2015 & Dawn 11.05.2015",https://tdor.translivesmatter.info/reports/2015/05/09/saima-shahzadi_islamabad-pakistan_542ed396
-Billi Yasin,,,,9-May-2015,05.09.2015/Billi Yasin,Islamabad,Pakistan,33.694796,73.064527,not reported,"
-
-TvT project: The Tribune 13.05.2015 & Dawn 11.05.2015",https://tdor.translivesmatter.info/reports/2015/05/09/billi-yasin_islamabad-pakistan_50178b83
-Shahzaib Tanveer,,,,9-May-2015,05.09.2015/Shahzaib Tanveer,Islamabad,Pakistan,33.694796,73.064527,not reported,"
-
-TvT project: The Tribune 13.05.2015 & Dawn 11.05.2015",https://tdor.translivesmatter.info/reports/2015/05/09/shahzaib-tanveer_islamabad-pakistan_641c273c
-Sabrina Ferreira de Castro,21,,,10-May-2015,05.10.2015/Sabrina Ferreira de Castro,Goiânia,Brazil,-16.680882,-49.253269,not reported,"The victim was killed by a police sergeant.
-
-TvT partner organization Grupo Gay da Bahia & O Popular 11.05.2015",https://tdor.translivesmatter.info/reports/2015/05/10/sabrina-ferreira-de-castro_goiania-brazil_f0a6c768
-Yenilet,,,,11-May-2015,05.11.2015/Yenilet,Venezuela,Venezuela,10.50278,-66.91905,not reported,"
-
-TvT partner organization: Centro de Apoyo a las Identidades Trans versionfinal.com.ve  11.05.2015",https://tdor.translivesmatter.info/reports/2015/05/11/yenilet_venezuela_7e80b52f
-La Monique de Roma,43,,,15-May-2015,tgeu/15 May 2015/La Monique de Roma,São Paulo,Brazil,-23.550651,-46.633382,shot,"La Monique was shot dead in the west of the city on the morning of 15th May.
+TvT partner organization Grupo Gay da Bahia & O Popular 11.05.2015",,https://tdor.translivesmatter.info/reports/2015/05/10/sabrina-ferreira-de-castro_goiania-goias-brazil_f0a6c768
+Yenilet,,,,,11-May-2015,tgeu/11-May-2015/Yenilet,,,Venezuela,10.50278,-66.91905,uncategorised,not reported,TvT partner organization: Centro de Apoyo a las Identidades Trans versionfinal.com.ve  11.05.2015,,https://tdor.translivesmatter.info/reports/2015/05/11/yenilet_venezuela_7e80b52f
+La Monique de Roma,43,,,,15-May-2015,tgeu/15-May-2015/La Monique de Roma,São Paulo,,Brazil,-23.550651,-46.633382,violence,shot,"La Monique was shot dead in the west of the city on the morning of 15th May.
 
 > São Paulo - The Municipal Secretariat of Human Rights and Citizenship of São Paulo released earlier this afternoon (15) a note declaring itself in mourning for the death of one of the participants of the Transcidadania Program , a social reintegration project launched three months ago by the City Hall . The 43-year-old [trans woman] La Monique de Roma was shot and killed yesterday morning in the Jockey Club region of Butantã, west of the city. According to the city, it was a case of murder.
 > 
@@ -44,8 +34,8 @@ La Monique de Roma,43,,,15-May-2015,tgeu/15 May 2015/La Monique de Roma,São Pau
 
 TvT partner organization Grupo Gay da Bahia & Rede Brasil Atual 15.05.2015
 
-http://www.redebrasilatual.com.br/cidadania/2015/05/prefeitura-lamenta-morte-de-participante-de-programa-voltado-para-publico-lgbt-8697.html",https://tdor.translivesmatter.info/reports/2015/05/15/la-monique-de-roma_sao-paulo-brazil_21d417c0
-London Chanel,21,2015_05_18_London-Chanel.jpg,https://www.gaystarnews.com/article/trans-woman-stabbed-death-philadelphia190515-132038,18-May-2015,tgeu/18 May 2015/London Chanel,"Philadelphia, Pennsylvania",USA,39.951061,-75.16562,stabbed,"London was stabbed twice in the back and once in the neck in an abandoned house at around 12.40am. She died in hospital.
+http://www.redebrasilatual.com.br/cidadania/2015/05/prefeitura-lamenta-morte-de-participante-de-programa-voltado-para-publico-lgbt-8697.html",,https://tdor.translivesmatter.info/reports/2015/05/15/la-monique-de-roma_sao-paulo-brazil_21d417c0
+London Chanel,21,,2015_05_18_London-Chanel.jpg,https://www.gaystarnews.com/article/trans-woman-stabbed-death-philadelphia190515-132038,18-May-2015,tgeu/18-May-2015/London Chanel,Philadelphia,Pennsylvania,USA,39.951061,-75.16562,violence,stabbed,"London was stabbed twice in the back and once in the neck in an abandoned house at around 12.40am. She died in hospital.
 
 > Philadelphia Police Chief Inspector Scott Small told NBC10 that an argument between Chanel and her 31-year-old alleged attacker escalated into a physical fight and she was stabbed as a result.
 > 
@@ -57,15 +47,15 @@ Her roomate Raheam Felton, 31, has been arrested. Felton, who has prior felony c
 
 https://www.gaystarnews.com/article/trans-woman-stabbed-death-philadelphia190515-132038/
 
-https://www.phillymag.com/news/2015/05/19/trans-london-chanel-stabbed-philadelphia/",https://tdor.translivesmatter.info/reports/2015/05/18/london-chanel_philadelphia-pennsylvania-usa_36086636
-Ticiane Abravanel,21,2015_05_18_Ticiane-Abravanel.jpg,https://tvjornal.ne10.uol.com.br/noticia/ultimas/2015/05/18/travesti-e-morta-com-sete-tiros-em-nova-descoberta-19321.php,18-May-2015,tgeu/18 May 2015/Ticiane Abravanel,"Recife, Pernambuco",Brazil,-8.058108,-34.897905,shot,"Ticiane was shot 7 times while she was sitting drinking with friends in Nova Descoberta in the North Zone of Recife. 
+https://www.phillymag.com/news/2015/05/19/trans-london-chanel-stabbed-philadelphia/",,https://tdor.translivesmatter.info/reports/2015/05/18/london-chanel_philadelphia-pennsylvania-usa_36086636
+Ticiane Abravanel,21,,2015_05_18_Ticiane-Abravanel.jpg,https://tvjornal.ne10.uol.com.br/noticia/ultimas/2015/05/18/travesti-e-morta-com-sete-tiros-em-nova-descoberta-19321.php,18-May-2015,tgeu/18-May-2015/Ticiane Abravanel,Recife,Pernambuco,Brazil,-8.058108,-34.897905,violence,shot,"Ticiane was shot 7 times while she was sitting drinking with friends in Nova Descoberta in the North Zone of Recife. 
 
 The police suspected that her killing was an ordered execution.
 
 TvT partner organization Grupo Gay da Bahia & TV Journal 18.05.2015
 
-https://tvjornal.ne10.uol.com.br/noticia/ultimas/2015/05/18/travesti-e-morta-com-sete-tiros-em-nova-descoberta-19321.php",https://tdor.translivesmatter.info/reports/2015/05/18/ticiane-abravanel_recife-pernambuco-brazil_abc36a65
-Vandressa Vinnitt,,,,18-May-2015,tgeu/18 May 2015/Vandressa Vinnitt,Rio de Janeiro,Brazil,-22.911014,-43.209373,not reported,"Vandressa was shot dead on the street at dawn on 18th May.
+https://tvjornal.ne10.uol.com.br/noticia/ultimas/2015/05/18/travesti-e-morta-com-sete-tiros-em-nova-descoberta-19321.php",,https://tdor.translivesmatter.info/reports/2015/05/18/ticiane-abravanel_recife-pernambuco-brazil_abc36a65
+Vandressa Vinnitt,,,,,18-May-2015,tgeu/18-May-2015/Vandressa Vinnitt,"Realengo, Rio de Janeiro",Rio de Janeiro,Brazil,-22.911014,-43.209373,violence,shot,"Vandressa was shot dead on the street at dawn on 18th May.
 
 > An unidentified [trans woman] was shot dead at dawn on Monday at Cannon Square, on Bernardo de Vasconcelos Avenue, in Realengo, West Rio. The case was referred to the Homicide Division.
 >
@@ -75,8 +65,8 @@ Vandressa Vinnitt,,,,18-May-2015,tgeu/18 May 2015/Vandressa Vinnitt,Rio de Janei
 
 TvT partner organization Grupo Gay da Bahia & Manchete Online 18.05.2015
 
-https://web.archive.org/web/20160326125128/http://www.mancheteonline.com.br/travesti-e-morto-a-tiros-em-realengo/",https://tdor.translivesmatter.info/reports/2015/05/18/vandressa-vinnitt_rio-de-janiero-brazil_2d387570
-Jean Waltrick,27,,,23-May-2015,tdor.info/23 May 2015/Jean Waltrick,"Lages, Santa Catarina",Brazil,-27.8007521,-50.3203365,shot,"Jean's body was found in a drainage channel alongside the BR-282 highway on Saturday 23rd May. She died as a result of several gunshot wounds to the head.
+https://web.archive.org/web/20160326125128/http://www.mancheteonline.com.br/travesti-e-morto-a-tiros-em-realengo/",,https://tdor.translivesmatter.info/reports/2015/05/18/vandressa-vinnitt_rio-de-janiero-brazil_2d387570
+Jean Waltrick,27,,,,23-May-2015,tdor.info/23-May-2015/Jean Waltrick,Lages,Santa Catarina,Brazil,-27.8007521,-50.3203365,violence,shot,"Jean's body was found in a drainage channel alongside the BR-282 highway on Saturday 23rd May. She died as a result of several gunshot wounds to the head.
 
 > At was around 7am on Saturday (23), the Military Police were called after the body of a woman was found in a drainage channel in the BR-282 in the Frei Rogério neighborhood.
 > 
@@ -86,8 +76,8 @@ Jean Waltrick,27,,,23-May-2015,tdor.info/23 May 2015/Jean Waltrick,"Lages, Santa
 
 Jean's murder was not recorded in the TDoR 2015 list released by Transgender Europe (TGEU) in November 2015, but was reported by https://tdor.info.
 
-https://web.archive.org/web/20151110012914/http://www.noticianoato.com.br/policia/1088-homossexual-e-encontrado-morto-a-tiros-na-marginal-da-br-282-em-lages.html",https://tdor.translivesmatter.info/reports/2015/05/23/jean-waltrick_lages-santa-catarina-brazil_bec6b5da
-Bárbara Sodré,29,,,25-May-2015,tgeu/25 May 2015/Bárbara Sodré,"Aracaju, Sergipe",Brazil,-10.916206,-37.077466,stabbed,"Bárbara was stabbed after arguing with a client who refused to pay her.
+https://web.archive.org/web/20151110012914/http://www.noticianoato.com.br/policia/1088-homossexual-e-encontrado-morto-a-tiros-na-marginal-da-br-282-em-lages.html",,https://tdor.translivesmatter.info/reports/2015/05/23/jean-waltrick_lages-santa-catarina-brazil_bec6b5da
+Bárbara Sodré,29,,,,25-May-2015,tgeu/25-May-2015/Bárbara Sodré,Aracaju,Sergipe,Brazil,-10.916206,-37.077466,violence,stabbed,"Bárbara was stabbed after arguing with a client who refused to pay her.
 
 > [Trans woman] Barbara Sodré, 29, was killed late last Monday, after arguing with a client who refused to pay for her services. Her killing took place in the center of the capital of Sergipe, where the victim worked as a sex worker, in the first such murder of the year in Sergipe.
 
@@ -99,8 +89,8 @@ According to information from Tathiane Araújo, president of the Aracaju Transge
 
 TvT partner organization Grupo Gay da Bahia & Journal da Cidade 27.05.2015
 
-https://web.archive.org/web/20151206104912/http://clicksergipe.com.br/cotidiano/12/4252/travesti-e-morta-apos-discutir-valor-do.html",https://tdor.translivesmatter.info/reports/2015/05/25/barbara-sodre_aracaju-sergipe-brazil_30cc68ea
-Priscila Soares da Silva,23,,,29-May-2015,tgeu/29 May 2015/Priscila Soares da Silva,"Dois Riachos, Alagoas",Brazil,-9.384645,-37.096502,shot,"Priscilla was shot dead by two men on a motorcycle. She was a person of colour.
+https://web.archive.org/web/20151206104912/http://clicksergipe.com.br/cotidiano/12/4252/travesti-e-morta-apos-discutir-valor-do.html",,https://tdor.translivesmatter.info/reports/2015/05/25/barbara-sodre_aracaju-sergipe-brazil_30cc68ea
+Priscila Soares da Silva,23,,,,29-May-2015,tgeu/29-May-2015/Priscila Soares da Silva,Dois Riachos,Alagoas,Brazil,-9.384645,-37.096502,violence,shot,"Priscilla was shot dead by two men on a motorcycle. She was a person of colour.
 
 > Police are investigating the murder of a [trans woman] killed on Friday night (29), in the town of Dois Riachos, in the Sertão de Alagoas. The 23-year-old victim was shot dead as she drove down Frei Damião Avenue, in a square in the city center.
 >
@@ -108,8 +98,8 @@ Priscila Soares da Silva,23,,,29-May-2015,tgeu/29 May 2015/Priscila Soares da Si
 
 TvT partner organization Grupo Gay da Bahia & Sertão 24Horas 30.05.2015
 
-http://www.alagoas24horas.com.br/896617/travesti-e-morta-tiros-em-dois-riachos/",https://tdor.translivesmatter.info/reports/2015/05/29/priscila-soares-da-silva_dois-riachos-alagoas-brazil_878493d4
-Francela Méndez Rodríguez,29,2015_05_30_Francela-Mendez-Rodriguez.jpg,https://planettransgender.com/salvadoran-trans-activist-francela-mendez-murder-tenth-for-2015-sparks-outrage/,30-May-2015,tgeu/30 May 2015/Francela Méndez Rodríguez,Sonsonante,El Salvador,13.725572,-89.719639,murdered,"Francela was murdered on 31st May at colona Las Palmeras, in the city of Sonsonate, El Salvador. While her murder has sparked protests and international outrage no arrests have been made.
+http://www.alagoas24horas.com.br/896617/travesti-e-morta-tiros-em-dois-riachos/",,https://tdor.translivesmatter.info/reports/2015/05/29/priscila-soares-da-silva_dois-riachos-alagoas-brazil_878493d4
+Francela Méndez Rodríguez,29,,2015_05_30_Francela-Mendez-Rodriguez.jpg,https://planettransgender.com/salvadoran-trans-activist-francela-mendez-murder-tenth-for-2015-sparks-outrage/,30-May-2015,tgeu/30-May-2015/Francela Méndez Rodríguez,Sonsonate,Sonsonate,El Salvador,13.725572,-89.719639,violence,murdered,"Francela was murdered on 31st May at colona Las Palmeras, in the city of Sonsonate, El Salvador. While her murder has sparked protests and international outrage no arrests have been made.
 
 > The brutal murder drew condemnation from David Morales the Attorney for the Defense of Human Rights of El Salvador, who said it was an expression of “rejection” and “hatred” against the lesbian, gay, bisexual and transgender people ( LGTBI).
 > 
@@ -139,24 +129,22 @@ http://www.corresponsalesclave.org/2015/06/indignacion-por-asesinato-de-activist
 
 https://www.futureswithoutviolence.org/thankful-for-heroines-who-are-gone-but-not-forgotten/
 
-http://www.corresponsalesclave.org/2015/06/indignacion-por-asesinato-de-activista-en-el-salvador.html",https://tdor.translivesmatter.info/reports/2015/05/30/francela-mendez-rodriguez_sonsonante-el-salvador_23f1b756
-Regina Teixeira da Silva,,,,31-May-2015,31 May 2015/Regina Teixeira da Silva,Fortaleza,Brazil,-3.730451,-38.521799,not reported,"
-
-TvT partner organization Grupo Gay da Bahia & TV Diário 01.06.2015",https://tdor.translivesmatter.info/reports/2015/05/31/regina-teixeira-da-silva_fortaleza-brazil_ecbd9aad
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
+http://www.corresponsalesclave.org/2015/06/indignacion-por-asesinato-de-activista-en-el-salvador.html",,https://tdor.translivesmatter.info/reports/2015/05/30/francela-mendez-rodriguez_sonsonate-sonsonante-el-salvador_23f1b756
+Regina Teixeira da Silva,,,,,31-May-2015,tgeu/31-May-2015/Regina Teixeira da Silva,Fortaleza,Ceará,Brazil,-3.730451,-38.521799,uncategorised,not reported,TvT partner organization Grupo Gay da Bahia & TV Diário 01.06.2015,,https://tdor.translivesmatter.info/reports/2015/05/31/regina-teixeira-da-silva_fortaleza-ceara-brazil_ecbd9aad
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
