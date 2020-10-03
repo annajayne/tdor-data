@@ -1,14 +1,10 @@
-﻿Name,Age,Photo,Photo source,Date,Source ref,Location,Country,Latitude,Longitude,Cause of death,Description,Permalink
-Raissa Xavier,30,,,1-Feb-2014,01/02/14/Raissa Xavier,Cuiaba,Brazil,-15.598669,-56.09913,shot,"Raissa was shot six times on the head and thorax.
+﻿Name,Age,Birthdate,Photo,Photo source,Date,Source ref,Location,State/Province,Country,Latitude,Longitude,Category,Cause of death,Description,Tweet,Permalink
+Raissa Xavier,30,,,,1-Feb-2014,tgeu/1-Feb-2014/Raissa Xavier,Cuiaba,,Brazil,-15.598669,-56.09913,violence,shot,"Raissa was shot six times on the head and thorax.
 
-TvT partner organization Grupo Gay da Bahia & Gazeta Digital 02.02.2014",http://tdor.translivesmatter.info/reports/2014/02/01/raissa-xavier_cuiaba-brazil_b1b1a5e5
-Alison (Juan Bernardo) Reyes López,26,,,4-Feb-2014,04/02/14/Alison (Juan Bernardo) Reyes López,Tijuana,Mexico,32.52882,-117.036835,not reported,"
-
-TvT partner organization: Centro de Apoyo a las Identidades Trans",http://tdor.translivesmatter.info/reports/2014/02/04/alison-juan-bernardo-reyes-lopez_tijuana-mexico_c7559f9a
-Tatty,,,,7-Feb-2014,07.02.2014/Tatty,Belo Horizonte,Brazil,-19.922732,-43.945095,not reported,"
-
-TvT partner organization Grupo Gay da Bahia & R7 videos 07.02.2014",http://tdor.translivesmatter.info/reports/2014/02/07/tatty_belo-horizonte-brazil_98e0e6ff
-C. A. Portela Rosin,39,,,11-Feb-2014,,"Campo Mourão, Paraná",Brazil,-24.046329,-52.37802,shot,"C. was shot 4 times near the spot where she worked. More than 8 years later police finally arrested a suspect.
+TvT partner organization Grupo Gay da Bahia & Gazeta Digital 02.02.2014",,https://tdor.translivesmatter.info/reports/2014/02/01/raissa-xavier_cuiaba-brazil_b1b1a5e5
+Alison (Juan Bernardo) Reyes López,26,,,,4-Feb-2014,tgeu/4-Feb-2014/Alison (Juan Bernardo) Reyes López,Tijuana,,Mexico,32.52882,-117.036835,uncategorised,not reported,TvT partner organization: Centro de Apoyo a las Identidades Trans,,https://tdor.translivesmatter.info/reports/2014/02/04/alison-juan-bernardo-reyes-lopez_tijuana-mexico_c7559f9a
+Tatty,,,,,7-Feb-2014,tgeu/7-Feb-2014/Tatty,Belo Horizonte,,Brazil,-19.922732,-43.945095,uncategorised,not reported,TvT partner organization Grupo Gay da Bahia & R7 videos 07.02.2014,,https://tdor.translivesmatter.info/reports/2014/02/07/tatty_belo-horizonte-brazil_98e0e6ff
+C. A. Portela Rosin,39,,,,11-Feb-2014,,Campo Mourão,Paraná,Brazil,-24.046329,-52.37802,violence,shot,"C. was shot 4 times near the spot where she worked. More than 8 years later police finally arrested a suspect.
 
 > On Thursday, June 17, 2019, after several investigations by the investigating team of the 16th Campo Mourãos Police Subdivision, the arrest of an individual who had an unfavorable warrant of arrest for having participated in the murder of a [trans woman] that had by nickname 'He-Man', crime this occurred in 2014 in Campo Mourão. The arrested man was sent to the prison of the 16th SDP where the justice system remains. 
 >
@@ -20,8 +16,8 @@ http://www.cidadedestaque.com.br/2019/06/policia-prende-homem-envolvido-na-morte
 
 https://www.tribunadointerior.com.br/noticia/policia-prende-homem-acusado-de-morte-de-travesti-em-campo-mourao
 
-http://noti-cia.com/policia-prende-homem-envolvido-na-morte-do-travesti-he-man-em-2014-em-campo-mourao/",https://tdor.translivesmatter.info/reports/2014/02/11/c-a-portela-rosin_campo-mourao-parana-brazil_fa9f9e66
-Rafaela dos Santos Alderetti,32,2014_02_11_Rafaela-dos-Santos-Alderetti.jpg,https://tvjornal.ne10.uol.com.br/noticia/ultimas/2014/02/11/travesti-e-assassinado-a-tiros-em-um-orelhao-em-tejipio-11770.php,11-Feb-2014,11.02.2014/Rafaela dos Santos Alderetti,"Recife, Pernambuco",Brazil,-8.058108,-34.897905,shot,"Rafaela was shot 10 times by two men on a motorcyle while she was making a call to her husband in Italy on a payphone.
+http://noti-cia.com/policia-prende-homem-envolvido-na-morte-do-travesti-he-man-em-2014-em-campo-mourao/",,https://tdor.translivesmatter.info/reports/2014/02/11/c-a-portela-rosin_campo-mourao-parana-brazil_fa9f9e66
+Rafaela dos Santos Alderetti,32,,2014_02_11_Rafaela-dos-Santos-Alderetti.jpg,https://tvjornal.ne10.uol.com.br/noticia/ultimas/2014/02/11/travesti-e-assassinado-a-tiros-em-um-orelhao-em-tejipio-11770.php,11-Feb-2014,tgeu/11-Feb-2014/Rafaela dos Santos Alderetti,"Recife, Pernambuco",,Brazil,-8.058108,-34.897905,violence,shot,"Rafaela was shot 10 times by two men on a motorcyle while she was making a call to her husband in Italy on a payphone.
 
 TvT partner organization Grupo Gay da Bahia & Jornal do Comercio  1.02.2014
 
@@ -32,20 +28,18 @@ https://tvuol.uol.com.br/video/travesti-e-assassinado-a-tiros-em-um-orelhao-em-t
 https://www.facebook.com/photo.php?fbid=10216194950965200&set=a.10201913780664868&type=3
 
 https://www.facebook.com/stephanie.stella.315/posts/248353285344919
-",http://tdor.translivesmatter.info/reports/2014/02/11/rafaela-dos-santos-alderetti_recife-brazil_f87387c4
-Noiser Java Paima,26,,,11-Feb-2014,11/02/14/Noiser Java Paima,Miraflores,Peru,-12.274175,-75.850256,not reported,"
+",,https://tdor.translivesmatter.info/reports/2014/02/11/rafaela-dos-santos-alderetti_recife-brazil_f87387c4
+Noiser Java Paima,26,,,,11-Feb-2014,tgeu/11-Feb-2014/Noiser Java Paima,Miraflores,,Peru,-12.274175,-75.850256,uncategorised,not reported,TvT partner organization: Centro de Apoyo a las Identidades Trans,,https://tdor.translivesmatter.info/reports/2014/02/11/noiser-java-paima_miraflores-peru_c6601a04
+Denise Cobos Reyes,22,,,,14-Feb-2014,tgeu/14-Feb-2014/Denise Cobos Reyes,Ceresita,,Ecuador,0.605609,-77.811972,violence,tortured,"Denise was tortured with the peak of a bottle.
 
-TvT partner organization: Centro de Apoyo a las Identidades Trans",http://tdor.translivesmatter.info/reports/2014/02/11/noiser-java-paima_miraflores-peru_c6601a04
-Denise Cobos Reyes,22,,,14-Feb-2014,14 Feb 2014/Denise Cobos Reyes,Ceresita,Ecuador,0.605609,-77.811972,tortured,"Denise was tortured with the peak of a bottle.
+TvT project: Trans Organization Silueta X & El Universo  17.02.2014",,https://tdor.translivesmatter.info/reports/2014/02/14/denise-cobos-reyes_ceresita-ecuador_409405ff
+Name Unknown,40,,,,16-Feb-2014,tgeu/16-Feb-2014/N.N.,Ribeirao Preto,,Brazil,-21.178333,-47.806667,violence,stabbed,"The victim was stabbed  11 times. She was attacked by a man in agroup of 5 men.
 
-TvT project: Trans Organization Silueta X & El Universo  17.02.2014",http://tdor.translivesmatter.info/reports/2014/02/14/denise-cobos-reyes_ceresita-ecuador_409405ff
-Name Unknown,40,,,16-Feb-2014,16 Feb 2014/N.N.,Ribeirao Preto,Brazil,-21.178333,-47.806667,not reported,"The victim was stabbed  11 times. She was attacked by a man in agroup of 5 men.
+TvT partner organization Grupo Gay da Bahia & O Globo  16.02.2014",,https://tdor.translivesmatter.info/reports/2014/02/16/name-unknown_ribeirao-preto-brazil_15163244
+Narongchai Kliangnoi,36,,,,16-Feb-2014,tgeu/16-Feb-2014/Narongchai Kliangnoi,Nakhon Sawan,,Thailand,15.697411,100.125438,violence,beaten,"The murderer claimed that the victim criticised on his unimpressive sex they just had. He was angry and then beat her with a hardwood and stole her valuables.
 
-TvT partner organization Grupo Gay da Bahia & O Globo  16.02.2014",http://tdor.translivesmatter.info/reports/2014/02/16/name-unknown_ribeirao-preto-brazil_15163244
-Narongchai Kliangnoi,36,,,16-Feb-2014,16 Feb 2014/Narongchai Kliangnoi,Nakhon Sawan,Thailand,15.697411,100.125438,beaten,"The murderer claimed that the victim criticised on his unimpressive sex they just had. He was angry and then beat her with a hardwood and stole her valuables.
-
-TvT partner organization Thai TGA",http://tdor.translivesmatter.info/reports/2014/02/16/narongchai-kliangnoi_nakhon-sawan-thailand_7c7e376e
-Jessica Gaviria,20,2014_02_17_Jessica-Gaviria.jpg,https://www.facebook.com/OlimpicaStereoMonteria/photos/a.616743411683253/742956665728593/?type=3&theater,17-Feb-2014,,Antioquia,Colombia,7.000009,-75.500009,cosmetic filler poisoning,"Jessica died as a result of complications arising from a cosmetic filler injection. At least one of the hospitals she was taken to by a friend refused to admit her.
+TvT partner organization Thai TGA",,https://tdor.translivesmatter.info/reports/2014/02/16/narongchai-kliangnoi_nakhon-sawan-thailand_7c7e376e
+Jessica Gaviria,20,,2014_02_17_Jessica-Gaviria.jpg,https://www.facebook.com/OlimpicaStereoMonteria/photos/a.616743411683253/742956665728593/?type=3&theater,17-Feb-2014,,Antioquia,,Colombia,7.000009,-75.500009,medical,cosmetic filler poisoning,"Jessica died as a result of complications arising from a cosmetic filler injection. At least one of the hospitals she was taken to by a friend refused to admit her.
 
 > Knowing the risks that she was facing last Monday, Jessica Gaviria made the decision to apply liquid silicone to increase the size of her buttocks with the help of a friend. However, Helen Garcia, a friend of the victim, reported that Jessica Gaviria died as a result. 
 > 
@@ -61,44 +55,34 @@ Jessica's death was not recorded on the official TDoR 2014 list released by Tran
 
 http://noti5.tv/muere-transexual-por-aplicacion-de-silicona-en-el-cuerpo/
 
-https://www.facebook.com/OlimpicaStereoMonteria/photos/a.616743411683253/742956665728593/?type=3&theater",https://tdor.translivesmatter.info/reports/2014/02/17/jessica-gaviria_antioquia-colombia_a727da12
-(Jose Andres) Cuenca Adrian,26,,,17-Feb-2014,17 Feb 2014/(Jose Andres) Cuenca Adrian,Guayaquil,Ecuador,-2.247865,-79.903534,not reported,"The victim was found wrapped in a black plastic bag.
+https://www.facebook.com/OlimpicaStereoMonteria/photos/a.616743411683253/742956665728593/?type=3&theater",,https://tdor.translivesmatter.info/reports/2014/02/17/jessica-gaviria_antioquia-colombia_a727da12
+(Jose Andres) Cuenca Adrian,26,,,,17-Feb-2014,tgeu/17-Feb-2014/(Jose Andres) Cuenca Adrian,Guayaquil,,Ecuador,-2.247865,-79.903534,violence,not reported,"The victim was found wrapped in a black plastic bag.
 
-TvT project: Trans Organization Silueta X & El Universo  19.02.2014",http://tdor.translivesmatter.info/reports/2014/02/17/jose-andres-cuenca-adrian_guayaquil-ecuador_1d43226e
-Sevda,29,,,17-Feb-2014,17 Feb 2014/Sevda,Gaziantep,Turkey,37.061176,37.379309,not reported,"The NGO Red Umbrella reports that Sevda's murderer was her boyfriend, who fled to Serbia from where he called the police and confessed the murder.
+TvT project: Trans Organization Silueta X & El Universo  19.02.2014",,https://tdor.translivesmatter.info/reports/2014/02/17/jose-andres-cuenca-adrian_guayaquil-ecuador_1d43226e
+Sevda,29,,,,17-Feb-2014,tgeu/17-Feb-2014/Sevda,Gaziantep,,Turkey,37.061176,37.379309,violence,murdered,"The NGO Red Umbrella reports that Sevda's murderer was her boyfriend, who fled to Serbia from where he called the police and confessed the murder.
 
-TvT partner organization Red Umbrella 21.02.2014 & 25.02.2014",http://tdor.translivesmatter.info/reports/2014/02/17/sevda_gaziantep-turkey_45ac749b
-Robertona,38,,,18-Feb-2014,18 Feb 2014/Robertona,Chapeco,Brazil,-27.101388,-52.617799,not reported,"Police reports that the murder was the result of fights between trans people.
+TvT partner organization Red Umbrella 21.02.2014 & 25.02.2014",,https://tdor.translivesmatter.info/reports/2014/02/17/sevda_gaziantep-turkey_45ac749b
+Robertona,38,,,,18-Feb-2014,tgeu/18-Feb-2014/Robertona,Chapeco,,Brazil,-27.101388,-52.617799,violence,murdered,"Police reports that the murder was the result of fights between trans people.
 
-TvT partner organization Grupo Gay da Bahia & Bom Dia RS  18.02.2014",http://tdor.translivesmatter.info/reports/2014/02/18/robertona_chapeco-brazil_e6d9a4a5
-(Alex) Medeiros,8,,,18-Feb-2014,18 Feb 2014/(Alex) Medeiros,Rio de Janeiro,Brazil,-22.911014,-43.209373,beaten,"""Alex"", a 8 year-old child moved six months ag to Rio de Janeiro to live with the father. The father has beaten the child to death to ""teach him to behave like a man"", as the child did bell-dancing, wore femal clothing and loved dish-washing.
+TvT partner organization Grupo Gay da Bahia & Bom Dia RS  18.02.2014",,https://tdor.translivesmatter.info/reports/2014/02/18/robertona_chapeco-brazil_e6d9a4a5
+(Alex) Medeiros,8,,,,18-Feb-2014,tgeu/18-Feb-2014/(Alex) Medeiros,Rio de Janeiro,,Brazil,-22.911014,-43.209373,violence,beaten,"""Alex"", a 8 year-old child moved six months ag to Rio de Janeiro to live with the father. The father has beaten the child to death to ""teach him to behave like a man"", as the child did bell-dancing, wore femal clothing and loved dish-washing.
 
-TvT partner organization Grupo Gay da Bahia & Meia Hora Online,  19.02.2014",http://tdor.translivesmatter.info/reports/2014/02/18/alex-medeiros_rio-de-janeiro-brazil_919178ce
-Camila Veronese,24,,,19-Feb-2014,19 Feb 2014/Camila Veronese,Braganca Paulista,Brazil,-22.952024,-46.541859,shot,"Camila was executed with  15 shots.
+TvT partner organization Grupo Gay da Bahia & Meia Hora Online,  19.02.2014",,https://tdor.translivesmatter.info/reports/2014/02/18/alex-medeiros_rio-de-janeiro-brazil_919178ce
+Camila Veronese,24,,,,19-Feb-2014,tgeu/19-Feb-2014/Camila Veronese,Braganca Paulista,,Brazil,-22.952024,-46.541859,violence,shot,"Camila was executed with  15 shots.
 
-TvT partner organization Grupo Gay da Bahia & TV UOL  19.02.2014",http://tdor.translivesmatter.info/reports/2014/02/19/camila-veronese_braganca-paulista-brazil_862ed381
-Paulete,,,,19-Feb-2014,19 Feb 2014/Paulete,Taguatinga,Brazil,-12.402404,-46.436577,shot,"CCTV footage shows how a trans sex worker is approached by a man sitting in a car and then shot from the inside of the car.
+TvT partner organization Grupo Gay da Bahia & TV UOL  19.02.2014",,https://tdor.translivesmatter.info/reports/2014/02/19/camila-veronese_braganca-paulista-brazil_862ed381
+Paulete,,,,,19-Feb-2014,tgeu/19-Feb-2014/Paulete,Taguatinga,,Brazil,-12.402404,-46.436577,violence,shot,"CCTV footage shows how a trans sex worker is approached by a man sitting in a car and then shot from the inside of the car.
 
-TvT partner organization Grupo Gay da Bahia & Globo.com  19.02.2014",http://tdor.translivesmatter.info/reports/2014/02/19/paulete_taguatinga-brazil_bb755b85
-Name Unknown,,,,23-Feb-2014,23 Feb 2014/N.N.,Nova Serrana,Brazil,-19.875834,-44.984166,not reported,"
+TvT partner organization Grupo Gay da Bahia & Globo.com  19.02.2014",,https://tdor.translivesmatter.info/reports/2014/02/19/paulete_taguatinga-brazil_bb755b85
+Name Unknown,,,,,23-Feb-2014,tgeu/23-Feb-2014/N.N.,Nova Serrana,,Brazil,-19.875834,-44.984166,uncategorised,not reported,TvT partner organization Grupo Gay da Bahia & Sistema MPA 23.03.2014,,https://tdor.translivesmatter.info/reports/2014/02/23/name-unknown_nova-serrana-brazil_174d19d7
+Name Unknown,,,,,26-Feb-2014,tgeu/26-Feb-2014/N.N.,Tandil,,Argentina,-37.321373,-59.13342,uncategorised,not reported,TvT partner organization Centro de Apoyo a las Identidades Trans Trans www.tandildiario.com  27.02.2014,,https://tdor.translivesmatter.info/reports/2014/02/26/name-unknown_tandil-argentina_6170a602
+Ronnachai Pobai,28,,,,27-Feb-2014,tgeu/27-Feb-2014/Ronnachai Pobai,Kanchanaburi,,Thailand,14.024995,99.533329,violence,stabbed,"The victim was stabbed to death and her personal belongings were stolen such as her laptop computer. The murderer is still unknown a and the case is under investigation.
 
-TvT partner organization Grupo Gay da Bahia & Sistema MPA 23.03.2014",http://tdor.translivesmatter.info/reports/2014/02/23/name-unknown_nova-serrana-brazil_174d19d7
-Name Unknown,,,,26-Feb-2014,26 Feb 2014/N.N.,Tandil,Argentina,-37.321373,-59.13342,not reported,"
-
-TvT partner organization Centro de Apoyo a las Identidades Trans Trans www.tandildiario.com  27.02.2014",http://tdor.translivesmatter.info/reports/2014/02/26/name-unknown_tandil-argentina_6170a602
-Ronnachai Pobai,28,,,27-Feb-2014,27 Feb 2014/Ronnachai Pobai,Kanchanaburi,Thailand,14.024995,99.533329,stabbed,"The victim was stabbed to death and her personal belongings were stolen such as her laptop computer. The murderer is still unknown a and the case is under investigation.
-
-TvT partner organization Thai TGA",http://tdor.translivesmatter.info/reports/2014/02/27/ronnachai-pobai_kanchanaburi-thailand_61b3f1ce
-Name Unknown,,,,27-Feb-2014,27 Feb 2014/N.N.,Sao Paulo,Brazil,-23.550651,-46.633382,not reported,"
-
-TvT partner organization Grupo Gay da Bahia & Band, 27.02.2014",http://tdor.translivesmatter.info/reports/2014/02/27/name-unknown_sao-paulo-brazil_5927fd28
-Name Unknown,40,,,28-Feb-2014,28 Feb 2014/N.N.,Rio de Janeiro,Brazil,-22.911014,-43.209373,not reported,"
-
-TvT partner organization Grupo Gay da Bahia & TV UOL, 01.03.2014",http://tdor.translivesmatter.info/reports/2014/02/28/name-unknown_rio-de-janeiro-brazil_d7d9922b
-Kitana,18,,,28-Feb-2014,28 Feb 2014/Kitana,Aracaju,Brazil,-10.916206,-37.077466,not reported,"
-
-TvT partner organization Grupo Gay da Bahia",http://tdor.translivesmatter.info/reports/2014/02/28/kitana_aracaju-brazil_6a566975
-A.S.S.,16,,,28-Feb-2014,tgeu/28 Feb 2014/A.S.S.,Vitoria da Conquista,Brazil,-14.856749,-40.84148,shot,"The victim was shot dead at around 9pm on Friday 28th February.
+TvT partner organization Thai TGA",,https://tdor.translivesmatter.info/reports/2014/02/27/ronnachai-pobai_kanchanaburi-thailand_61b3f1ce
+Name Unknown,,,,,27-Feb-2014,tgeu/27-Feb-2014/N.N.,Sao Paulo,,Brazil,-23.550651,-46.633382,uncategorised,not reported,"TvT partner organization Grupo Gay da Bahia & Band, 27.02.2014",,https://tdor.translivesmatter.info/reports/2014/02/27/name-unknown_sao-paulo-brazil_5927fd28
+Name Unknown,40,,,,28-Feb-2014,tgeu/28-Feb-2014/N.N.,Rio de Janeiro,,Brazil,-22.911014,-43.209373,uncategorised,not reported,"TvT partner organization Grupo Gay da Bahia & TV UOL, 01.03.2014",,https://tdor.translivesmatter.info/reports/2014/02/28/name-unknown_rio-de-janeiro-brazil_d7d9922b
+Kitana,18,,,,28-Feb-2014,tgeu/28-Feb-2014/Kitana,Aracaju,,Brazil,-10.916206,-37.077466,uncategorised,not reported,TvT partner organization Grupo Gay da Bahia,,https://tdor.translivesmatter.info/reports/2014/02/28/kitana_aracaju-brazil_6a566975
+A.S.S.,16,,,,28-Feb-2014,tgeu/28-Feb-2014/A.S.S.,Vitoria da Conquista,,Brazil,-14.856749,-40.84148,violence,shot,"The victim was shot dead at around 9pm on Friday 28th February.
 
 > An unidentified [trans woman] was shot dead on Friday night, around 9 pm, at Frei Serapião Street, in Bairro Brasil, near Av. Integração. The body was found after people went out after hearing gunfire.
 >
@@ -106,9 +90,20 @@ A.S.S.,16,,,28-Feb-2014,tgeu/28 Feb 2014/A.S.S.,Vitoria da Conquista,Brazil,-14.
 
 TvT partner organization Grupo Gay da Bahia & Nildo Freitas-Blog 01.03.2014
 
-http://itambeagora.com/2014/03/seguem-os-assassinatos-em-conquista.html/",http://tdor.translivesmatter.info/reports/2014/02/28/ass_vitoria-da-conquista-brazil_b192e454
-Name Unknown,,,,28-Feb-2014,"February, 2014/N.N.",Guayaquil,Ecuador,-2.247865,-79.903534,tortured,"The victim's body showed signs of torture.
+http://itambeagora.com/2014/03/seguem-os-assassinatos-em-conquista.html/",,https://tdor.translivesmatter.info/reports/2014/02/28/ass_vitoria-da-conquista-brazil_b192e454
+Name Unknown,,,,,28-Feb-2014,tgeu/Feb-2014/N.N.,Guayaquil,,Ecuador,-2.247865,-79.903534,violence,tortured,"The victim's body showed signs of torture.
 
 Note that the TGEU list does not give a date for this report, so the reported date is based on its position in the TGEU list.
 
-TvT project: Trans Organization Silueta X",http://tdor.translivesmatter.info/reports/2014/02/28/name-unknown_guayaquil-ecuador_b5239624
+TvT project: Trans Organization Silueta X",,https://tdor.translivesmatter.info/reports/2014/02/28/name-unknown_guayaquil-ecuador_b5239624
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
