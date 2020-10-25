@@ -1,5 +1,5 @@
-Name,Age,Photo,Photo source,Date,Source ref,Location,Country,Latitude,Longitude,Cause of death,Description,Permalink
-Alison Cohuo Pech,26,2012_12_01_Alison-Cohuo-Pech.jpg,https://noticaribenews.blogspot.com/2012/12/jornada-sangrienta-asesinan-con-brutal.html,1-Dec-2012,tgeu/1 Dec 2012/Alison Cohuo Pech,"Cancún, Quintana Roo",Mexico,21.170891,-86.840317,stabbed,"Alison was tortured and stabbed more than 30 times by the ""Los Pelones"" criminal gang.
+﻿Name,Age,Birthdate,Photo,Photo source,Date,Source ref,Location,State/Province,Country,Latitude,Longitude,Category,Cause of death,Description,Tweet,Permalink
+Alison Cohuo Pech,26,,2012_12_01_Alison-Cohuo-Pech.jpg,https://noticaribenews.blogspot.com/2012/12/jornada-sangrienta-asesinan-con-brutal.html,1-Dec-2012,tgeu/1-Dec-2012/Alison Cohuo Pech,Cancún,Quintana Roo,Mexico,21.170891,-86.840317,violence,stabbed,"Alison was tortured and stabbed more than 30 times by the ""Los Pelones"" criminal gang.
 
 > The now deceased was found on a dirt road in Region 511, eight meters from Nichupté Avenue and to one side of the Aguakan wastewater station in the southeast of the city. The subject was identified as Alison Cohuo Pech, approximately 26 years old, of stylistic occupation, of the state of Yucatan (a) ""Allison"", who was known as sex worker of the avenue Yaxchilán, Tulum and in the Supermanzana 63, same that had 62 arrests, two of them for theft.
 > 
@@ -21,8 +21,8 @@ https://noticaribenews.blogspot.com/2012/12/jornada-sangrienta-asesinan-con-brut
 
 https://noticaribe.com.mx/2012/12/22/liberarian-a-4-de-los-6-pelones-involucrados-en-ejecuciones-en-cancun/
 
-https://noticaribe.com.mx/2012/12/01/de-manera-brutal-asesinan-a-otro-travesti-en-cancun/",http://tdor.translivesmatter.info/reports/2012/12/01/alison-cohuo-pech_cancun-quintana-roo-mexico_ab05051c
-Yeisi Ramirez Acosta,22,2012_12_03_Yeisi-Ramirez-Acosta.jpg,https://www.eluniversal.com.co/sucesos/matan-travesti-y-hallan-muerta-desaparecida-100841-JAEU186384,3-Dec-2012,tgeu/3 Dec 2012/Yeisi (Yeison) Ramirez Acosta,"Magangué, Bolívar",Colombia,3.45188,-76.55094,stabbed,"Yeisi was stabbed 7 times in the abdomen, chest and face by a client. She died in hospital. An hour later, the police arrested Víctor York Rojas López, 28, in the Versailles neighborhood.
+https://noticaribe.com.mx/2012/12/01/de-manera-brutal-asesinan-a-otro-travesti-en-cancun/",,http://tdor.translivesmatter.info/reports/2012/12/01/alison-cohuo-pech_cancun-quintana-roo-mexico_ab05051c
+Yeisi Ramirez Acosta,22,,2012_12_03_Yeisi-Ramirez-Acosta.jpg,https://www.eluniversal.com.co/sucesos/matan-travesti-y-hallan-muerta-desaparecida-100841-JAEU186384,3-Dec-2012,tgeu/3-Dec-2012/Yeisi (Yeison) Ramirez Acosta,Magangué,Bolívar,Colombia,3.45188,-76.55094,violence,stabbed,"Yeisi was stabbed 7 times in the abdomen, chest and face by a client. She died in hospital. An hour later, the police arrested Víctor York Rojas López, 28, in the Versailles neighborhood.
 
 > There are two hypotheses about motives. Some say her killer ws a client who offered her $5,000 for sex. Yeisi would have accepted and gone with the subject to the Central Cemetery of Magangué (which is used as a motel by several local sex workers, either because of lack of money to enter a motel or because they are denied entry, according to Wilson Castañeda, director of the Caribe Afirmative organization, which defends the rights of the LGBT population). Then there would have been an argument between Yeisi and her client, in which the latter ended up stabbing the trans woman.
 > 
@@ -32,8 +32,8 @@ TvT project: El Espacio, 07.12.2012
 
 https://www.eluniversal.com.co/sucesos/matan-travesti-y-hallan-muerta-desaparecida-100841-JAEU186384
 
-http://www.elespacio.com.co/archivo/component/content/article/123-judicial/jd2/jd2-2i/61312-asesinado-travesti-en-cementerio [BROKEN LINK}",http://tdor.translivesmatter.info/reports/2012/12/03/yeisi-yeison-ramirez-acosta_magangue-bolivar-colombia_38095c8d
-Dicky Othman,52,2012_12_04_Dicky-Othman.jpg,https://syahrilkadir.wordpress.com/2012/12/05/pembunuhan-dicky-othman/,4-Dec-2012,tdor.info/4 Dec 2012/Dicky Othman,"Kampung Kasipillay, Kuala Lumpur",Malaysia,3.17538,101.68242,strangled,"Dicky was found dead in his home in Kampung Kasipillay. His hands and feet were tied with a piece of cloth.
+http://www.elespacio.com.co/archivo/component/content/article/123-judicial/jd2/jd2-2i/61312-asesinado-travesti-en-cementerio [BROKEN LINK}",,http://tdor.translivesmatter.info/reports/2012/12/03/yeisi-yeison-ramirez-acosta_magangue-bolivar-colombia_38095c8d
+Dicky Othman,52,,2012_12_04_Dicky-Othman.jpg,https://syahrilkadir.wordpress.com/2012/12/05/pembunuhan-dicky-othman/,4-Dec-2012,tdor.info/4-Dec-2012/Dicky Othman,"Kampung Kasipillay, Kuala Lumpur",,Malaysia,3.17538,101.68242,violence,strangled,"Dicky was found dead in his home in Kampung Kasipillay. His hands and feet were tied with a piece of cloth.
 
 > KUALA LUMPUR: Singer and actress Amy Mastura’s former make-up artist, Dicky, was found dead with hands and feet tied with a piece of cloth at his home in Kampung Kasipillay on Tuesday.
 >
@@ -47,8 +47,8 @@ https://web.archive.org/web/20130109094321/http://www.nst.com.my:80/latest/make-
 
 https://syahrilkadir.wordpress.com/2012/12/05/pembunuhan-dicky-othman/
 
-http://www.dapurkakjee.com/2012/12/al-fatihah-kehilangan-yang-cukup-dirasai.html",https://tdor.translivesmatter.info/reports/2012/12/04/dicky-othman_kampung-kasipillay-kuala-lumpur-malaysia_669f227a
-Renata Espinosa Reyes,23,,,5-Dec-2012,tgeu/5 Dec 2012/Renata,"Toluca, Distrito Capital",Mexico,19.292545,-99.656901,shot,"Renata was shot in the back after refusing potential clients who knocked on her door.
+http://www.dapurkakjee.com/2012/12/al-fatihah-kehilangan-yang-cukup-dirasai.html",,https://tdor.translivesmatter.info/reports/2012/12/04/dicky-othman_kampung-kasipillay-kuala-lumpur-malaysia_669f227a
+Renata Espinosa Reyes,23,,,,5-Dec-2012,tgeu/5-Dec-2012/Renata,Toluca,Distrito Capital,Mexico,19.292545,-99.656901,violence,shot,"Renata was shot in the back after refusing potential clients who knocked on her door.
 
 > Apparently for refusing to perform a sexual service, a [transgender] sex worker was shot dead yesterday. She was shot at least 4 times, although at least 11 gunshot cartridges of different calibres were located at the scene of the murder.
 >
@@ -60,29 +60,29 @@ Renata Espinosa Reyes,23,,,5-Dec-2012,tgeu/5 Dec 2012/Renata,"Toluca, Distrito C
 
 TvT project: El Universal, 13.12.2012 & Diario Portal, 13.12.12
 
-https://web.archive.org/web/20141120202139/http://www.oem.com.mx/elsoldetoluca/notas/n2798413.htm",http://tdor.translivesmatter.info/reports/2012/12/05/renata-espinosa-reyes_toluca-mexico_de0a8f88
-Maura Ribeira,27,,,6-Dec-2012,06/12/12/Maura Ribeira,Callao,Peru,-12.003604,-77.118925,throat cut,"Maura was brutally murdered. The perpetrator first cut her wrists and then her throat.
+https://web.archive.org/web/20141120202139/http://www.oem.com.mx/elsoldetoluca/notas/n2798413.htm",,http://tdor.translivesmatter.info/reports/2012/12/05/renata-espinosa-reyes_toluca-mexico_de0a8f88
+Maura Ribeira,27,,,,6-Dec-2012,tgeu/6-Dec-2012/Maura Ribeira,Callao,Lima,Peru,-12.003604,-77.118925,violence,throat cut,"Maura was brutally murdered. The perpetrator first cut her wrists and then her throat.
 
-TvT project: Panamericana TV, 07.12.2012",http://tdor.translivesmatter.info/reports/2012/12/06/maura-ribeira_callao-peru_baa0c7a0
-Name Unknown,,,,6-Dec-2012,06/12/12/Name Unknown,,Colombia,3.904655,-73.076401,not reported,"The organisation CARIBE mentioned this case together with four others in a report.
+TvT project: Panamericana TV, 07.12.2012",,http://tdor.translivesmatter.info/reports/2012/12/06/maura-ribeira_callao-lima-peru_baa0c7a0
+Name Unknown,,,,,6-Dec-2012,tgeu/6-Dec-2012/Name Unknown,,,Colombia,3.904655,-73.076401,violence,not reported,"The organisation CARIBE mentioned this case together with four others in a report.
 
-TvT partner organization: Centro de Apoyo a las Identidades Trans Universal.com, Periódico Online 06H12H12",http://tdor.translivesmatter.info/reports/2012/12/06/name-unknown_colombia_cc130ac6
-Name Unknown,,,,6-Dec-2012,06/12/12/Name Unknown,,Colombia,3.904655,-73.076401,not reported,"The organisation CARIBE mentioned this case together with four others in a report.
+TvT partner organization: Centro de Apoyo a las Identidades Trans Universal.com, Periódico Online 06H12H12",,http://tdor.translivesmatter.info/reports/2012/12/06/name-unknown_colombia_cc130ac6
+Name Unknown,,,,,6-Dec-2012,tgeu/6-Dec-2012/Name Unknown,,,Colombia,3.904655,-73.076401,violence,not reported,"The organisation CARIBE mentioned this case together with four others in a report.
 
-TvT partner organization: Centro de Apoyo a las Identidades Trans Universal.com, Periódico Online 06H12H12",http://tdor.translivesmatter.info/reports/2012/12/06/name-unknown_colombia_87c61a85
-Name Unknown,,,,6-Dec-2012,06/12/12/Name Unknown,,Colombia,3.904655,-73.076401,not reported,"The organisation CARIBE mentioned this case together with four others in a report.
+TvT partner organization: Centro de Apoyo a las Identidades Trans Universal.com, Periódico Online 06H12H12",,http://tdor.translivesmatter.info/reports/2012/12/06/name-unknown_colombia_87c61a85
+Name Unknown,,,,,6-Dec-2012,tgeu/6-Dec-2012/Name Unknown,,,Colombia,3.904655,-73.076401,violence,not reported,"The organisation CARIBE mentioned this case together with four others in a report.
 
-TvT partner organization: Centro de Apoyo a las Identidades Trans Universal.com, Periódico Online 06H12H12",http://tdor.translivesmatter.info/reports/2012/12/06/name-unknown_colombia_1174614f
-Name Unknown,,,,6-Dec-2012,06/12/12/Name Unknown,,Colombia,3.904655,-73.076401,not reported,"The organisation CARIBE mentioned this case together with four others in a report.
+TvT partner organization: Centro de Apoyo a las Identidades Trans Universal.com, Periódico Online 06H12H12",,http://tdor.translivesmatter.info/reports/2012/12/06/name-unknown_colombia_1174614f
+Name Unknown,,,,,6-Dec-2012,tgeu/6-Dec-2012/Name Unknown,,,Colombia,3.904655,-73.076401,violence,not reported,"The organisation CARIBE mentioned this case together with four others in a report.
 
-TvT partner organization: Centro de Apoyo a las Identidades Trans Universal.com, Periódico Online 06H12H12",http://tdor.translivesmatter.info/reports/2012/12/06/name-unknown_colombia_63a71105
-Francisco René Zaldívar Robles,35,,,7-Dec-2012,07/12/12/Francisco René Zaldívar Robles,San Luis Potosi,Mexico,22.151647,-100.976399,stoned,"The victim's body was found near a canal showing strokes, which were caused by stones.
+TvT partner organization: Centro de Apoyo a las Identidades Trans Universal.com, Periódico Online 06H12H12",,http://tdor.translivesmatter.info/reports/2012/12/06/name-unknown_colombia_63a71105
+Francisco René Zaldívar Robles,35,,,,7-Dec-2012,tgeu/7-Dec-2012/Francisco René Zaldívar Robles,,San Luis Potosí,Mexico,22.151647,-100.976399,violence,stoned,"The victim's body was found near a canal showing strokes, which were caused by stones.
 
-TvT partner organization: Centro de Apoyo a las Identidades Trans Policiaca.com, periódico online, 08H12H12",http://tdor.translivesmatter.info/reports/2012/12/07/francisco-rene-zaldivar-robles_san-luis-potosi-mexico_c7b82875
-Thongam Romeo,28,,,14-Dec-2012,14 Dec 2012/Thongam Romeo,Imphal,India,24.800609,93.937,hanged,"
+TvT partner organization: Centro de Apoyo a las Identidades Trans Policiaca.com, periódico online, 08H12H12",,http://tdor.translivesmatter.info/reports/2012/12/07/francisco-rene-zaldivar-robles_san-luis-potosi-mexico_c7b82875
+Thongam Romeo,28,,,,14-Dec-2012,tgeu/14-Dec-2012/Thongam Romeo,Imphal,Manipur,India,24.800609,93.937,violence,hanged,"
 
-TvT project: Imphal Free Press, 14.12.2012",http://tdor.translivesmatter.info/reports/2012/12/14/thongam-romeo_imphal-india_fb5abce7
-Gunce Hatun,19,,,15-Dec-2012,tgeu/15 Dec 2012/Gunce Hatun,Istanbul,Turkey,41.017058,28.985568,shot,"Gunce was shot dead on the street. Police arrested a man who is a driver for a private bank. He claimed Hatun tried to force her way into his car.
+TvT project: Imphal Free Press, 14.12.2012",,http://tdor.translivesmatter.info/reports/2012/12/14/thongam-romeo_imphal-manipur-india_fb5abce7
+Gunce Hatun,19,,,,15-Dec-2012,tgeu/15-Dec-2012/Gunce Hatun,Istanbul,Istanbul,Turkey,41.017058,28.985568,violence,shot,"Gunce was shot dead on the street. Police arrested a man who is a driver for a private bank. He claimed Hatun tried to force her way into his car.
 
 > A trans women from Beylikduzu in Istanbul was shot last Saturday, tragically extending 2012’s list of murdered transgender women in Turkey.
 >
@@ -92,35 +92,14 @@ Gunce Hatun,19,,,15-Dec-2012,tgeu/15 Dec 2012/Gunce Hatun,Istanbul,Turkey,41.017
 
 TvT project: Gay Star News, 19.12.2012
 
-https://www.gaystarnews.com/article/trans-murder-toll-rises-again-turkey191212/",http://tdor.translivesmatter.info/reports/2012/12/15/gunce-hatun_istanbul-turkey_b228f7f5
-Name Unknown,,,,16-Dec-2012,16 Dec 2012/NN,San Pedro Sula,Honduras,15.505647,-88.024196,shot,"The victim was brought to the hospital with gunshot wounds in the head. She later died in the hospital.
+https://www.gaystarnews.com/article/trans-murder-toll-rises-again-turkey191212/",,http://tdor.translivesmatter.info/reports/2012/12/15/gunce-hatun_istanbul-turkey_b228f7f5
+Name Unknown,,,,,16-Dec-2012,tgeu/16-Dec-2012/NN,San Pedro Sula,Cortés,Honduras,15.505647,-88.024196,violence,shot,"The victim was brought to the hospital with gunshot wounds in the head. She later died in the hospital.
 
-TvT partner organization: Centro de Apoyo a las Identidades Trans. El Tiempo, periódico online 17H12H12",http://tdor.translivesmatter.info/reports/2012/12/16/name-unknown_san-pedro-sula-honduras_a9a69c6d
-Jonara (Romario) Gomes dos Santos,,,,21-Dec-2012,21 Dec 2012/Jonara (Romario) Gomes dos Santos,Socorro,Brazil,-22.590264,-46.525118,stabbed,"The police arrested a suspect who confessed the murder stating  revenge  as a motive.
+TvT partner organization: Centro de Apoyo a las Identidades Trans. El Tiempo, periódico online 17H12H12",,http://tdor.translivesmatter.info/reports/2012/12/16/name-unknown_san-pedro-sula-cortes-honduras_a9a69c6d
+Jonara (Romario) Gomes dos Santos,,,,,21-Dec-2012,tgeu/21-Dec-2012/Jonara (Romario) Gomes dos Santos,Socorro,São Paulo,Brazil,-22.590264,-46.525118,violence,stabbed,"The police arrested a suspect who confessed the murder stating  revenge  as a motive.
 
-TvT project: Homofobiamata.wordpress, 21.12.2012",http://tdor.translivesmatter.info/reports/2012/12/21/jonara-romario-gomes-dos-santos_socorro-brazil_7c5a5a81
-Dalva Alves Pereira,37,,,24-Dec-2012,tgeu/24 Dec 2012/Dalva (Jose (Dalvanei Alves Pereira,"Novo Gama, Goiás",Brazil,-16.050442,-48.031196,decapitated,"Dalva and her partner Camila were both decapitated in their home. After the murders the perpetrator(s) set the house on fire. 
-
-Family members reported that they had previously received death threats, and police investigated the murder as a homophobic hate crime.
-
-> A homosexual couple was beheaded and burned indoors at dawn on Monday (24) in the Pedregal, neighborhood of Novo Gama (GO), region of the Surrounding DF. The information was passed on by the 5th Regional Command of the Goiás State Military Police.
->
-> Police said 37-year-old [deadname] Alves Pereira was living with a [trans woman] identified so far only as Camila, for a year or so. Pereira's stepfather stated that neither of them had involvement with drugs, but they used to drink. On Sunday night (23), the couple had been involved in a dispute after drinking in a local bar. Pereira's mother also reported that her [daughter] had received threats from her neighbor in recent days because she was dating her husband.
->
-> On Tueday police arrested Alex Brito, Carlinda de Araújo and Diego Nogueira in Novo Gama, a city around the Federal District. The trio were apprehended after police officers received information about the whereabouts of the suspects.
->
-> At the police station the three suspects denied involvement in the crime but said they knew the couple. On Monday, a ten-year-old found a machete that may have been used in the crime. Agents took the weapon to be expert. The information comes from the 5th Regional Command of the Goiás State Military Police.
->
-> Initially, the neighbors started the fire department, believing it was just a fire, and it was the firefighters who discovered the crime on arrival, finding both bodies without their heads and charred. The incident was reported at the Integrated Operations and Security Center (Ciops), which was later called after people found both heads thrown in the middle of the street, near where the bodies were found.
-
-TvT project: Homofobiamata.wordpress, 24.12.2012 & Myclipp info, 25.12.2012
-
-https://www.emaisgoias.com.br/vai-a-julgamento-grupo-acusado-de-homicidio-contra-dois-travestis-em-novo-gama/
-
-https://satelitenoticias.blogspot.com/2012/12/casal-homossexual-e-morto-e-decapitado.html
-
-https://mandacarurn.blogspot.com/2012/12/decapitados-e-queimados-em-casa-motivo.html",https://tdor.translivesmatter.info/reports/2012/12/24/dalva-alves-pereira_novo-gama-goias-brazil_12e4f904
-Camila,,,,24-Dec-2012,tgeu/24 Dec 2012/Camila,"Novo Gama, Goiás",Brazil,-16.050442,-48.031196,decapitated,"Camila and her partner Dalva were both decapitated in their home. After the murders the perpetrator(s) set the house on fire. 
+TvT project: Homofobiamata.wordpress, 21.12.2012",,http://tdor.translivesmatter.info/reports/2012/12/21/jonara-romario-gomes-dos-santos_socorro-sao-paulo-brazil_7c5a5a81
+Dalva Alves Pereira,37,,,,24-Dec-2012,tgeu/24-Dec-2012/Dalva (Jose (Dalvanei Alves Pereira,Novo Gama,Goiás,Brazil,-16.050442,-48.031196,violence,decapitated,"Dalva and her partner Camila were both decapitated in their home. After the murders the perpetrator(s) set the house on fire. 
 
 Family members reported that they had previously received death threats, and police investigated the murder as a homophobic hate crime.
 
@@ -140,18 +119,39 @@ https://www.emaisgoias.com.br/vai-a-julgamento-grupo-acusado-de-homicidio-contra
 
 https://satelitenoticias.blogspot.com/2012/12/casal-homossexual-e-morto-e-decapitado.html
 
-https://mandacarurn.blogspot.com/2012/12/decapitados-e-queimados-em-casa-motivo.html",https://tdor.translivesmatter.info/reports/2012/12/24/camila_novo-gama-goias-brazil_dff5160f
-Name Unknown,25,,,26-Dec-2012,tgeu/26 Dec 2012/Name Unknown,Aracaju,Brazil,-10.916206,-37.077466,not reported,"The victim was black. and was found dead on the morning of Wedesday 26th December. She may have been raped before she was murdered.
+https://mandacarurn.blogspot.com/2012/12/decapitados-e-queimados-em-casa-motivo.html",,https://tdor.translivesmatter.info/reports/2012/12/24/dalva-alves-pereira_novo-gama-goias-brazil_12e4f904
+Camila,,,,,24-Dec-2012,tgeu/24-Dec-2012/Camila,Novo Gama,Goiás,Brazil,-16.050442,-48.031196,violence,decapitated,"Camila and her partner Dalva were both decapitated in their home. After the murders the perpetrator(s) set the house on fire. 
+
+Family members reported that they had previously received death threats, and police investigated the murder as a homophobic hate crime.
+
+> A homosexual couple was beheaded and burned indoors at dawn on Monday (24) in the Pedregal, neighborhood of Novo Gama (GO), region of the Surrounding DF. The information was passed on by the 5th Regional Command of the Goiás State Military Police.
+>
+> Police said 37-year-old [deadname] Alves Pereira was living with a [trans woman] identified so far only as Camila, for a year or so. Pereira's stepfather stated that neither of them had involvement with drugs, but they used to drink. On Sunday night (23), the couple had been involved in a dispute after drinking in a local bar. Pereira's mother also reported that her [daughter] had received threats from her neighbor in recent days because she was dating her husband.
+>
+> On Tueday police arrested Alex Brito, Carlinda de Araújo and Diego Nogueira in Novo Gama, a city around the Federal District. The trio were apprehended after police officers received information about the whereabouts of the suspects.
+>
+> At the police station the three suspects denied involvement in the crime but said they knew the couple. On Monday, a ten-year-old found a machete that may have been used in the crime. Agents took the weapon to be expert. The information comes from the 5th Regional Command of the Goiás State Military Police.
+>
+> Initially, the neighbors started the fire department, believing it was just a fire, and it was the firefighters who discovered the crime on arrival, finding both bodies without their heads and charred. The incident was reported at the Integrated Operations and Security Center (Ciops), which was later called after people found both heads thrown in the middle of the street, near where the bodies were found.
+
+TvT project: Homofobiamata.wordpress, 24.12.2012 & Myclipp info, 25.12.2012
+
+https://www.emaisgoias.com.br/vai-a-julgamento-grupo-acusado-de-homicidio-contra-dois-travestis-em-novo-gama/
+
+https://satelitenoticias.blogspot.com/2012/12/casal-homossexual-e-morto-e-decapitado.html
+
+https://mandacarurn.blogspot.com/2012/12/decapitados-e-queimados-em-casa-motivo.html",,https://tdor.translivesmatter.info/reports/2012/12/24/camila_novo-gama-goias-brazil_dff5160f
+Name Unknown,25,,,,26-Dec-2012,tgeu/26-Dec-2012/Name Unknown,Aracaju,Sergipe,Brazil,-10.916206,-37.077466,violence,murdered,"The victim was black. and was found dead on the morning of Wedesday 26th December. She may have been raped before she was murdered.
 
 > A 25-year-old [trans woman] was found dead on the morning of Wednesday, 26. She was lying on her back in the stands of the Creativity Center located in the Getulio Vargas neighborhood of Aracaju , Sergipe . She may have been a victim of rape as her panties were lowered to the knees.
 
 TvT project: Globo, 26.12.2012
 
-http://g1.globo.com/se/sergipe/noticia/2012/12/travesti-e-encontrado-morto-com-sinais-de-estupro-em-aracaju.html",https://tdor.translivesmatter.info/reports/2012/12/26/name-unknown_aracaju-brazil_87aa96f2
-(Bura) Srinivas,35,,,28-Dec-2012,28 Dec 2012/(Bura) Srinivas,Visakhapatnam,India,17.723128,83.301284,tortured,"The victim was in police custody and was brought to a hospital, where she died. Civil liberties organizations alleged that the victim died after she was tortured by the police and have demanded a judicial inquiry. Police authorities made wild allegations against the deceased in a bid to discredit him and hush up the case. They argued that the victim was 'a vagabond after he lost his parents when he was a teenager and had even become a eunuch.' Newspapers reported, that this takes the total count of custodial deaths in the police station to four in the last two years.
+http://g1.globo.com/se/sergipe/noticia/2012/12/travesti-e-encontrado-morto-com-sinais-de-estupro-em-aracaju.html",,https://tdor.translivesmatter.info/reports/2012/12/26/name-unknown_aracaju-sergipe-brazil_87aa96f2
+(Bura) Srinivas,35,,,,28-Dec-2012,tgeu/28-Dec-2012/(Bura) Srinivas,Visakhapatnam,Andhra Pradesh,India,17.723128,83.301284,violence,tortured,"The victim was in police custody and was brought to a hospital, where she died. Civil liberties organizations alleged that the victim died after she was tortured by the police and have demanded a judicial inquiry. Police authorities made wild allegations against the deceased in a bid to discredit him and hush up the case. They argued that the victim was 'a vagabond after he lost his parents when he was a teenager and had even become a eunuch.' Newspapers reported, that this takes the total count of custodial deaths in the police station to four in the last two years.
 
-TvT project: The Times of India, 29.12.2012 & 29.12.2012",http://tdor.translivesmatter.info/reports/2012/12/28/bura-srinivas_visakhapatnam-india_3f22edb2
-Raissa Quevedo da Fonseca,32,,,31-Dec-2012,31 Dec 2012/Raissa (Edivaldo) Quevedo da Fonseca,Campo Grande,Brazil,-20.47053,-54.624352,not reported,"Raíssa's body was found under an overpass. The cause of her death was not reported, but drug paraphernalia was found at the scene.
+TvT project: The Times of India, 29.12.2012 & 29.12.2012",,http://tdor.translivesmatter.info/reports/2012/12/28/bura-srinivas_visakhapatnam-andhra-pradesh-india_3f22edb2
+Raissa Quevedo da Fonseca,32,,,,31-Dec-2012,tgeu/31-Dec-2012/Raissa (Edivaldo) Quevedo da Fonseca,Campo Grande,Mato Grosso do Sul,Brazil,-20.47053,-54.624352,uncategorised,not reported,"Raíssa's body was found under an overpass. The cause of her death was not reported, but drug paraphernalia was found at the scene.
 
 > A 32-year-old [trans woman] was found dead on Monday, under an overpass located in the Aero Rancho neighborhood in Campo Grande. Edivaldo Quevedo da Fonseca was known in the region as 'Raíssa' and was a drug user.
 >
@@ -169,17 +169,17 @@ http://www.midiamax.com/noticias/831628-corpo+travesti+encontrado+embaixo+viadut
 
 https://aquidauananews.com/0,0,00,8775-217175-CORPO+DE+TRAVESTI+ENCONTRADO+EMBAIXO+DE+VIADUTO+EM+BAIRRO+DE+CG.htm [BROKEN LINK]
 
-https://correiodoestado.com.br//noticias/policia-investiga-morte-de-travesti-encontrado-debaixo-de-po_170512 [BROKEN LINK]",https://tdor.translivesmatter.info/reports/2012/12/31/raissa-quevedo-da-fonseca_campo-grande-brazil_1aead070
-(Luis Carlos) Guerra Susaya,39,,,31-Dec-2012,31 Dec 2012/(Luis Carlos) Guerra Susaya,Milan,Italy,45.466797,9.190498,beaten,"The victim was of Peruvian descent.
+https://correiodoestado.com.br//noticias/policia-investiga-morte-de-travesti-encontrado-debaixo-de-po_170512 [BROKEN LINK]",,https://tdor.translivesmatter.info/reports/2012/12/31/raissa-quevedo-da-fonseca_campo-grande-mato-grosso-do-sul-brazil_1aead070
+(Luis Carlos) Guerra Susaya,39,,,,31-Dec-2012,tgeu/31-Dec-2012/(Luis Carlos) Guerra Susaya,Milan,Lombardy,Italy,45.466797,9.190498,violence,beaten,"The victim was of Peruvian descent.
 
-TvT project: Trome.pe, 03.01.2013 & Crimeblog.it, 02.01.2013",http://tdor.translivesmatter.info/reports/2012/12/31/luis-carlos-guerra-susaya_milan-italy_171d190f
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
+TvT project: Trome.pe, 03.01.2013 & Crimeblog.it, 02.01.2013",,http://tdor.translivesmatter.info/reports/2012/12/31/luis-carlos-guerra-susaya_milan-lombardy-italy_171d190f
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,

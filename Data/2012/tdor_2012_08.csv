@@ -1,10 +1,10 @@
-﻿Name,Age,Photo,Photo source,Date,Source ref,Location,Country,Latitude,Longitude,Cause of death,Description,Permalink
-Barbarita (Marlon Javier) Jiménez Alemán,21,,,2-Aug-2012,02 Aug 2012/Barbarita (Marlon Javier) Jiménez Alemán,"Colonia San Martín, San Pedro Sula",Honduras,15.53239,-88.03615,shot,"Supposed agents of the National Office of the Investigation of Crimes (DNIC) appeared at Barbita Jiménez Alemán’s house. They stated they were prosecuting an offender and said they needed to take the victim to the police station for the investigation.
+﻿Name,Age,Birthdate,Photo,Photo source,Date,Source ref,Location,State/Province,Country,Latitude,Longitude,Category,Cause of death,Description,Tweet,Permalink
+Barbarita (Marlon Javier) Jiménez Alemán,21,,,,2-Aug-2012,tgeu/2-Aug-2012/Barbarita (Marlon Javier) Jiménez Alemán,San Pedro Sula,Cortés,Honduras,15.53239,-88.03615,violence,shot,"Supposed agents of the National Office of the Investigation of Crimes (DNIC) appeared at Barbita Jiménez Alemán’s house in Colonia San Martín. They stated they were prosecuting an offender and said they needed to take the victim to the police station for the investigation.
 
 When family members went to the police station the following day, they learned that nobody had been detained, but they had found the victim’s body. The body showed various shot wounds, especially in the head and face. Her hands were tied behind her back.
 
-TvT partner organisation Centro de Apoyo a las Identidades Trans: Periódico La Tribuna Online. 03.08.20 12",https://tdor.translivesmatter.info/reports/2012/08/02/barbarita-marlon-javier-jimenez-aleman_colonia-san-martin-san-pedro-sula-honduras_2206e76a
-Kendall Hampton,26,2012_08_04_Kendall-Hampton.jpg,https://www.advocate.com/crime/2012/08/23/ohio-murder-shines-national-spotlight-lgbt-violence,4-Aug-2012,tgeu/4 Aug 2012/Kendall Hampton,"Cincinnati, Ohio",USA,39.1259231,-84.4920316,shot,"Kendall was shot while walking to a convenience store. She died in hospital.
+TvT partner organisation Centro de Apoyo a las Identidades Trans: Periódico La Tribuna Online. 03.08.20 12",,https://tdor.translivesmatter.info/reports/2012/08/02/barbarita-marlon-javier-jimenez-aleman_san-pedro-sula-cortes-honduras_2206e76a
+Kendall Hampton,26,,2012_08_04_Kendall-Hampton.jpg,https://www.advocate.com/crime/2012/08/23/ohio-murder-shines-national-spotlight-lgbt-violence,4-Aug-2012,tgeu/4-Aug-2012/Kendall Hampton,Cincinnati,Ohio,USA,39.1259231,-84.4920316,violence,shot,"Kendall was shot while walking to a convenience store. She died in hospital.
 
 > The National Coalition of Anti-Violence Programs is calling attention to the fatal shooting of Kendall L. Hampton, a gender-nonconforming person who had reportedly been involved in sex work.
 >
@@ -34,11 +34,11 @@ https://www.advocate.com/crime/2012/08/23/ohio-murder-shines-national-spotlight-
 
 https://unfinishedlivesblog.com/2012/08/27/transgender-murder-in-cincinnati-part-of-alarming-national-trend/
 
-https://web.archive.org/web/20120923210712/http://www.local12.com/mostpopular/story/Family-Prays-For-Answers-in-Murder-of-Walnut/4aaVspm2rE-YIFnMAYUaew.cspx",https://tdor.translivesmatter.info/reports/2012/08/04/kendall-hampton_cincinnati-ohio-usa_882149f3
-Nelson Daniel Cruz,26,,,5-Aug-2012,"August, 2012/Nelson Daniel Cruz","Zona 1, Guatemala City",Guatemala,14.63973,-90.50975,stabbed,"The victim was reportedly stabbed to death by another trans person.
+https://web.archive.org/web/20120923210712/http://www.local12.com/mostpopular/story/Family-Prays-For-Answers-in-Murder-of-Walnut/4aaVspm2rE-YIFnMAYUaew.cspx",,https://tdor.translivesmatter.info/reports/2012/08/04/kendall-hampton_cincinnati-ohio-usa_882149f3
+Nelson Daniel Cruz,26,,,,5-Aug-2012,tgeu/Aug-2012/Nelson Daniel Cruz,Ciudad de Guatemala,Guatemala,Guatemala,14.63973,-90.50975,violence,stabbed,"The victim was reportedly stabbed to death by another trans person.
 
-TvT partner organization: Centro de Apoyo a las Identidades Trans www.prensalibre.com 05.08.2012",https://tdor.translivesmatter.info/reports/2012/08/05/nelson-daniel-cruz_zona--guatemala-city-guatemala_f24d226e
-Shania Vanesa Ávila Mendoza,27,2012_08_05_Shania-Vanesa-Avila-Mendoza.jpg,https://www.facebook.com/photo.php?fbid=3833056063626&set=a.2603402963067&type=3&theater,5-Aug-2012,tgeu/05 Aug 2012/Shania Vanesa (Delimiro) Ávila Mendoza,"Sincelejo, Sucre",Colombia,9.297339,-75.39266,shot,"Shania was shot in the head by a client.
+TvT partner organization: Centro de Apoyo a las Identidades Trans www.prensalibre.com 05.08.2012",,https://tdor.translivesmatter.info/reports/2012/08/05/nelson-daniel-cruz_ciudad-de-guatemala-guatemala_f24d226e
+Shania Vanesa Ávila Mendoza,27,,2012_08_05_Shania-Vanesa-Avila-Mendoza.jpg,https://www.facebook.com/photo.php?fbid=3833056063626&set=a.2603402963067&type=3&theater,5-Aug-2012,tgeu/5-Aug-2012/Shania Vanesa (Delimiro) Ávila Mendoza,Sincelejo,Sucre,Colombia,9.297339,-75.39266,violence,shot,"Shania was shot in the head by a client.
 
 > In 2012, a total of 17 members of the Lesbian, Gay, Bisexual and Transgender community in the Caribbean Region were victims of attacks on their lives, according to the Caribe Affirmative report. Shania Vanessa was with her co-workers at 3:30 in the morning of August 5, 2012 on 22nd Street and Carrera 17 in the center of Sincelejo. The trans woman was approached by a young man, no older than 20, who was traveling on a black motorcycle and asked her to accompany him to a motel to have sex. Hours later, Shania Vanessa was found dead in an abandoned spot in the capital Sucreña with a bullet in the head.
 > 
@@ -54,25 +54,25 @@ Note that tdor.info gives Shania's date of death as 4 Aug 2012 and her name as T
 
 TvT partner organisation Centro de Apoyo a las Identidades Trans: El Meridiano de Cordova.com  07.08.2012
 
-https://www.eluniversal.com.co/regional/lgbt-comunidad-sitiada-por-todo-tipo-de-riesgos-113593-HSEU200447",https://tdor.translivesmatter.info/reports/2012/08/05/shania-vanesa-avila-mendoza_sincelejo-sucre-colombia_fa8755e9
-Vanderson Viegas Silva,,,,5-Aug-2012,tdor.info/8-26-2012/Vanderson Viegas Silva,São Paulo ,Brazil,-23.550651,-46.633382,run over,Dragged two blocks by a car,https://tdor.translivesmatter.info/reports/2012/08/05/vanderson-viegas-silva_sao-paulo--brazil_a6db5db0
-Dandara (José) Iraquitam da Costa,32,,,7-Aug-2012,07 Aug 2012/Dandara (José) Iraquitam da Costa,"Natal, RN",Brazil,-5.805398,-35.208091,beaten,"
+https://www.eluniversal.com.co/regional/lgbt-comunidad-sitiada-por-todo-tipo-de-riesgos-113593-HSEU200447",,https://tdor.translivesmatter.info/reports/2012/08/05/shania-vanesa-avila-mendoza_sincelejo-sucre-colombia_fa8755e9
+Vanderson Viegas Silva,,,,,5-Aug-2012,tdor.info/5-Aug-2012/Vanderson Viegas Silva,,São Paulo ,Brazil,-23.550651,-46.633382,violence,run over,Dragged two blocks by a car,,https://tdor.translivesmatter.info/reports/2012/08/05/vanderson-viegas-silva_sao-paulo--brazil_a6db5db0
+Dandara (José) Iraquitam da Costa,32,,,,7-Aug-2012,tgeu/7-Aug-2012/Dandara (José) Iraquitam da Costa,Natal,Rio Grande do Norte,Brazil,-5.805398,-35.208091,violence,beaten,"
 
-TvT project: Quem a Homofobia Matou Hoje?, online portal, 07.08.2012",https://tdor.translivesmatter.info/reports/2012/08/07/dandara-jose-iraquitam-da-costa_natal-rn-brazil_b7b41818
-Name Unknown,,,,7-Aug-2012,"August, 2012/N.N.","Tres Lagoas, MS",Brazil,-20.791652,-51.711103,stabbed,"The victim's body was found in a rural area on 7 August 2012 and had been lying there for at least 30 days.
+TvT project: Quem a Homofobia Matou Hoje?, online portal, 07.08.2012",,https://tdor.translivesmatter.info/reports/2012/08/07/dandara-jose-iraquitam-da-costa_natal-rio-grande-do-norte-brazil_b7b41818
+Name Unknown,,,,,7-Aug-2012,tgeu/Aug-2012/N.N.,Tres Lagoas,Mato Grosso do Sul,Brazil,-20.791652,-51.711103,violence,stabbed,"The victim's body was found in a rural area on 7 August 2012 and had been lying there for at least 30 days.
 
-TvT project: Aqui da Uana News, 07.08.2012",https://tdor.translivesmatter.info/reports/2012/08/07/name-unknown_tres-lagoas-ms-brazil_edcc2bda
-Name Unknown,30,,,10-Aug-2012,"August, 2012/N.N","Penjamo, Guanajuato",Mexico,20.431376,-101.724118,decapitated,"An anonymous call alerted the police about the victim’s body, which showed multiple stab wounds, one of the them in the face.
+TvT project: Aqui da Uana News, 07.08.2012",,https://tdor.translivesmatter.info/reports/2012/08/07/name-unknown_tres-lagoas-mato-grosso-do-sul-brazil_edcc2bda
+Name Unknown,30,,,,10-Aug-2012,tgeu/Aug-2012/N.N,Penjamo,Guanajuato,Mexico,20.431376,-101.724118,violence,decapitated,"An anonymous call alerted the police about the victim’s body, which showed multiple stab wounds, one of the them in the face.
 
-TvT partner organisation  Centro de Apoyo a las Identidades Trans. www.primicia.com.ve  10.08.2012",https://tdor.translivesmatter.info/reports/2012/08/10/name-unknown_penjamo-guanajuato-mexico_0cf29673
-Sirena Paola,44,,,11-Aug-2012,11 Aug 2012/Sirena Paola,"Maicao, Guajira",Colombia,11.34096,-72.3755,beaten,"Sirena’s body was found inside her own apartment and showed wounds of a blow with a sharp object on the head. She was a stylist, and a promoter of HIV/AIDS prevention within the LGBT community.
+TvT partner organisation  Centro de Apoyo a las Identidades Trans. www.primicia.com.ve  10.08.2012",,https://tdor.translivesmatter.info/reports/2012/08/10/name-unknown_penjamo-guanajuato-mexico_0cf29673
+Sirena Paola,44,,,,11-Aug-2012,tgeu/11-Aug-2012/Sirena Paola,Maicao,La Guajira,Colombia,11.34096,-72.3755,violence,beaten,"Sirena’s body was found inside her own apartment and showed wounds of a blow with a sharp object on the head. She was a stylist, and a promoter of HIV/AIDS prevention within the LGBT community.
 
-TvT partner organisation Centro de Apoyo a las Identidades Trans: groups.google.com.plan integral a largo plazo   14.08.2012",https://tdor.translivesmatter.info/reports/2012/08/11/sirena-paola_maicao-guajira-colombia_8dea49ed
-Thalia,,,,13-Aug-2012,13 Aug 2012/Thalia,"El Zotuco, Misantla, Veracruz",Mexico,19.92861,-96.85029,not reported,"The victim’s body was found naked and with marks of violence inside her own apartment.
+TvT partner organisation Centro de Apoyo a las Identidades Trans: groups.google.com.plan integral a largo plazo   14.08.2012",,https://tdor.translivesmatter.info/reports/2012/08/11/sirena-paola_maicao-la-guajira-colombia_8dea49ed
+Thalia,,,,,13-Aug-2012,tgeu/13-Aug-2012/Thalia,"El Zotuco, Misantla",Veracruz,Mexico,19.92861,-96.85029,violence,murdered,"The victim’s body was found naked and with marks of violence inside her own apartment.
 
-TvT partner organisation  Centro de Apoyo a las Identidades Trans. www.elchiltepin.com 14.08.2012",https://tdor.translivesmatter.info/reports/2012/08/13/thalia_el-zotuco-misantla-veracruz-mexico_88ff2618
-(Erlan Raimundo) Sobrinho,,,,14-Aug-2012,14 Aug 2012/(Erlan Raimundo) Sobrinho,"Cabo de Santo Agostinho, PE",Brazil,-8.283895,-35.032098,stabbed,"TvT project: Quem a Homofobia Matou Hoje?, online portal, 14.08.2012",https://tdor.translivesmatter.info/reports/2012/08/14/erlan-raimundo-sobrinho_cabo-de-santo-agostinho-pe-brazil_c6cca514
-Tiffany Gooden,19,2012_08_14_Tiffany-Gooden.jpg,https://www.facebook.com/photo.php?fbid=3878222152750&set=a.2603402963067&type=3&theater,14-Aug-2012,tgeu/14 Aug 2012/Tiffany (Donta) Gooden,"Chicago, Illinois",USA,41.883229,-87.632398,stabbed,"Tiffany's body was found on the second floor of an abandoned building. She had been stabbed multiple times, including in the face and neck.
+TvT partner organisation  Centro de Apoyo a las Identidades Trans. www.elchiltepin.com 14.08.2012",,https://tdor.translivesmatter.info/reports/2012/08/13/thalia_el-zotuco-misantla-veracruz-mexico_88ff2618
+(Erlan Raimundo) Sobrinho,,,,,14-Aug-2012,tgeu/14-Aug-2012/(Erlan Raimundo) Sobrinho,Cabo de Santo Agostinho,Pernambuco,Brazil,-8.283895,-35.032098,violence,stabbed,"TvT project: Quem a Homofobia Matou Hoje?, online portal, 14.08.2012",,https://tdor.translivesmatter.info/reports/2012/08/14/erlan-raimundo-sobrinho_cabo-de-santo-agostinho-pernambuco-brazil_c6cca514
+Tiffany Gooden,19,,2012_08_14_Tiffany-Gooden.jpg,https://www.facebook.com/photo.php?fbid=3878222152750&set=a.2603402963067&type=3&theater,14-Aug-2012,tgeu/14-Aug-2012/Tiffany (Donta) Gooden,Chicago,Illinois,USA,41.883229,-87.632398,violence,stabbed,"Tiffany's body was found on the second floor of an abandoned building. She had been stabbed multiple times, including in the face and neck.
 
 > A gender variant teen has been murdered in Chicago a mere three blocks from where Paige Clay, another trans [woman], was found murdered in April.
 >
@@ -86,8 +86,8 @@ http://www.windycitymediagroup.com/lgbt/A-tale-of-two-murders-Connected-or-not/4
 
 http://www.windycitymediagroup.com/lgbt/Transgender-woman-released-from-jail-after-nearly-4-years-without-trial-/53720.html
 
-http://nbjc.org/media-center/news/transgender-deaths-where-outcry",https://tdor.translivesmatter.info/reports/2012/08/14/tiffany-gooden_chicago-illinois-usa_8e506047
-Ysabele dos Santos Freier,30,2012_08_15_Ysabele-dos-Santos-Freier.jpg,https://www.facebook.com/photo.php?fbid=3897491274466&set=a.2603402963067&type=3&theater,15-Aug-2012,tgeu/15 Aug 2012/Ysabele (Abelardo) dos Santos Freier,"São José do Rio Preto, São Paulo ",Brazil,-20.79605,-49.39164,shot,"Ysabele was one of four trans sex workers who were shot by the same motorcyclist in one night. Two died.
+http://nbjc.org/media-center/news/transgender-deaths-where-outcry",,https://tdor.translivesmatter.info/reports/2012/08/14/tiffany-gooden_chicago-illinois-usa_8e506047
+Ysabele dos Santos Freier,30,,2012_08_15_Ysabele-dos-Santos-Freier.jpg,https://www.facebook.com/photo.php?fbid=3897491274466&set=a.2603402963067&type=3&theater,15-Aug-2012,tgeu/15-Aug-2012/Ysabele (Abelardo) dos Santos Freier,São José do Rio Preto,São Paulo,Brazil,-20.79605,-49.39164,violence,shot,"Ysabele was one of four trans sex workers who were shot by the same motorcyclist in one night. Two died.
 
 The assailant was captured as a result of surveillance camera footage.
 
@@ -125,8 +125,8 @@ http://www.jornaldaparnaiba.com/2012/08/preso-em-sao-paulo-acusado-de-matar.html
 
 https://www.piauihoje.com/noticias/geral/travesti-piauiense-assassinado-em-sao-paulo-6836.html
 
-http://g1.globo.com/sao-paulo/sao-jose-do-rio-preto-aracatuba/noticia/2012/08/preso-suspeito-de-atirar-e-matar-duas-travestis-em-rio-preto-sp.html",https://tdor.translivesmatter.info/reports/2012/08/15/ysabele-dos-santos-freier_sao-jose-do-rio-preto-sao-paulo--brazil_48d971d3
-Eduarda Vasconcelos,24,2012_08_15_Eduarda-Vasconcelos.jpg,https://www.facebook.com/photo.php?fbid=3897490074436&set=a.2603402963067&type=3&theater,15-Aug-2012,tgeu/15 Aug 2012/Eduarda (Carlos Eduardo) Vasconcelos,"São José do Rio Preto, São Paulo",Brazil,-20.79605,-49.39164,shot,"Eduarda was one of four trans sex workers who were shot by the same motorcyclist in one night. Two died.
+http://g1.globo.com/sao-paulo/sao-jose-do-rio-preto-aracatuba/noticia/2012/08/preso-suspeito-de-atirar-e-matar-duas-travestis-em-rio-preto-sp.html",,https://tdor.translivesmatter.info/reports/2012/08/15/ysabele-dos-santos-freier_sao-jose-do-rio-preto-sao-paulo--brazil_48d971d3
+Eduarda Vasconcelos,24,,2012_08_15_Eduarda-Vasconcelos.jpg,https://www.facebook.com/photo.php?fbid=3897490074436&set=a.2603402963067&type=3&theater,15-Aug-2012,tgeu/15-Aug-2012/Eduarda (Carlos Eduardo) Vasconcelos,São José do Rio Preto,São Paulo,Brazil,-20.79605,-49.39164,violence,shot,"Eduarda was one of four trans sex workers who were shot by the same motorcyclist in one night. Two died.
 
 The assailant was captured as a result of surveillance camera footage.
 
@@ -164,11 +164,11 @@ http://www.jornaldaparnaiba.com/2012/08/preso-em-sao-paulo-acusado-de-matar.html
 
 https://www.piauihoje.com/noticias/geral/travesti-piauiense-assassinado-em-sao-paulo-6836.html
 
-http://g1.globo.com/sao-paulo/sao-jose-do-rio-preto-aracatuba/noticia/2012/08/preso-suspeito-de-atirar-e-matar-duas-travestis-em-rio-preto-sp.html",https://tdor.translivesmatter.info/reports/2012/08/15/eduarda-vasconcelos_sao-jose-do-rio-preto-sao-paulo-brazil_3b02b911
-Maricela (Jesús) Morales González,22,,,15-Aug-2012,15 Aug 2012/Maricela (Jesús) Morales González,"Calle La Panorámica, Taxco, Guerrero",Mexico,18.55509,-99.61193,shot,"Maricela’s body was found on a highway.
+http://g1.globo.com/sao-paulo/sao-jose-do-rio-preto-aracatuba/noticia/2012/08/preso-suspeito-de-atirar-e-matar-duas-travestis-em-rio-preto-sp.html",,https://tdor.translivesmatter.info/reports/2012/08/15/eduarda-vasconcelos_sao-jose-do-rio-preto-sao-paulo-brazil_3b02b911
+Maricela (Jesús) Morales González,22,,,,15-Aug-2012,tgeu/15-Aug-2012/Maricela (Jesús) Morales González,"Calle La Panorámica, Taxco",Guerrero,Mexico,18.55509,-99.61193,violence,shot,"Maricela’s body was found on a highway.
 
-TvT partner organisation  Centro de Apoyo a las Identidades Trans. notaroja-koneocho.blogspot.mx 15.08.2012",https://tdor.translivesmatter.info/reports/2012/08/15/maricela-jesus-morales-gonzalez_calle-la-panoramica-taxco-guerrero-mexico_328fe8b7
-Larissa Silveira,24,2012_08_17_Larissa-Silveira.jpg,https://www.facebook.com/photo.php?fbid=3897492354493&set=a.2603402963067&type=3&theater,17-Aug-2012,tgeu/Aug 2012/Larissa Silveira,"Piracicaba, São Paulo",Brazil,-22.72528,-47.64917,shot,"Larissa's body was found dumped by the side of the Cornélio Pires highway with gunshot wounds to the chest and face.
+TvT partner organisation  Centro de Apoyo a las Identidades Trans. notaroja-koneocho.blogspot.mx 15.08.2012",,https://tdor.translivesmatter.info/reports/2012/08/15/maricela-jesus-morales-gonzalez_calle-la-panoramica-taxco-guerrero-mexico_328fe8b7
+Larissa Silveira,24,,2012_08_17_Larissa-Silveira.jpg,https://www.facebook.com/photo.php?fbid=3897492354493&set=a.2603402963067&type=3&theater,17-Aug-2012,tgeu/Aug-2012/Larissa Silveira,Piracicaba,São Paulo,Brazil,-22.72528,-47.64917,violence,shot,"Larissa's body was found dumped by the side of the Cornélio Pires highway with gunshot wounds to the chest and face.
 
 > A 24-year-old [trans woman] was found dead at dawn on Friday (17), at kilometer 43 of the Cornélio Pires Highway (SP-127), which connects Piracicaba (SP) to Tietê (SP). According to the Civil Police, the victim had three gunshot wounds: on the chest, on the face below the nose and one with a scrape on the right cheek. The body was on the side of the road.
 >
@@ -178,21 +178,23 @@ TvT partner organisation Centro de Apoyo a las Identidades Trans:
 
 Parautudo.com 28.08.2012; TvT project: Gay 1 Sao Paulo, 17.08.2012   
 
-https://web.archive.org/web/20141120201744/http://saopaulo.gay1.com.br/2012/08/travesti-e-encontrada-morta-com-tres.html",https://tdor.translivesmatter.info/reports/2012/08/17/larissa-silveira_piracicaba-sao-paulo-brazil_b2e0fa47
-Name Unknown,,,,18-Aug-2012,18 Aug 2012/N.N,"Calle Glorieta entre Santa Anita y Lago de Xochimilco, Coloni",Mexico,19.39884,-99.01567,decapitated,"The victim was a sex worker and presumably attacked by a client, who decapitated her.
+https://web.archive.org/web/20141120201744/http://saopaulo.gay1.com.br/2012/08/travesti-e-encontrada-morta-com-tres.html",,https://tdor.translivesmatter.info/reports/2012/08/17/larissa-silveira_piracicaba-sao-paulo-brazil_b2e0fa47
+Name Unknown,,,,,18-Aug-2012,tgeu/18-Aug-2012/N.N,Ciudad Nezahualcóyotl,Estado de México,Mexico,19.398956,-99.0169743,violence,decapitated,"The victim was a sex worker and was presumably attacked by a client.
 
-TvT partner organisation Centro de Apoyo a las Identidades Trans: Periódico La Prensa Online.    18.08.2012",https://tdor.translivesmatter.info/reports/2012/08/18/name-unknown_calle-glorieta-entre-santa-anita-y-lago-de-xochimilco-coloni-mexico_ead3ad8d
-Bruna da Silva Oliveira,25,,,20-Aug-2012,tgeu/20 Aug 2012/Bruna (Tiago) da Sivla Oliveira,Pernambuco,Brazil,-5.915333,-35.267991,shot,"Bruna was shot.
+The attack took place at Calle Glorieta entre Santa Anita y Lago de Xochimilco in Colonia Evolución.
+
+TvT partner organisation Centro de Apoyo a las Identidades Trans: Periódico La Prensa Online. 18.08.2012",,https://tdor.translivesmatter.info/reports/2012/08/18/name-unknown_ciudad-nezahualcoyotl-estado-de-mexico-mexico_ead3ad8d
+Bruna da Silva Oliveira,25,,,,20-Aug-2012,tgeu/20-Aug-2012/Bruna (Tiago) da Sivla Oliveira,,Pernambuco,Brazil,-5.915333,-35.267991,violence,shot,"Bruna was shot.
 
 TvT project: Quem a Homofobia Matou Hoje?, online portal, 20.08.2012
 
 https://homofobiamata.wordpress.com/2012/08/20/tiago-da-silva-oliveira-travesti-25-anos-tiros-pe-pernanbuco/ [BROKEN LINK]
 
-http://www.cardinot.com.br/travesti-assassinado-e-policia-encontra-faca-entre-as-nadegas-da-vitima/ [BROKEN LINK]",https://tdor.translivesmatter.info/reports/2012/08/20/bruna-da-silva-oliveira_pernambuco-brazil_71c0357a
-Carol,,,,26-Aug-2012,26 Aug 2012/Carol,"Rua Barão de São Domingos, Manaus, AM",Brazil,-3.14097,-60.02181,stabbed,"The victim was stabbed by the vendor Elenice Andrade de Almeida they had reportedly had an argument and the victim had called her a 'prostitute'
+http://www.cardinot.com.br/travesti-assassinado-e-policia-encontra-faca-entre-as-nadegas-da-vitima/ [BROKEN LINK]",,https://tdor.translivesmatter.info/reports/2012/08/20/bruna-da-silva-oliveira_pernambuco-brazil_71c0357a
+Carol,,,,,26-Aug-2012,tgeu/26-Aug-2012/Carol,"Rua Barão de São Domingos, Manaus",Amazonas,Brazil,-3.14097,-60.02181,violence,stabbed,"The victim was stabbed by the vendor Elenice Andrade de Almeida they had reportedly had an argument and the victim had called her a 'prostitute'
 
-TvT project: Em Tempo, online portal, 27.08.2012",https://tdor.translivesmatter.info/reports/2012/08/26/carol_rua-barao-de-sao-domingos-manaus-am-brazil_545f121d
-"Dewayne ""Deja"" Jones",33,2012_08_26_Dewayne-Deja-Jones.jpg,https://lexiecannes.com/2012/08/29/trans-woman-shot-to-death-in-miami-police-lacking-leads/,26-Aug-2012,"tdor.info/26-08-2012/Dewayne ""Deja"" Jones","Miami, Florida",USA,25.775084,-80.194702,shot,"Deja was shot multiple times early in the morning of Sunday 26th August in what might have been a robbery seven blocks from her home.
+TvT project: Em Tempo, online portal, 27.08.2012",,https://tdor.translivesmatter.info/reports/2012/08/26/carol_rua-barao-de-sao-domingos-manaus-amazonas-brazil_545f121d
+"Dewayne ""Deja"" Jones",33,,2012_08_26_Dewayne-Deja-Jones.jpg,https://lexiecannes.com/2012/08/29/trans-woman-shot-to-death-in-miami-police-lacking-leads/,26-Aug-2012,"tdor.info/26-08-2012/Dewayne ""Deja"" Jones",Miami,Florida,USA,25.775084,-80.194702,violence,shot,"Deja was shot multiple times early in the morning of Sunday 26th August in what might have been a robbery seven blocks from her home.
 
 > MIAMI(CBS4) – Miami Police homicide detectives are trying to find out if a 33-year-old [woman] was killed early Sunday because [she was trans].
 > 
@@ -206,61 +208,63 @@ https://lexiecannes.com/2012/08/29/trans-woman-shot-to-death-in-miami-police-lac
 
 https://miami.cbslocal.com/2012/08/28/exclusive-miami-police-look-for-killer-of-transvestite/
 
-https://kcts9.org/programs/arts/42-garments-honoring-42-trans-lives-lost-murder",https://tdor.translivesmatter.info/reports/2012/08/26/dewayne-deja-jones_miami-florida-usa_91cab8f6
-R. F. Pereira,26,2012_08_27_R-F-Pereira.jpg,https://www.facebook.com/photo.php?fbid=3944738535618&set=a.2603402963067&type=3&theater,27-Aug-2012,tgeu/27 Aug 2012/Robson Franco Pereira,"Campinas, São Paulo ",Brazil,-22.90556,-47.06083,shot,"R. was shot in the arm and face.
+https://kcts9.org/programs/arts/42-garments-honoring-42-trans-lives-lost-murder",,https://tdor.translivesmatter.info/reports/2012/08/26/dewayne-deja-jones_miami-florida-usa_91cab8f6
+R. F. Pereira,26,,2012_08_27_R-F-Pereira.jpg,https://www.facebook.com/photo.php?fbid=3944738535618&set=a.2603402963067&type=3&theater,27-Aug-2012,tgeu/27-Aug-2012/Robson Franco Pereira,Campinas,São Paulo,Brazil,-22.90556,-47.06083,violence,shot,"R. was shot in the arm and face.
 
-TvT project: Quem a Homofobia Matou Hoje?, online portal, 27.08.2012",https://tdor.translivesmatter.info/reports/2012/08/27/r-f-pereira_campinas-sao-paulo--brazil_253166df
-Viviana (Arnulfo Manuel) López Moreno,18,,,27-Aug-2012,"August, 2012/Viviana (Arnulfo Manuel) López Moreno","Chihuahua, Chihuahua",Mexico,28.654323,-106.083947,not reported,"Viviana was killed by her partner, who after being arrested said that they had had arguments because he did not agree with her doing sex work and wanting to have silicone implants. He buried the body on the own property, and the remains were later found by a dog.
+TvT project: Quem a Homofobia Matou Hoje?, online portal, 27.08.2012",,https://tdor.translivesmatter.info/reports/2012/08/27/r-f-pereira_campinas-sao-paulo--brazil_253166df
+Viviana (Arnulfo Manuel) López Moreno,18,,,,27-Aug-2012,tgeu/Aug-2012/Viviana (Arnulfo Manuel) López Moreno,Chihuahua,Chihuahua,Mexico,28.654323,-106.083947,violence,murdered,"Viviana was killed by her partner, who after being arrested said that they had argued because he did not agree with her doing sex work and wanting to have silicone implants.
 
-TvT partner organisation Centro de Apoyo a las Identidades Trans: Tabasco Hoy.com     27.08.2012",https://tdor.translivesmatter.info/reports/2012/08/27/viviana-arnulfo-manuel-lopez-moreno_chihuahua-chihuahua-mexico_454f0e1d
-Name Unknown,,,,27-Aug-2012,27 Aug 2012/N.N,"Rio Branco do Sul, PR",Brazil,-25.188537,-49.311908,shot,"According to witnesses, a man had approached a trans woman and a child who were on a public square and shot both of them. The first shot hit the trans woman’s face and the second one the child’s cheek.
+He buried her body on the own property. Her remains were later found by a dog.
 
-TvT partner organisation Centro de Apoyo a las Identidades Trans: Jornalismo  28.08.2012",https://tdor.translivesmatter.info/reports/2012/08/27/name-unknown_rio-branco-do-sul-pr-brazil_edd36021
-Anita (Erivaldo) Domingos dos Santos,28,,,29-Aug-2012,"August, 2012/Anita (Erivaldo) Domingos dos Santos","Campina Grande, PB",Brazil,-7.224674,-35.877129,shot,"The victim's body was found on 29 August 2012, but she had been missing since the 23rd.
+TvT partner organisation Centro de Apoyo a las Identidades Trans: Tabasco Hoy.com     27.08.2012",,https://tdor.translivesmatter.info/reports/2012/08/27/viviana-arnulfo-manuel-lopez-moreno_chihuahua-chihuahua-mexico_454f0e1d
+Name Unknown,,,,,27-Aug-2012,tgeu/27-Aug-2012/N.N,Rio Branco do Sul,Paraná,Brazil,-25.188537,-49.311908,violence,shot,"According to witnesses, a man had approached a trans woman and a child who were on a public square and shot both of them. The first shot hit the trans woman’s face and the second one the child’s cheek.
 
-TvT project: Jornal da Paraiba, online portal, 29.08.2012",https://tdor.translivesmatter.info/reports/2012/08/29/anita-erivaldo-domingos-dos-santos_campina-grande-pb-brazil_cab7af8f
-Natasha Sandro de Moraes Camilo,23,,,29-Aug-2012,tgeu/29 Aug 2012/Natasha (Alex) Sandro de Moraes Camilo,"Clementina, São Paulo ",Brazil,-21.560865,-50.447589,beaten,"Natasha suffered repeated blows to the head with a hoe. Her body was found by neighbors in the backyard of the suspect's residence.
+TvT partner organisation Centro de Apoyo a las Identidades Trans: Jornalismo  28.08.2012",,https://tdor.translivesmatter.info/reports/2012/08/27/name-unknown_rio-branco-do-sul-parana-brazil_edd36021
+Anita (Erivaldo) Domingos dos Santos,28,,,,29-Aug-2012,tgeu/Aug-2012/Anita (Erivaldo) Domingos dos Santos,Campina Grande,Paraíba,Brazil,-7.224674,-35.877129,violence,shot,"The victim's body was found on 29 August 2012, but she had been missing since the 23rd.
+
+TvT project: Jornal da Paraiba, online portal, 29.08.2012",,https://tdor.translivesmatter.info/reports/2012/08/29/anita-erivaldo-domingos-dos-santos_campina-grande-paraiba-brazil_cab7af8f
+Natasha Sandro de Moraes Camilo,23,,,,29-Aug-2012,tgeu/29-Aug-2012/Natasha (Alex) Sandro de Moraes Camilo,Clementina,São Paulo,Brazil,-21.560865,-50.447589,violence,beaten,"Natasha suffered repeated blows to the head with a hoe. Her body was found by neighbors in the backyard of the suspect's residence.
 
 >  The owner of the residence, 24, was seen by witnesses in a bar hours before the crime along with the trans woman. The suspect was found and arrested. Another trans woman, suspected of ordering the crime, was also detained. The man who committed the crime, was a former police officer and had been sentenced for several crimes, including murder, robbery and rape, and was being sought by the Justice after fleeing the Iaras penitentiary.
 
 TvT partner organisation Centro de Apoyo a las Identidades Trans
 
-http://g1.globo.com/sao-paulo/sao-jose-do-rio-preto-aracatuba/noticia/2012/08/travesti-e-morta-com-diversos-golpes-de-enxada-em-clementina-sp.html",https://tdor.translivesmatter.info/reports/2012/08/29/natasha-sandro-de-moraes-camilo_clementina-sao-paulo--brazil_4abf2033
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
+http://g1.globo.com/sao-paulo/sao-jose-do-rio-preto-aracatuba/noticia/2012/08/travesti-e-morta-com-diversos-golpes-de-enxada-em-clementina-sp.html",,https://tdor.translivesmatter.info/reports/2012/08/29/natasha-sandro-de-moraes-camilo_clementina-sao-paulo--brazil_4abf2033
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,

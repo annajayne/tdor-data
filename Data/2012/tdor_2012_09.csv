@@ -1,8 +1,8 @@
-﻿Name,Age,Photo,Photo source,Date,Source ref,Location,Country,Latitude,Longitude,Cause of death,Description,Permalink
-Carla,,,,2-Sep-2012,02 Sep 2012/Carla,"Av. Comendador Norberto Marcondes, Campo Mourao, PR",Brazil,-24.03786,-52.37879,shot,"The victim was shot around 10 pm by two persons on a motorbike.
+﻿Name,Age,Birthdate,Photo,Photo source,Date,Source ref,Location,State/Province,Country,Latitude,Longitude,Category,Cause of death,Description,Tweet,Permalink
+Carla,,,,,2-Sep-2012,tgeu/2-Sep-2012/Carla,Campo Mourao,Paraná,Brazil,-24.03786,-52.37879,violence,shot,"The victim was shot at around 10 pm on Av. Comendador Norberto Marcondes by two persons on a motorbike.
 
-TvT project: Programa Ricardo Borges, online portal, 03.09.2012",https://tdor.translivesmatter.info/reports/2012/09/02/carla_av-comendador-norberto-marcondes-campo-mourao-pr-brazil_07426d96
-"Kyra Cordova (""Kyra Kruz"")",27,2012_09_03_Kyra-Cordova.jpg,https://www.phillyobitproject.com/kyra-cordova-27-funny-smart-volunteer-always-friends/,3-Sep-2012,tgeu/3 Sep 2012/Kyra Kruz,"Philadelphia, Pennsylvania",USA,39.951061,-75.16562,shot,"Kyra was shot in the head from behind, possibly without any warning. She was a counsellor at the Gay and Lesbian Latino AIDS Education Initiative.
+TvT project: Programa Ricardo Borges, online portal, 03.09.2012",,https://tdor.translivesmatter.info/reports/2012/09/02/carla_av-comendador-norberto-marcondes-campo-mourao-parana-brazil_07426d96
+"Kyra Cordova (""Kyra Kruz"")",27,,2012_09_03_Kyra-Cordova.jpg,https://www.phillyobitproject.com/kyra-cordova-27-funny-smart-volunteer-always-friends/,3-Sep-2012,tgeu/3-Sep-2012/Kyra Kruz,Philadelphia,Pennsylvania,USA,39.951061,-75.16562,violence,shot,"Kyra was shot in the head from behind, possibly without any warning. She was a counsellor at the Gay and Lesbian Latino AIDS Education Initiative.
 
 > The transgender woman found murdered earlier this month in Frankford has been identified as a former staff member at a local LGBT agency.
 >
@@ -38,8 +38,8 @@ https://www.dailykos.com/stories/2012/9/14/1131899/-Murdered-young-transwoman-id
 
 https://web.archive.org/web/20120916011401/http://www.epgn.com/view/full_story/20113610/article-Trans-murder-victim-identified
 
-https://www.facebook.com/InMemoryOfKrisHeroldAkaKyraKruz/",https://tdor.translivesmatter.info/reports/2012/09/03/kyra-kruz_philadelphia-pennsylvania-usa_b3526661
-Name Unknown,,,,5-Sep-2012,,"Migliarino Pisano, Pisa",Italy,43.7665828,10.3265021,not reported,"The victim's body was found in a ditch near the industrial area of Migliarino Pisano at 10am on 5th September. It is possible that she died as a result of a vehicle impact.
+https://www.facebook.com/InMemoryOfKrisHeroldAkaKyraKruz/",,https://tdor.translivesmatter.info/reports/2012/09/03/kyra-kruz_philadelphia-pennsylvania-usa_b3526661
+Name Unknown,,,,,5-Sep-2012,,Migliarino Pisano,Pisa,Italy,43.7665828,10.3265021,uncategorised,not reported,"The victim's body was found in a ditch near the industrial area of Migliarino Pisano at 10am on 5th September. It is possible that she died as a result of a vehicle impact.
 
 > This morning around 10 am, a dead trans woman was found inside a ditch, near the industrial area of Migliarino Pisano, very frequented by sex workers during the night. The body was noticed by one of the workers of the many companies in the area. The Carabinieri investigate the episode as the causes of death are not yet clear .
 > 
@@ -47,66 +47,70 @@ Name Unknown,,,,5-Sep-2012,,"Migliarino Pisano, Pisa",Italy,43.7665828,10.326502
 
 Her death was not recorded on the official TDoR 2012 list released by Transgender Europe (TGEU).
 
-http://www.pisatoday.it/cronaca/trans-trovato-morto-fosso-migliarino-pisano.html",https://tdor.translivesmatter.info/reports/2012/09/05/name-unknown_migliarino-pisano-pisa-italy_4ac8a82e
-Name Unknown,34,,,6-Sep-2012,tgeu/6 Sep 2012/N.N.,"Taubaté, São Paulo",Brazil,-23.031448,-45.561279,shot,"The victim was shot in the head. A condom, the victim’s cell phone and a bullet casing belonging to a weapon used only by the police were found nearby.
+http://www.pisatoday.it/cronaca/trans-trovato-morto-fosso-migliarino-pisano.html",,https://tdor.translivesmatter.info/reports/2012/09/05/name-unknown_migliarino-pisano-pisa-italy_4ac8a82e
+Name Unknown,34,,,,6-Sep-2012,tgeu/6-Sep-2012/N.N.,Taubaté,São Paulo,Brazil,-23.031448,-45.561279,violence,shot,"The victim was shot in the head. A condom, the victim’s cell phone and a bullet casing belonging to a weapon used only by the police were found nearby.
 
 TvT partner organisation Centro de Apoyo a las Identidades Trans: G1.globo.com 06.09.2012
 
- http://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2012/09/travesti-e-encontrado-morto-com-tiro-na-cabeca-em-taubate.html",https://tdor.translivesmatter.info/reports/2012/09/06/name-unknown_taubate-sp-brazil_2be0a993
-Gabriela de Santana,,,,7-Sep-2012,tgeu/7 Sep 2012/Gabriela (Valdir) de Santana,"Aparecida de Goiânia, Goiás",Brazil,-16.74819,-49.23642,shot,"According to the police, three trans women were working on Ns. de Lourdes when armed men approached, commanded them to lie down and shot them dead.
+ http://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2012/09/travesti-e-encontrado-morto-com-tiro-na-cabeca-em-taubate.html",,https://tdor.translivesmatter.info/reports/2012/09/06/name-unknown_taubate-sp-brazil_2be0a993
+Gabriela de Santana,,,,,7-Sep-2012,tgeu/7-Sep-2012/Gabriela (Valdir) de Santana,Aparecida de Goiânia,Goiás,Brazil,-16.74819,-49.23642,violence,shot,"According to the police, three trans women were working on Ns. de Lourdes when armed men approached, commanded them to lie down and shot them dead.
 
 TvT project: Quem a Homofobia Matou Hoje?, online portal, 07.09.2012
 
-https://www.youtube.com/watch?v=3xpg8OJ8q10",https://tdor.translivesmatter.info/reports/2012/09/07/gabriela-valdir-de-santana_aparecida-de-goiania-goias-brazil_ffad5aa1
-J. Almeida de Andrade,,,,7-Sep-2012,tgeu/7 Sep 2012/(Juliano) Almeida de Andrade,"Aparecida de Goiânia, Goiás",Brazil,-16.74819,-49.23642,shot,"According to the police, three trans women were working on Ns. de Lourdes when armed men approached, commanded them to lie down and shot them dead.
+https://www.youtube.com/watch?v=3xpg8OJ8q10",,https://tdor.translivesmatter.info/reports/2012/09/07/gabriela-valdir-de-santana_aparecida-de-goiania-goias-brazil_ffad5aa1
+J. Almeida de Andrade,,,,,7-Sep-2012,tgeu/7-Sep-2012/(Juliano) Almeida de Andrade,Aparecida de Goiânia,Goiás,Brazil,-16.74819,-49.23642,violence,shot,"According to the police, three trans women were working on Ns. de Lourdes when armed men approached, commanded them to lie down and shot them dead.
 
 TvT project: Quem a Homofobia Matou Hoje?, online portal, 07.09.2012
 
-https://www.youtube.com/watch?v=3xpg8OJ8q10",https://tdor.translivesmatter.info/reports/2012/09/07/j-almeida-de-andrade_aparecida-de-goiania-goais-brazil_401c2f64
-Milena,,,,7-Sep-2012,tgeu/7 Sep 2012/Milena,"Aparecida de Goiânia, Goiás",Brazil,-16.74819,-49.23642,shot,"According to the police, three trans women were working on Ns. de Lourdes when armed men approached, commanded them to lie down and shot them dead.
+https://www.youtube.com/watch?v=3xpg8OJ8q10",,https://tdor.translivesmatter.info/reports/2012/09/07/j-almeida-de-andrade_aparecida-de-goiania-goais-brazil_401c2f64
+Milena,,,,,7-Sep-2012,tgeu/7-Sep-2012/Milena,Aparecida de Goiânia,Goiás,Brazil,-16.74819,-49.23642,violence,shot,"According to the police, three trans women were working on Ns. de Lourdes when armed men approached, commanded them to lie down and shot them dead.
 
 TvT project: Quem a Homofobia Matou Hoje?, online portal, 07.09.2012
 
-https://www.youtube.com/watch?v=3xpg8OJ8q10",https://tdor.translivesmatter.info/reports/2012/09/07/milena_aparecida-de-goiania-goias-brazil_3294b3da
-Windney Machado da Silva,20,2012_09_07_Windney-Machado-da-Silva.jpg,https://www.facebook.com/photo.php?fbid=3982050268388&set=a.2603402963067&type=3&theater,7-Sep-2012,tgeu/7 Sep 2012/Windney (Carlos) Machado da Silva,"Goiânia, Goiás",Brazil,-16.680882,-49.253269,stabbed,"Two men were involved in the killing.
+https://www.youtube.com/watch?v=3xpg8OJ8q10",,https://tdor.translivesmatter.info/reports/2012/09/07/milena_aparecida-de-goiania-goias-brazil_3294b3da
+Windney Machado da Silva,20,,2012_09_07_Windney-Machado-da-Silva.jpg,https://www.facebook.com/photo.php?fbid=3982050268388&set=a.2603402963067&type=3&theater,7-Sep-2012,tgeu/7-Sep-2012/Windney (Carlos) Machado da Silva,Goiânia,Goiás,Brazil,-16.680882,-49.253269,violence,stabbed,"Two men were involved in the killing.
 
 TvT partner organisation Centro de Apoyo a las Identidades Trans:
 
-Campograndenews 08.09.2012; TvT project: Quem a Homofobia  Matou Hoje?, online portal, 07.09.2012   ",https://tdor.translivesmatter.info/reports/2012/09/07/windney-machado-da-silva_goiania-goias-brazil_ac9418a2
-Yara Duraes Rosa Vugo,24,,,7-Sep-2012,tgeu/07 Sep 2012/Sandy (Cléber) Duraes Rosa Vugo,"Cujubim, Rondônia",Brazil,-9.359563,-62.587647,beaten,"Yara was beaten to death with a piece of wood by a former lover.
+Campograndenews 08.09.2012; TvT project: Quem a Homofobia  Matou Hoje?, online portal, 07.09.2012   ",,https://tdor.translivesmatter.info/reports/2012/09/07/windney-machado-da-silva_goiania-goias-brazil_ac9418a2
+Yara Duraes Rosa Vugo,24,,,,7-Sep-2012,tgeu/7-Sep-2012/Sandy (Cléber) Duraes Rosa Vugo,Cujubim,Rondônia,Brazil,-9.359563,-62.587647,violence,beaten,"Yara was beaten to death with a piece of wood by a former lover.
 
 Lucas de Almeida Silva confessed to her murder.
 
 http://www.vejanoticias.com.br/noticia/cujubim-travesti-e-morto-a-pauladas-por-ex-amasio-ndash-imagens-fortes,policia,4349.html [BROKEN LINK]
 
-https://homofobiamata.files.wordpress.com/2013/02/assassinatos.pdf",https://tdor.translivesmatter.info/reports/2012/09/07/yara-duraes-rosa-vugo_cujubim-ro-brazil_b17b0703
-Name Unknown,,,,8-Sep-2012,2012/N.N.,,Honduras,14.818892,-86.600739,not reported,"
+https://homofobiamata.files.wordpress.com/2013/02/assassinatos.pdf",,https://tdor.translivesmatter.info/reports/2012/09/07/yara-duraes-rosa-vugo_cujubim-ro-brazil_b17b0703
+Name Unknown,,,,,8-Sep-2012,tgeu/2012/N.N.,,,Honduras,14.818892,-86.600739,uncategorised,not reported,TvT partner organization: Centro de Apoyo a las Identidades Trans www.conexihon.info  08.09.2012,,https://tdor.translivesmatter.info/reports/2012/09/08/name-unknown_honduras_5fb47f60
+Name Unknown,,,,,8-Sep-2012,tgeu/8-Sep-2012/N.N,Ribeirão Preto,São Paulo,Brazil,-21.11367,-47.77966,violence,beaten,"The body was found by the employee of a gas station nearby and showed wounds in the head.
 
-TvT partner organization: Centro de Apoyo a las Identidades Trans www.conexihon.info  08.09.2012",https://tdor.translivesmatter.info/reports/2012/09/08/name-unknown_honduras_5fb47f60
-Name Unknown,,,,8-Sep-2012,08 Sep 2012/N.N,"Av. Mal. Costa E Silva, Ribeirão Preto, SP",Brazil,-21.11367,-47.77966,beaten,"The body was found by the employee of a gas station nearby and showed wounds in the head.
+The attack took place on Av. Mal. Costa E Silva.
 
-TvT partner organisation Centro de Apoyo a las Identidades Trans:",https://tdor.translivesmatter.info/reports/2012/09/08/name-unknown_av-mal-costa-e-silva-ribeirao-preto-sp-brazil_fa7e3ab4
-Ivonne (Antonio),,,,8-Sep-2012,08 Sep 2012/Ivonne (Antonio),"Villa Tablita, Brisas del Sur, Bolivar",Venezuela,8.05494,-63.54662,stoned,"A relative found Ivonne’s body. The perpetrator had killed her with a big boulder.
+TvT partner organisation Centro de Apoyo a las Identidades Trans:",,https://tdor.translivesmatter.info/reports/2012/09/08/name-unknown_ribeirao-preto-sao-paulo-brazil_fa7e3ab4
+Ivonne (Antonio),,,,,8-Sep-2012,tgeu/8-Sep-2012/Ivonne (Antonio),"Villa Tablita, Brisas del Sur",Bolivar,Venezuela,8.05494,-63.54662,violence,stoned,"A relative found Ivonne’s body. The perpetrator had killed her with a large boulder.
 
-TvT partner organisation  Centro de Apoyo a las Identidades Trans. www.primicia.com.ve   09.09.2012",https://tdor.translivesmatter.info/reports/2012/09/08/ivonne-antonio_villa-tablita-brisas-del-sur-bolivar-venezuela_de6bcb50
-Name Unknown,,,,10-Sep-2012,"September, 2012/N.N","Villa Tablita, Brisas del Paraíso, Estado de Bolívar",Colombia,7.9174,-72.50422,stoned,"The victim was killed with blows of a concrete block on the head.
+*Editor's Note: The location given is probably in Ciudad Guayana.*
 
-TvT partner organisation Centro de Apoyo a las Identidades Trans: BLOG CORREO DEL CARONÍ   10.09.2012",https://tdor.translivesmatter.info/reports/2012/09/10/name-unknown_villa-tablita-brisas-del-paraiso-estado-de-bolivar-colombia_b77cca51
-(Wilson) Alves de Souza,44,,,11-Sep-2012,11 Sep 2012/(Wilson) Alves de Souza,"Riberao Preto, SP",Brazil,-21.178333,-47.806667,shot,"The victim was a sex worker and was shot by a prison guard, who said the reason was that Alves de Souza stole his mobile phone two days earlier.
+TvT partner organisation  Centro de Apoyo a las Identidades Trans. www.primicia.com.ve   09.09.2012",,https://tdor.translivesmatter.info/reports/2012/09/08/ivonne-antonio_bolivar-venezuela_de6bcb50
+Name Unknown,,,,,10-Sep-2012,tgeu/Sep-2012/N.N,"Villa Tablita, Brisas del Paraíso",Estado de Bolívar,Colombia,7.9174,-72.50422,violence,stoned,"The victim was killed with blows of a concrete block on the head.
 
-TvT project: Quem a Homofobia Matou Hoje?, online portal, 11.09.2012",https://tdor.translivesmatter.info/reports/2012/09/11/wilson-alves-de-souza_riberao-preto-sp-brazil_53c9a397
-Shola,,,,11-Sep-2012,11 Sep 2012/Shola,Gujranwala,Pakistan,32.152531,74.193375,slit throat,"Shola’s throat was slit by three unidentified men as she refused to dance in a wedding ceremony.
+*Editor's Note: This may be a duplicate of [tgeu/8-Sep-2012/Ivonne (Antonio)](https://tdor.translivesmatter.info/reports/2012/09/08/ivonne-antonio_bolivar-venezuela_de6bcb50), in which case the murder took place in Venezuela, not Colombia.*
 
-TvT Project: SAMAA TV 11.09.2012; Independent News Pakistan 11.09.2012",https://tdor.translivesmatter.info/reports/2012/09/11/shola_gujranwala-pakistan_b3224523
-Lorena Layana Fortunato da Silva,27,2012_09_13_Lorena-Layana-Fortunato-da-Silva.jpg,https://www.facebook.com/photo.php?fbid=4024171121383&set=a.2603402963067&type=3&theater,13-Sep-2012,"tgeu/September, 2012/Lorena Layana (Carlos Henrique) Fortunato da Silva","Paulista, Pernambuco",Brazil,-7.934007,-34.868407,shot,"Lorena's body was found on a river bank. She had been shot twice, of which one in was in the head.
+TvT partner organisation Centro de Apoyo a las Identidades Trans: BLOG CORREO DEL CARONÍ   10.09.2012",,https://tdor.translivesmatter.info/reports/2012/09/10/name-unknown_villa-tablita-brisas-del-paraiso-estado-de-bolivar-colombia_b77cca51
+(Wilson) Alves de Souza,44,,,,11-Sep-2012,tgeu/11-Sep-2012/(Wilson) Alves de Souza,Ribeirão Preto,São Paulo,Brazil,-21.178333,-47.806667,violence,shot,"The victim was a sex worker and was shot by a prison guard, who said the reason was that Alves de Souza stole his mobile phone two days earlier.
+
+TvT project: Quem a Homofobia Matou Hoje?, online portal, 11.09.2012",,https://tdor.translivesmatter.info/reports/2012/09/11/wilson-alves-de-souza_riberao-preto-sao-paulo-brazil_53c9a397
+Shola,,,,,11-Sep-2012,tgeu/11-Sep-2012/Shola,Gujranwala,Punjab,Pakistan,32.152531,74.193375,violence,slit throat,"Shola’s throat was slit by three unidentified men as she refused to dance in a wedding ceremony.
+
+TvT Project: SAMAA TV 11.09.2012; Independent News Pakistan 11.09.2012",,https://tdor.translivesmatter.info/reports/2012/09/11/shola_gujranwala-pakistan-punjab_b3224523
+Lorena Layana Fortunato da Silva,27,,2012_09_13_Lorena-Layana-Fortunato-da-Silva.jpg,https://www.facebook.com/photo.php?fbid=4024171121383&set=a.2603402963067&type=3&theater,13-Sep-2012,"tgeu/September, 2012/Lorena Layana (Carlos Henrique) Fortunato da Silva",Paulista,Pernambuco,Brazil,-7.934007,-34.868407,violence,shot,"Lorena's body was found on a river bank. She had been shot twice, of which one in was in the head.
 
 TvT partner organisation Centro de Apoyo a las Identidades Trans:
 
-AO Vivo HOTVClube 14.09.2012; TvT project: Quem a Homofobia Matou Hoje?, online portal, 13.09.2012",https://tdor.translivesmatter.info/reports/2012/09/13/lorena-layana-fortunato-da-silva_paulista-pernambuco-brazil_c7a6eff9
-(Anderson Xavier) de Almeida Lousada,28,,,15-Sep-2012,15 Sep 2012/(Anderson Xavier) de Almeida Lousada,"Santa Rita, Vila Velha, ES",Brazil,-20.34566,-40.33435,shot,"The victim was working in a bar with her uncle when two men came in and fired shots at them, killing de Almeida and shooting her uncle in the hand.
+AO Vivo HOTVClube 14.09.2012; TvT project: Quem a Homofobia Matou Hoje?, online portal, 13.09.2012",,https://tdor.translivesmatter.info/reports/2012/09/13/lorena-layana-fortunato-da-silva_paulista-pernambuco-brazil_c7a6eff9
+(Anderson Xavier) de Almeida Lousada,28,,,,15-Sep-2012,tgeu/15-Sep-2012/(Anderson Xavier) de Almeida Lousada,"Santa Rita, Vila Velha",Espírito Santo,Brazil,-20.34566,-40.33435,violence,shot,"The victim was working in a bar with her uncle when two men came in and fired shots at them, killing de Almeida and shooting her uncle in the hand.
 
-TvT project: Folha Vitória, 15.11.2012",https://tdor.translivesmatter.info/reports/2012/09/15/anderson-xavier-de-almeida-lousada_santa-rita-vila-velha-es-brazil_9dea71b2
-Vitória da Silva Costa,21,2012_09_16_Vitoria-da-Silva-Costa.jpg,https://www.diariodaregiao.com.br/cidades/travesti-morto-tinha-medo-de-rio-preto-1.179471,16-Sep-2012,tgeu/16 Sep 2012/Victoria (Marcos Gustavo) da Silva Costa,"Votuporanga, São Paulo",Brazil,-20.425251,-49.97226,stabbed,"Vitória was brutally murdered in the early hours of Sunday 16th September and her body found near a garbage dumpster. Her killer not only cut her neck but severed one of her ears and cut off her penis.
+TvT project: Folha Vitória, 15.11.2012",,https://tdor.translivesmatter.info/reports/2012/09/15/anderson-xavier-de-almeida-lousada_santa-rita-vila-velha-espirito-santo-brazil_9dea71b2
+Vitória da Silva Costa,21,,2012_09_16_Vitoria-da-Silva-Costa.jpg,https://www.diariodaregiao.com.br/cidades/travesti-morto-tinha-medo-de-rio-preto-1.179471,16-Sep-2012,tgeu/16-Sep-2012/Victoria (Marcos Gustavo) da Silva Costa,Votuporanga,São Paulo,Brazil,-20.425251,-49.97226,violence,stabbed,"Vitória was brutally murdered in the early hours of Sunday 16th September and her body found near a garbage dumpster. Her killer not only cut her neck but severed one of her ears and cut off her penis.
 
 The police considered her murder a hate crime.
 
@@ -124,8 +128,8 @@ https://www.diariodaregiao.com.br/cidades/travesti-morto-tinha-medo-de-rio-preto
 
 https://blogentrenos.wordpress.com/2012/09/18/travesti-e-brutalmente-morta-em-votuporanga/
 
-https://web.archive.org/web/20121005110142/http://redebomdia.com.br/noticia/detalhe/33270/Travesti+e+brutalmente+morta+em+Votuporanga+",https://tdor.translivesmatter.info/reports/2012/09/16/vitoria-da-silva-costa_votuporanga-sao-paulo-brazil_f8c114ed
-Sandy,,,,17-Sep-2012,,"São José dos Campos, São Paulo",Brazil,-23.2683084,-45.9018162,beaten,"Sandy was attacked at dawn in the Campo dos Alemães neighborhood by the occupants of two cars who stopped nearby. 
+https://web.archive.org/web/20121005110142/http://redebomdia.com.br/noticia/detalhe/33270/Travesti+e+brutalmente+morta+em+Votuporanga+",,https://tdor.translivesmatter.info/reports/2012/09/16/vitoria-da-silva-costa_votuporanga-sao-paulo-brazil_f8c114ed
+Sandy,,,,,17-Sep-2012,,São José dos Campos,São Paulo,Brazil,-23.2683084,-45.9018162,violence,beaten,"Sandy was attacked at dawn in the Campo dos Alemães neighborhood by the occupants of two cars who stopped nearby. 
 
 The police were called after neighbours hear her shouts, but she died in hospital.
 
@@ -137,11 +141,11 @@ The area where she died is known as one where homeless people shelter.
 >
 > The victim was eventually rescued from the hospital but could not resist her injuries, especially those to her head. The police were called by a resident who heard the shouts of the victim. 
  
-http://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2012/09/travesti-e-espancado-ate-morte-em-sao-jose-dos-campos.html",https://tdor.translivesmatter.info/reports/2012/09/17/sandy_sao-jose-dos-campos-sao-paulo-brazil_cb6a129d
-Michele (Romário) Ribeiro de Almeida,18,,,22-Sep-2012,22 Sep 2012/Michele (Romário) Ribeiro de Almeida,"Tamarana, PR",Brazil,-23.51033,-47.47426,stabbed,"The victim's body was found on a highway. The day before, she had reportedly been beaten after wrongly being accused of stealing a mobile phone.
+http://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2012/09/travesti-e-espancado-ate-morte-em-sao-jose-dos-campos.html",,https://tdor.translivesmatter.info/reports/2012/09/17/sandy_sao-jose-dos-campos-sao-paulo-brazil_cb6a129d
+Michele (Romário) Ribeiro de Almeida,18,,,,22-Sep-2012,tgeu/22-Sep-2012/Michele (Romário) Ribeiro de Almeida,Tamarana,Paraná,Brazil,-23.51033,-47.47426,violence,stabbed,"The victim's body was found on a highway. The day before, she had reportedly been beaten after wrongly being accused of stealing a mobile phone.
 
-TvT project: O Diario, online portal, 22.09.2012",https://tdor.translivesmatter.info/reports/2012/09/22/michele-romario-ribeiro-de-almeida_tamarana-pr-brazil_8db1e30e
-Name Unknown,,,,21-Sep-2012,tgeu/Sep 2012/N.N.,"Sorocaba, São Paulo",Brazil,-23.722379,-51.093601,burned,"The victim's burnt body was found with hands and feet tied and wounds to her face. Her body had been dragged on a street while wrapped in a blanket. She was probably killed elseware.
+TvT project: O Diario, online portal, 22.09.2012",,https://tdor.translivesmatter.info/reports/2012/09/22/michele-romario-ribeiro-de-almeida_tamarana-parana-brazil_8db1e30e
+Name Unknown,,,,,21-Sep-2012,tgeu/Sep-2012/N.N.,Sorocaba,São Paulo,Brazil,-23.722379,-51.093601,violence,burned,"The victim's burnt body was found with hands and feet tied and wounds to her face. Her body had been dragged on a street while wrapped in a blanket. She was probably killed elseware.
 
 The victim had been tortured and the body was found burned with hands and feet fettered and wounds to her face near a sex workers' area. The body had been dragged through the street while wrapped in a blanket.
 
@@ -157,8 +161,8 @@ TvT partner organisation Centro de Apoyo a las Identidades Trans,
 
 TvT project: www.cruzeirodosul.inf.br 23.09.2012
 
-https://web.archive.org/web/20141120201732/http://www.cruzeirodosul.inf.br/materia/421223/corpo-e-encontrado-queimado-perto-de-corrego-na-vila-jardini",https://tdor.translivesmatter.info/reports/2012/09/21/name-unknown_sorocaba-sao-paulo-brazil_58491dff
-Raiony Batalha,40,,,24-Sep-2012,tgeu/24 Sep 2012/Raiony Batalha,"Manaus, Amazonas",Brazil,-3.0832553,-60.0539292,stabbed,"Raiony was found face down and with her arms tied in her own house on Rua 16 in in the Alvorada 2 neighborhood of western Manaus. She had been stabbed in the abdomen.
+https://web.archive.org/web/20141120201732/http://www.cruzeirodosul.inf.br/materia/421223/corpo-e-encontrado-queimado-perto-de-corrego-na-vila-jardini",,https://tdor.translivesmatter.info/reports/2012/09/21/name-unknown_sorocaba-sao-paulo-brazil_58491dff
+Raiony Batalha,40,,,,24-Sep-2012,tgeu/24-Sep-2012/Raiony Batalha,Manaus,Amazonas,Brazil,-3.0832553,-60.0539292,violence,stabbed,"Raiony was found face down and with her arms tied in her own house on Rua 16 in in the Alvorada 2 neighborhood of western Manaus. She had been stabbed in the abdomen.
 
 The suspect is a neighbour who had made death threats to her.
 
@@ -170,20 +174,20 @@ TvT project: D24AM, online portal, 24.09.12
 
 http://d24am.com/noticias/homem-e-assassinado-dentro-da-propria-casa-com-uma-facada/69486/
 
-https://homofobiamata.files.wordpress.com/2013/02/assassinatos.pdf",https://tdor.translivesmatter.info/reports/2012/09/24/raiony-batalha_manaus-amazonas-brazil_39bf2c67
-Name Unknown,,,,24-Sep-2012,"September, 2012/N.N.","Avda. Carlos Brussa, Montevideo",Uruguay,-34.85844,-56.21052,shot,"The victim was executed with a gunshot in the head. The body was found mutilated and partly burned in a park.
+https://homofobiamata.files.wordpress.com/2013/02/assassinatos.pdf",,https://tdor.translivesmatter.info/reports/2012/09/24/raiony-batalha_manaus-amazonas-brazil_39bf2c67
+Name Unknown,,,,,24-Sep-2012,tgeu/Sep-2012/N.N.,Montevideo,Montevideo,Uruguay,-34.85844,-56.21052,violence,shot,"The victim was executed with a gunshot in the head. The body was found mutilated and partly burned in a park in Avda. Carlos Brussa.
 
-TvT partner organisation Centro de Apoyo a las Identidades Trans: Portal Digital El País. 24.09.2012",https://tdor.translivesmatter.info/reports/2012/09/24/name-unknown_avda-carlos-brussa-montevideo-uruguay_3696c064
-(Miguel Angelo) Basil,36,,,26-Sep-2012,26 Sep 2012/(Miguel Angelo) Basil,"Realeza, Manhuaçu, MG",Brazil,-20.24471,-42.02381,murdered,"The victim was reportedly attacked by three men, who demanded paid sexual services, started an argument and killed her.
+TvT partner organisation Centro de Apoyo a las Identidades Trans: Portal Digital El País. 24.09.2012",,https://tdor.translivesmatter.info/reports/2012/09/24/name-unknown_avda-carlos-brussa-montevideo-uruguay_3696c064
+(Miguel Angelo) Basil,36,,,,26-Sep-2012,tgeu/26-Sep-2012/(Miguel Angelo) Basil,"Realeza, Manhuaçu",Minas Gerais,Brazil,-20.24471,-42.02381,violence,murdered,"The victim was reportedly attacked by three men, who demanded paid sexual services, started an argument and killed her.
 
-TvT project: Cabuloso, online portal, 26.09.12",https://tdor.translivesmatter.info/reports/2012/09/26/miguel-angelo-basil_realeza-manhuacu-mg-brazil_b7ca386b
-Wilmer Amundaray,27,,,26-Sep-2012,26 Sep 2012/Wilmer Amundaray,Autopista Regional del Centro,Venezuela,10.4019,-66.90066,run-over,"The authorities believe that the victim tried to cross the street or was intentionally pushed by another person.
+TvT project: Cabuloso, online portal, 26.09.12",,https://tdor.translivesmatter.info/reports/2012/09/26/miguel-angelo-basil_realeza-manhuacu-minas-gerais-brazil_b7ca386b
+Wilmer Amundaray,27,,,,26-Sep-2012,tgeu/26-Sep-2012/Wilmer Amundaray,Autopista Regional del Centro,,Venezuela,10.4019,-66.90066,violence,run-over,"The authorities believe that the victim tried to cross the street or was intentionally pushed by another person.
 
-TvT partner organisation  Centro de Apoyo a las Identidades Trans www.elperiodiquito.com  26.09.2012",https://tdor.translivesmatter.info/reports/2012/09/26/wilmer-amundaray_autopista-regional-del-centro-venezuela_4f0a248c
-Name Unknown,,,,26-Sep-2012,"September, 2012/N.N.","Calle Sauce, La Floresta, Poza Rica, Veracruz",Mexico,20.54226,-97.4611,beaten,"The victim’s body showed marks of blows and was found in a state of decomposition within a cistern.
+TvT partner organisation  Centro de Apoyo a las Identidades Trans www.elperiodiquito.com  26.09.2012",,https://tdor.translivesmatter.info/reports/2012/09/26/wilmer-amundaray_autopista-regional-del-centro-venezuela_4f0a248c
+Name Unknown,,,,,26-Sep-2012,tgeu/Sep-2012/N.N.,Poza Rica de Hidalgo,Veracruz,Mexico,20.54226,-97.4611,violence,beaten,"The victim’s body showed marks of blows and was found in a state of decomposition within a cistern in Calle Sauce, La La Floresta.
 
-TvT partner organisation Centro de Apoyo a las Identidades Trans: GolpePolitico.com 26.09.2012",https://tdor.translivesmatter.info/reports/2012/09/26/name-unknown_calle-sauce-la-floresta-poza-rica-veracruz-mexico_b37e27b0
-Carlinha,19,,,29-Sep-2012,tgeu/29 Sep 2012/Carlinha (Carlos Henrique),"Ariquemes, Rondônia",Brazil,-9.907652,-63.033069,stoned,"Carlinha was beaten around her head with a stone in an abandoned nightclub in the Marechal Rondon neighborhood. According  an argument may have preceded her killing.
+TvT partner organisation Centro de Apoyo a las Identidades Trans: GolpePolitico.com 26.09.2012",,https://tdor.translivesmatter.info/reports/2012/09/26/name-unknown_poza-rica-de-hidalgo-veracruz-mexico_b37e27b0
+Carlinha,19,,,,29-Sep-2012,tgeu/29-Sep-2012/Carlinha (Carlos Henrique),Ariquemes,Rondônia,Brazil,-9.907652,-63.033069,violence,stoned,"Carlinha was beaten around her head with a stone in an abandoned nightclub in the Marechal Rondon neighborhood. According  an argument may have preceded her killing.
 
 > Marcela da Silva Nascimento witnessed the crime and said that she slept with the victim and another woman, named Aldelia Maria da Silva on the balcony of the disused nightclub. Marcela says that Adelia's boyfriend arrived on the scene this morning and started an argument. ""He came and beat his girlfriend and got a stone to hit her, but she diverted it and the stone hit Carlinha's head,"" she explained.
 > 
@@ -193,8 +197,8 @@ TvT project: G1, online portal, 28.09.12
 
 http://g1.globo.com/ro/rondonia/noticia/2012/09/travesti-e-morto-com-uma-pedrada-em-ariquemes-ro.html
 
-https://homofobiamata.files.wordpress.com/2013/02/assassinatos.pdf",https://tdor.translivesmatter.info/reports/2012/09/29/carlinha_ariquemes-rondonia-brazil_5a913fcf
-Tchesca Vieira Pinho,29,2012_09_29_Tchesca-Vieira-Pinho.jpg,https://www.facebook.com/photo.php?fbid=10206322025308229&set=a.2603402963067&type=3&theater,29-Sep-2012,tgeu/29 Sep 2012/Tchesca (Francesco Felipe) Vieira Pinho,"Pirjuí, São Paulo",Brazil,-16.35394,-48.95915,stabbed,"Tchesca was stabbed in the back. Her body was found in a building in the city centre early on Saturday 29th September.
+https://homofobiamata.files.wordpress.com/2013/02/assassinatos.pdf",,https://tdor.translivesmatter.info/reports/2012/09/29/carlinha_ariquemes-rondonia-brazil_5a913fcf
+Tchesca Vieira Pinho,29,,2012_09_29_Tchesca-Vieira-Pinho.jpg,https://www.facebook.com/photo.php?fbid=10206322025308229&set=a.2603402963067&type=3&theater,29-Sep-2012,tgeu/29-Sep-2012/Tchesca (Francesco Felipe) Vieira Pinho,Pirjuí,São Paulo,Brazil,-16.35394,-48.95915,violence,stabbed,"Tchesca was stabbed in the back. Her body was found in a building in the city centre early on Saturday 29th September.
 
 > Scheduled for today, at 10am is the trial of Damião de Farias Felix, accused by the prosecutor (MP) of murdering with a stab in the back, in September 2012, in Pirajuí, [deadname] Vieira Pinho, who was a [trans woman] and known as 'Tchesca'. Felix was a fugitive for about a year, but was arrested by the Civil Police in November 2013 in Pernambuco.
 >
@@ -206,8 +210,8 @@ Tchesca Vieira Pinho,29,2012_09_29_Tchesca-Vieira-Pinho.jpg,https://www.facebook
 
 TvT project: Rede Bom Dia, online portal, 29.09.2012; Quem a Homofobia Matou Hoje?, online portal, 29.09.2012
 
-http://pederneirasdefato.blogspot.com/2015/10/pirajui-acusado-de-matar-travesti-vai.html",https://tdor.translivesmatter.info/reports/2012/09/29/tchesca-vieira-pinho_pirjui-sao-paulo-brazil_0def995d
-January Marie Lapuz,26,2012_09_29_January-Marie-Lapuz.jpg,https://januarylapuz.net/about/,29-Sep-2012,tgeu/29 Sep 2012/January Marie Lapuz,"New Westminster, British Columbia",Canada,49.219593,-122.908372,stabbed,"January was stabbed at around 10pm on Saturday 29th September. She died in hospital.
+http://pederneirasdefato.blogspot.com/2015/10/pirajui-acusado-de-matar-travesti-vai.html",,https://tdor.translivesmatter.info/reports/2012/09/29/tchesca-vieira-pinho_pirjui-sao-paulo-brazil_0def995d
+January Marie Lapuz,26,,2012_09_29_January-Marie-Lapuz.jpg,https://januarylapuz.net/about/,29-Sep-2012,tgeu/29-Sep-2012/January Marie Lapuz,New Westminster,British Columbia,Canada,49.219593,-122.908372,violence,stabbed,"January was stabbed at around 10pm on Saturday 29th September. She died in hospital.
 
 > A Vancouver support group for the transgender community is mourning the loss of one of their members after she was stabbed to death on Saturday.  
 >
@@ -262,52 +266,54 @@ https://www.newwestfilmfest.ca/events/my-name-was-january
 
 https://www.nsi-canada.ca/2019/02/my-name-was-january/
 
-https://www.youtube.com/watch?v=gKW_d4G7lcw",https://tdor.translivesmatter.info/reports/2012/09/29/january-marie-lapuz_new-westminster-british-columbia-canada_6e2dd157
-Sammy (Miguel Ángel) Chóez Cedeño,29,,,30-Sep-2012,30 Sep 2012/Sammy (Miguel Ángel) Chóez Cedeño,"Anconcito, Santa Elena",Ecuador,-2.32469,-80.89075,strangled,"The victim was reportedly suffocated by a friend who was also a trans person. The alleged perpetrator was arrested.
+https://www.youtube.com/watch?v=gKW_d4G7lcw",,https://tdor.translivesmatter.info/reports/2012/09/29/january-marie-lapuz_new-westminster-british-columbia-canada_6e2dd157
+Sammy (Miguel Ángel) Chóez Cedeño,29,,,,30-Sep-2012,tgeu/30-Sep-2012/Sammy (Miguel Ángel) Chóez Cedeño,Anconcito,Santa Elena,Ecuador,-2.32469,-80.89075,violence,strangled,"The victim was reportedly suffocated by a friend who was also a trans person. The alleged perpetrator was arrested.
 
-TvT partner organization:  Centro de Apoyo a las Identidades Trans. www.lahora.com.ec  04.10.2012",https://tdor.translivesmatter.info/reports/2012/09/30/sammy-miguel-angel-choez-cedeno_anconcito-santa-elena-ecuador_bc672871
-Francesca (Francisco) Chique Torres,,,,30-Sep-2012,"September, 2012/Francesca (Francisco) Chique Torres","Pucallpa, Madre de Dios",Peru,-12.61695,-70.3916,stabbed,"The victim was fettered by the aggressor and stabbed four times in the chest and back and cut in the throat deeply.
+TvT partner organization:  Centro de Apoyo a las Identidades Trans. www.lahora.com.ec  04.10.2012",,https://tdor.translivesmatter.info/reports/2012/09/30/sammy-miguel-angel-choez-cedeno_anconcito-santa-elena-ecuador_bc672871
+Francesca (Francisco) Chique Torres,,,,,30-Sep-2012,tgeu/Sep-2012/Francesca (Francisco) Chique Torres,"Pucallpa, Madre de Dios",,Peru,-12.61695,-70.3916,violence,stabbed,"The victim was fettered by the aggressor and stabbed four times in the chest and back and cut in the throat deeply.
 
-TvT partner organization:  Centro de Apoyo a las Identidades Trans travitasperu.blogspot.mx  30.09.2012",https://tdor.translivesmatter.info/reports/2012/09/30/francesca-francisco-chique-torres_pucallpa-madre-de-dios-peru_bfa0c1cb
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
+*Editor's Note: the location given is contradictory: Pucallpa and Madre de Dios are different locations.*
+
+TvT partner organization:  Centro de Apoyo a las Identidades Trans travitasperu.blogspot.mx  30.09.2012",,https://tdor.translivesmatter.info/reports/2012/09/30/francesca-francisco-chique-torres_pucallpa-madre-de-dios-peru_bfa0c1cb
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,

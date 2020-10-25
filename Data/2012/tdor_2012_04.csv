@@ -1,22 +1,20 @@
-﻿Name,Age,Photo,Photo source,Date,Source ref,Location,Country,Latitude,Longitude,Cause of death,Description,Permalink,
-Baga (Edson) Duarte de Souza,38,,,1-Apr-2012,01 Apr 2012/Baga (Edson) Duarte de Souza,"Lagoa das Pedras, Campos dos Goytacazes, RJ",Brazil,-21.76412,-41.29996,beaten,"The victim's body was found burned on the sofa in her own apartment, which the perpetrator set on fire.
+﻿Name,Age,Birthdate,Photo,Photo source,Date,Source ref,Location,State/Province,Country,Latitude,Longitude,Category,Cause of death,Description,Tweet,Permalink,
+Baga (Edson) Duarte de Souza,38,,,,1-Apr-2012,tgeu/1-Apr-2012/Baga (Edson) Duarte de Souza,"Lagoa das Pedras, Campos dos Goytacazes",Rio de Janeiro,Brazil,-21.76412,-41.29996,violence,beaten,"The victim's body was found burned on the sofa in her own apartment, which the perpetrator set on fire.
 
-TvT partner organisation Centro de Apoyo a las Identidades Trans:",https://tdor.translivesmatter.info/reports/2012/04/01/baga-edson-duarte-de-souza_lagoa-das-pedras-campos-dos-goytacazes-rj-brazil_dbacde3d,
-Debora (Javier) Arango,30,,,2-Apr-2012,"April, 2012/Debora (Javier) Arango","Doleguita, David, Chiriquí",Panama,8.38965,-82.42709,beaten,"Debora died inside the room she had rented. Her body showed wounds of various blows in the face.
+TvT partner organisation Centro de Apoyo a las Identidades Trans:",,https://tdor.translivesmatter.info/reports/2012/04/01/baga-edson-duarte-de-souza_lagoa-das-pedras-campos-dos-goytacazes-rio-de-janeiro-brazil_dbacde3d,
+Debora (Javier) Arango,30,,,,2-Apr-2012,tgeu/Apr-2012/Debora (Javier) Arango,"Doleguita, David",Chiriquí,Panama,8.38965,-82.42709,violence,beaten,"Debora died inside the room she had rented. Her body showed wounds of various blows in the face.
 
 Debora was presumably an indigenous person. 
 
-TvT partner organisation Centro de Apoyo a las Identidades Trans. El Siglo.com 02.04.2012",https://tdor.translivesmatter.info/reports/2012/04/02/debora-javier-arango_doleguita-david-chiriqui-panama_77080745,
-Talita (Cláudio) Araújo Santos,17,,,2-Apr-2012,02 Apr 2004/12/Talita (Cláudio) Araújo Santos,"Renascer, Cabedelo, PB",Brazil,-6.97937,-34.83539,shot,"The victim was shot at the door of her own apartment.
+TvT partner organisation Centro de Apoyo a las Identidades Trans. El Siglo.com 02.04.2012",,https://tdor.translivesmatter.info/reports/2012/04/02/debora-javier-arango_doleguita-david-chiriqui-panama_77080745,
+Talita (Cláudio) Araújo Santos,17,,,,2-Apr-2012,tgeu/2-Apr-2012/12/Talita (Cláudio) Araújo Santos,"Renascer, Cabedelo",Paraíba,Brazil,-6.97937,-34.83539,violence,shot,"The victim was shot at the door of her own apartment.
 
-TvT project: Quem a Homofobia Matou Hoje?, online portal, 02.04.2012",https://tdor.translivesmatter.info/reports/2012/04/02/talita-claudio-araujo-santos_renascer-cabedelo-pb-brazil_f838fb4f,
-(Rafael) Alves Lopes,24,,,2-Apr-2012,02 Apr 2004/12/(Rafael) Alves Lopes,"Timbú, Eusebio, CE",Brazil,-3.85584,-38.47315,shot,"
+TvT project: Quem a Homofobia Matou Hoje?, online portal, 02.04.2012",,https://tdor.translivesmatter.info/reports/2012/04/02/talita-claudio-araujo-santos_renascer-cabedelo-paraiba-brazil_f838fb4f,
+(Rafael) Alves Lopes,24,,,,2-Apr-2012,tgeu/2-Apr-2012/12/(Rafael) Alves Lopes,"Timbú, Eusebio",Ceará,Brazil,-3.85584,-38.47315,violence,shot,"TvT project: Jangadeiro, online portal, 03.04.2012",,https://tdor.translivesmatter.info/reports/2012/04/02/rafael-alves-lopes_timbu-eusebio-ceara-brazil_3201b4e7,
+Coko Williams,35,,,,3-Apr-2012,tgeu/3-Apr-2012/12/Coko Williams,Detroit,Michigan,USA,42.332916,-83.047853,violence,shot and throat cut,"Coko was killed in an area which is known for sex work. Her killer fled in a car.
 
-TvT project: Jangadeiro, online portal, 03.04.2012",https://tdor.translivesmatter.info/reports/2012/04/02/rafael-alves-lopes_timbu-eusebio-ce-brazil_3201b4e7,
-Coko Williams,35,,,3-Apr-2012,03 Apr 2004/12/Coko Williams,"Detroit, Michigan",USA,42.332916,-83.047853,"slit throat, shot","Coko was killed in an area which is known for sex work. Her killer fled in a car.
-
-TvT project: CBS Local Detroit 04.04.2012; Huffington Post 04.04.2012",https://tdor.translivesmatter.info/reports/2012/04/03/coko-williams_detroit-michigan-usa_6f9c55cf,
-Júlia,,,,4-Apr-2012,,"Goiânia, Goiás",Brazil,-16.7094166,-49.2576322,cosmetic filler poisoning,"Júlia died from a cardiac arrest three days after a cosmetic filler injection.
+TvT project: CBS Local Detroit 04.04.2012; Huffington Post 04.04.2012",,https://tdor.translivesmatter.info/reports/2012/04/03/coko-williams_detroit-michigan-usa_6f9c55cf,
+Júlia,,,,,4-Apr-2012,,Goiânia,Goiás,Brazil,-16.7094166,-49.2576322,medical,cosmetic filler complications,"Júlia died from a cardiac arrest three days after a cosmetic filler injection.
 
 > A [trans woman] died after supposedly applying industrial silicone to her buttocks on Wednesday night (4) at the Emergency Hospital of Goiânia (Hugo). According to the bulletin released at Hugo police station, the [woman] was [trans], known as Júlia, and lived in Osasco (SP).
 >
@@ -26,8 +24,8 @@ Júlia,,,,4-Apr-2012,,"Goiânia, Goiás",Brazil,-16.7094166,-49.2576322,cosmetic
 
 Júlia's death was not recorded in the TDoR 2012 memorial list released by Transgender Europe (TGEU) in November 2012.
 
-http://g1.globo.com/goias/noticia/2012/04/travesti-morre-apos-aplicar-silicone-industrial-nas-nadegas-em-goiania.html",https://tdor.translivesmatter.info/reports/2012/04/04/julia_goiania-goias-brazil_5e00e2e3,
-Olga Tyan,,2012_04_04_Olga-Tyan.jpg,https://comingoutspb.com/news/assets/images/fornews_preview/olga_tyan.jpg,4-Apr-2012,,Moscow,Russia,55.751634,37.618704,murdered,"Olga was murdered. No other details are known.
+http://g1.globo.com/goias/noticia/2012/04/travesti-morre-apos-aplicar-silicone-industrial-nas-nadegas-em-goiania.html",,https://tdor.translivesmatter.info/reports/2012/04/04/julia_goiania-goias-brazil_5e00e2e3,
+Olga Tyan,,,2012_04_04_Olga-Tyan.jpg,https://comingoutspb.com/news/assets/images/fornews_preview/olga_tyan.jpg,4-Apr-2012,,Moscow,Moscow,Russia,55.751634,37.618704,violence,murdered,"Olga was murdered. No other details are known.
 
 Note that her exact date of death is not known so the date of this report is based upon that of the earliest known report.
 
@@ -37,26 +35,25 @@ Note that her exact date of death is not known so the date of this report is bas
 
 Olga's murder was not recorded on the official TDoR 2012 list released by Transgender Europe (TGEU) in November 2012.
 
-https://comingoutspb.com/news/olga_tyan/",https://tdor.translivesmatter.info/reports/2012/04/04/olga-tyan_moscow-russia_32f9e748,
-Tyrell Jackson,,,,4-Apr-2012,tdor.info/4-4-2012/Tyrell Jackson,"Riviera Beach, Florida",USA,26.783424,-80.054831,shot,Tyrell was shot.,https://tdor.translivesmatter.info/reports/2012/04/04/tyrell-jackson_riviera-beach-florida-usa_9e025f06,
-Nüket Kızılkaya,,2012_04_05_Nukhet-Kizilkaya.jpg,https://www.facebook.com/photo.php?fbid=3199608987845&set=a.2603402963067&type=3&theater,5-Apr-2012,tgeu/5 Apr 2012/Nukhet (Kadir) Kızılkaya,Aydın,Turkey,37.845913,27.833838,stabbed,"Nüket was found dead in her apartment. She had been stabbed 40 times.
+https://comingoutspb.com/news/olga_tyan/",,https://tdor.translivesmatter.info/reports/2012/04/04/olga-tyan_moscow-russia_32f9e748,
+Nüket Kızılkaya,,,2012_04_05_Nukhet-Kizilkaya.jpg,https://www.facebook.com/photo.php?fbid=3199608987845&set=a.2603402963067&type=3&theater,5-Apr-2012,tgeu/5-Apr-2012/Nukhet (Kadir) Kızılkaya,Aydın,Aydın,Turkey,37.845913,27.833838,violence,stabbed,"Nüket was found dead in her apartment. She had been stabbed 40 times.
 
-TVT project: TGEU SC member Kemal Ordek",https://tdor.translivesmatter.info/reports/2012/04/05/nukhet-kadir-kzlkaya_aydn-turkey_e5adbcc9,
-(Wagner) de Moraes,22,,,6-Apr-2012,06 Apr 2012/(Wagner) de Moraes,"R. Ana Moretz Miranda, Sao José dos Pinhais, PR",Brazil,-25.51385,-49.15509,stoned,"
+TVT project: TGEU SC member Kemal Ordek",,https://tdor.translivesmatter.info/reports/2012/04/05/nukhet-kadir-kzlkaya_aydn-turkey_e5adbcc9,
+(Wagner) de Moraes,22,,,,6-Apr-2012,tgeu/6-Apr-2012/(Wagner) de Moraes,Sao José dos Pinhais,Paraná,Brazil,-25.51385,-49.15509,violence,stoned,"The victim was killed on R. Ana Moretz Miranda.
 
-TvT project: Crimes Curitiba, online portal, 06.04.2012",https://tdor.translivesmatter.info/reports/2012/04/06/wagner-de-moraes_r-ana-moretz-miranda-sao-jose-dos-pinhais-pr-brazil_2fd82eb3,
-Karolly Mel,,,,6-Apr-2012,06 Apr 2012/Karolly Mel,"R. Epitácio Pessoa, Sao Paulo, SP",Brazil,-23.54599,-46.64605,beating,"The victim was beaten to death and thrown out of a car.
+TvT project: Crimes Curitiba, online portal, 06.04.2012",,https://tdor.translivesmatter.info/reports/2012/04/06/wagner-de-moraes_sao-jose-dos-pinhais-parana-brazil_2fd82eb3,
+Karolly Mel,,,,,6-Apr-2012,tgeu/6-Apr-2012/Karolly Mel,São Paulo,São Paulo,Brazil,-23.54599,-46.64605,violence,beating,"The victim was beaten to death and thrown out of a car on R. Epitácio Pessoa.
 
-TvT project: Santa Cruz Agreste, online portal, 11.04.2012",https://tdor.translivesmatter.info/reports/2012/04/06/karolly-mel_r-epitacio-pessoa-sao-paulo-sp-brazil_af8cfe25,
-Cláudia (Sebastiao Francisco) Vila Nova,38,,,9-Apr-2012,"April, 2012/Cláudia (Sebastiao Francisco) Vila Nova","Bezerros, PE",Brazil,-8.236323,-35.749947,not reported,"The body of the victim, who was around 38 years old, was found on 9 April 2012.
+TvT project: Santa Cruz Agreste, online portal, 11.04.2012",,https://tdor.translivesmatter.info/reports/2012/04/06/karolly-mel_r-epitacio-pessoa-sao-paulo-sao-paulo-brazil_af8cfe25,
+Cláudia (Sebastiao Francisco) Vila Nova,38,,,,9-Apr-2012,tgeu/Apr-2012/Cláudia (Sebastiao Francisco) Vila Nova,Bezerros,Pernambuco,Brazil,-8.236323,-35.749947,uncategorised,not reported,"The body of the victim, who was around 38 years old, was found on 9 April 2012.
 
-TvT project: Blog do Adielson Galvao, blog, 10.04.2012",https://tdor.translivesmatter.info/reports/2012/04/09/claudia-sebastiao-francisco-vila-nova_bezerros-pe-brazil_6c79b9a9,
-Meankshiammal,42,,,9-Apr-2012,09 Apr 2012/Meankshiammal,"Hosur, Tamil Nadu",India,12.732884,77.830948,slit throat,"The victim's body was found naked with marks of burns on the chest. Police suspect that a youth, who used to visit Meenakshiammal frequently, may be involved in the crime.
+TvT project: Blog do Adielson Galvao, blog, 10.04.2012",,https://tdor.translivesmatter.info/reports/2012/04/09/claudia-sebastiao-francisco-vila-nova_bezerros-pernambuco-brazil_6c79b9a9,
+Meankshiammal,42,,,,9-Apr-2012,tgeu/9-Apr-2012/Meankshiammal,Hosur,Tamil Nadu,India,12.732884,77.830948,violence,slit throat,"The victim's body was found naked with marks of burns on the chest. Police suspect that a youth, who used to visit Meenakshiammal frequently, may be involved in the crime.
 
 Note that tdor.info gives the location as Krishnagiri, Tamil Nadu
 
-TvT project: IBN libe, 12.04.2012; News Reporter 12.04.2012",https://tdor.translivesmatter.info/reports/2012/04/09/meankshiammal_hosur-tamil-nadu-india_89c3c3c5,
-Paige Clay,23,2012_04_16_Paige-Clay.jpg,https://transgriot.blogspot.com/2012/04/upcoming-justice-for-paige-rally.html,16-Apr-2012,tgeu/16 Apr 2012/Paige Clay,"Chicago, Illinois",USA,41.883229,-87.632398,shot,"Paige's body was found in an alley behind the 4500 block of West Jackson Boulevard in the West Garfield Park neighborhood. She had been shot in the forehead.
+TvT project: IBN libe, 12.04.2012; News Reporter 12.04.2012",,https://tdor.translivesmatter.info/reports/2012/04/09/meankshiammal_hosur-tamil-nadu-india_89c3c3c5,
+Paige Clay,23,,2012_04_16_Paige-Clay.jpg,https://transgriot.blogspot.com/2012/04/upcoming-justice-for-paige-rally.html,16-Apr-2012,tgeu/16-Apr-2012/Paige Clay,Chicago,Illinois,USA,41.883229,-87.632398,violence,shot,"Paige's body was found in an alley behind the 4500 block of West Jackson Boulevard in the West Garfield Park neighborhood. She had been shot in the forehead.
 
 > One block east of the Citgo, a rusty viaduct crosses Madison at the corner of Kenton Avenue. It was under this viaduct that some of the transgender women who were engaged in sex work (locally referred to as ""on the stroll"") with 23-year-old Paige Clay say they last saw Clay getting into a car with an unknown man or group of men. On April 16, 2012, Clay's body was discovered half a mile away from the viaduct in an alley in the 4500 block of West Jackson. She had been shot through the head.
 > 
@@ -76,8 +73,8 @@ https://chicago.cbslocal.com/2012/04/20/community-rallies-after-transgender-woma
 
 https://www.huffingtonpost.com/2012/04/19/paige-clay-chicago-transg_n_1437606.html
 
-http://www.windycitymediagroup.com/lgbt/Transgender-woman-found-murdered-in-Chicago/37284.html",https://tdor.translivesmatter.info/reports/2012/04/16/paige-clay_chicago-illinois-usa_70eaecee,
-Pamela Moitiño Contreras,26,,,18-Apr-2012,"April, 2012/Pamela","Melo, Cerro Largo",Uruguay,-32.368112,-54.170127,beaten,"Pamela's body was found weighted down inside a well eight days after she had disappeared. Her body showed clear signs of sexual abuse and the death was caused by blows from a stick and a piece of pipe.
+http://www.windycitymediagroup.com/lgbt/Transgender-woman-found-murdered-in-Chicago/37284.html",,https://tdor.translivesmatter.info/reports/2012/04/16/paige-clay_chicago-illinois-usa_70eaecee,
+Pamela Moitiño Contreras,26,,,,18-Apr-2012,tgeu/Apr-2012/Pamela,Melo,Cerro Largo,Uruguay,-32.368112,-54.170127,violence,beaten,"Pamela's body was found weighted down inside a well eight days after she had disappeared. Her body showed clear signs of sexual abuse and the death was caused by blows from a stick and a piece of pipe.
 
 Two older men and one minor were involved in her murder and they tried to hide her body in the well. It was not established whether she was killed there or elsewhere.
 
@@ -85,44 +82,44 @@ TvT partner organisation Centro de Apoyo a las Identidades Trans: Periódico El 
 
 https://web.archive.org/web/20120927003012/http://www.elpais.com.uy/120418/pciuda-636805/ciudades/Travesti-aparecio-muerto-en-pozo/
 
-https://bibliotecas.ort.edu.uy/bibid/78977/file/1203 (page 45)",https://tdor.translivesmatter.info/reports/2012/04/18/pamela-moitino-contreras_melo-cerro-largo-uruguay_14c70273,
-Greice Kelly Pereira,26,2012_04_18_Greice-Kelly-Pereira.jpg,https://www.facebook.com/photo.php?fbid=3293986587226&set=a.2603402963067&type=3&theater,18-Apr-2012,tgeu/18 Apr 2012/Greice Kelly (Wanderson Jesus) Pereira,"Três Lagoas, Mato Grosso do Sul",Brazil,-20.791652,-51.711103,stabbed,"The victim was known for having won the city's ""Miss Gay"" title twice. The police arrested the perpetrator.
+https://bibliotecas.ort.edu.uy/bibid/78977/file/1203 (page 45)",,https://tdor.translivesmatter.info/reports/2012/04/18/pamela-moitino-contreras_melo-cerro-largo-uruguay_14c70273,
+Greice Kelly Pereira,26,,2012_04_18_Greice-Kelly-Pereira.jpg,https://www.facebook.com/photo.php?fbid=3293986587226&set=a.2603402963067&type=3&theater,18-Apr-2012,tgeu/18-Apr-2012/Greice Kelly (Wanderson Jesus) Pereira,Três Lagoas,Mato Grosso do Sul,Brazil,-20.791652,-51.711103,violence,stabbed,"The victim was known for having won the city's ""Miss Gay"" title twice. The police arrested the perpetrator.
 
-TvT project: G Planeta, online blog, 18.04.2012",https://tdor.translivesmatter.info/reports/2012/04/18/greice-kelly-pereira_tres-lagoas-mato-grosso-do-sul-brazil_fa2d5330,
-Jaqueline Lorenzo de Souza Neves,29,2012_04_19_Jaqueline-Lorenzo-de-Souza-Neves.jpg,https://www.facebook.com/photo.php?fbid=3296161441596&set=a.2603402963067&type=3&theater,19-Apr-2012,tgeu/Apr 2012/Jaqueline Lorenzo (Jacson) de Souza Neves,"Chapecó, Santa Catarina",Brazil,-27.101388,-52.617799,murdered,"The victim, whose body was found on 19 April, had been missing since 14 April 2012.
+TvT project: G Planeta, online blog, 18.04.2012",,https://tdor.translivesmatter.info/reports/2012/04/18/greice-kelly-pereira_tres-lagoas-mato-grosso-do-sul-brazil_fa2d5330,
+Jaqueline Lorenzo de Souza Neves,29,,2012_04_19_Jaqueline-Lorenzo-de-Souza-Neves.jpg,https://www.facebook.com/photo.php?fbid=3296161441596&set=a.2603402963067&type=3&theater,19-Apr-2012,tgeu/Apr-2012/Jaqueline Lorenzo (Jacson) de Souza Neves,Chapecó,Santa Catarina,Brazil,-27.101388,-52.617799,violence,murdered,"The victim, whose body was found on 19 April, had been missing since 14 April 2012.
 
-TvT project: Clic RBS, online portal, 19.04.2012",https://tdor.translivesmatter.info/reports/2012/04/19/jaqueline-lorenzo-de-souza-neves_chapeco-santa-catarina-brazil_7a93c85c,
-Rebekah,,,,22-Apr-2012,tdor.info/22-04-2012/Rebekah,"Maceió, Alagoas ",Brazil,-9.647684,-35.733926,shot,Rebekah was shot in the back of the head,https://tdor.translivesmatter.info/reports/2012/04/22/rebekah_maceio-alagoas--brazil_4f090d1c,
-Name Unknown,,,,23-Apr-2012,"April, 2012/N.N.","BR-116, Governador Valadares, MG",Brazil,-18.43102,-47.60747,dismembered,"The victim's body was found dismembered and gagged in a plastic bag near a highway.
+TvT project: Clic RBS, online portal, 19.04.2012",,https://tdor.translivesmatter.info/reports/2012/04/19/jaqueline-lorenzo-de-souza-neves_chapeco-santa-catarina-brazil_7a93c85c,
+Rebekah,,,,,22-Apr-2012,tdor.info/22-Apr-2012/Rebekah,Maceió ,Alagoas,Brazil,-9.647684,-35.733926,violence,shot,"Rebekah was shot in the back of the head.
 
-TvT project: Quem a Homofobia Matou Hoje?, online portal, 23.04.2012",https://tdor.translivesmatter.info/reports/2012/04/23/name-unknown_br--governador-valadares-mg-brazil_3f33c925,
-Gabriela/La Brasileña,37,,,24-Apr-2012,"April, 2012/Gabriela/La Brasileña",,Uruguay,-32.804592,-56.028786,shot,"
+Although her murder was not reported on the TDoR 2012 list issued by Transgender Europe (TGEU) in November 2012, it was reported by [tdor.info](https://tdor.info).",,https://tdor.translivesmatter.info/reports/2012/04/22/rebekah_maceio-alagoas-brazil_4f090d1c,
+Name Unknown,,,,,23-Apr-2012,tgeu/Apr-2012/N.N.,Governador Valadares,Mato Grosso do Sul,Brazil,-18.43102,-47.60747,violence,dismembered,"The victim's body was found dismembered and gagged in a plastic bag near the BR-116 highway.
 
-TvT partner organisation Centro de Apoyo a las Identidades Trans: Periódico El Observador Online. 24.04.2012",https://tdor.translivesmatter.info/reports/2012/04/24/gabrielala-brasilena_uruguay_de9242fc,
-Name Unknown,,,,24-Apr-2012,"April, 2012/N.N.","Avenida Lima y Paraguay, La Aguada, Montevideo",Uruguay,-34.8871,-56.19038,not reported,"The victim’s body was found on a street.
+TvT project: Quem a Homofobia Matou Hoje?, online portal, 23.04.2012",,https://tdor.translivesmatter.info/reports/2012/04/23/name-unknown_governador-valadares-mato-grosso-do-sul-brazil_3f33c925,
+Gabriela/La Brasileña,37,,,,24-Apr-2012,tgeu/Apr-2012/Gabriela/La Brasileña,,,Uruguay,-32.804592,-56.028786,violence,shot,TvT partner organisation Centro de Apoyo a las Identidades Trans: Periódico El Observador Online. 24.04.2012,,https://tdor.translivesmatter.info/reports/2012/04/24/gabrielala-brasilena_uruguay_de9242fc,
+Name Unknown,,,,,24-Apr-2012,tgeu/Apr-2012/N.N.,Montevideo,Montevideo,Uruguay,-34.8871,-56.19038,uncategorised,not reported,"The body of the victim was found at Avenida Lima y Paraguay in Barrio La Aguada.
 
-TvT partner organisation Centro de Apoyo a las Identidades Trans: Periódico El Observador Online. 24.04.2012",https://tdor.translivesmatter.info/reports/2012/04/24/name-unknown_avenida-lima-y-paraguay-la-aguada-montevideo-uruguay_36737b26,
-Name Unknown,,,,24-Apr-2012,"April, 2012/N.N.",,Uruguay,-32.804592,-56.028786,not reported,"
-
-TvT partner organisation Centro de Apoyo a las Identidades Trans: Periódico El Observador Online. 24.04.2012",https://tdor.translivesmatter.info/reports/2012/04/24/name-unknown_uruguay_0a5bfd0e,
-Leandro Eduardo Campos Ferreira,25,,,26-Apr-2012,26 Apr 2012/Leandro Eduardo Campos Ferreira,"Av. Leopoldino Canuto de Melo, Olinda, PE",Brazil,-8.00033,-34.89939,shot,"The victim was shot eleven times.
+TvT partner organisation Centro de Apoyo a las Identidades Trans: Periódico El Observador Online. 24.04.2012",,https://tdor.translivesmatter.info/reports/2012/04/24/name-unknown_montevideo-uruguay_36737b26,
+Name Unknown,,,,,24-Apr-2012,tgeu/Apr-2012/N.N.,,,Uruguay,-32.804592,-56.028786,uncategorised,not reported,TvT partner organisation Centro de Apoyo a las Identidades Trans: Periódico El Observador Online. 24.04.2012,,https://tdor.translivesmatter.info/reports/2012/04/24/name-unknown_uruguay_0a5bfd0e,
+Leandro Eduardo Campos Ferreira,25,,,,26-Apr-2012,tgeu/26-Apr-2012/Leandro Eduardo Campos Ferreira,Olinda,Pernambuco,Brazil,-8.00033,-34.89939,violence,shot,"The victim was shot eleven times on Av. Leopoldino Canuto de Melo.
 
 TvT partner organisation  Centro de Apoyo a las Identidades Trans,
 
-TvT project: Folha Pe, online portal, 27.04.2012",https://tdor.translivesmatter.info/reports/2012/04/26/leandro-eduardo-campos-ferreira_av-leopoldino-canuto-de-melo-olinda-pe-brazil_a2c924a0,
-Name Unknown,,,,27-Apr-2012,27 Apr 2012/N.N.,"Av. Otávio Braga de Mesquita, Guarulhos, SP",Brazil,-23.43759,-46.50696,stabbed,"The alleged murderer was arrested by the police and confessed the crime, saying he had killed the victim and a woman who was a sex worker because they reminded him of his mother.
+TvT project: Folha Pe, online portal, 27.04.2012",,https://tdor.translivesmatter.info/reports/2012/04/26/leandro-eduardo-campos-ferreira_olinda-pernambuco-brazil_a2c924a0,
+Name Unknown,,,,,27-Apr-2012,tgeu/27-Apr-2012/N.N.,Guarulhos,São Paulo,Brazil,-23.43759,-46.50696,violence,stabbed,"The alleged murderer was arrested by the police and confessed the crime, saying he had killed the victim and a woman who was a sex worker because they reminded him of his mother.
 
-TvT project: Folha Online, 13.05.2012",https://tdor.translivesmatter.info/reports/2012/04/27/name-unknown_av-otavio-braga-de-mesquita-guarulhos-sp-brazil_2ae1237c,
-Ranjita (Gita),50,,,27-Apr-2012,27 Apr 2012/Ranjita (Gita),Sri Gangangar,India,29.93175,73.87382,strangled,"Ranjita was the guru of a hijra dera. According to the police she was killed, because of the walth of her hijra dera.
+The murder took place on Av. Otávio Braga de Mesquita.
 
-TvT project: Business Standard 09.07.2012; Deccan Herald 09.07.2012; The Hindu 10.07.2012",https://tdor.translivesmatter.info/reports/2012/04/27/ranjita-gita_sri-gangangar-india_26d4fa05,
-(Fernando) Carvalho Martins dos Santos,20,,,28-Apr-2012,28 Apr 2012/(Fernando) Carvalho Martins dos Santos,"R. Jerônimo Teodoro Souza, Franca, SP",Brazil,-20.5179,-47.41451,shot,"
+TvT project: Folha Online, 13.05.2012",,https://tdor.translivesmatter.info/reports/2012/04/27/name-unknown_guarulhos-sao-paulo-brazil_2ae1237c,
+Ranjita (Gita),50,,,,27-Apr-2012,tgeu/27-Apr-2012/Ranjita (Gita),Sri Gangangar,Rajasthan,India,29.93175,73.87382,violence,strangled,"Ranjita was the guru of a hijra dera. According to the police she was killed, because of the walth of her hijra dera.
 
-TvT project: Folha Franca News, online portal, 28.04.2012",https://tdor.translivesmatter.info/reports/2012/04/28/fernando-carvalho-martins-dos-santos_r-jeronimo-teodoro-souza-franca-sp-brazil_c6b7c969,
-Cristiely (Geovanilson) de Souza da Costa,19,,,29-Apr-2012,29 Apr 2012/Cristiely (Geovanilson) de Souza da Costa,"Av. Pres. Castelo Branco, Santa Inês, MA",Brazil,-3.67141,-45.39443,shot,"
+TvT project: Business Standard 09.07.2012; Deccan Herald 09.07.2012; The Hindu 10.07.2012",,https://tdor.translivesmatter.info/reports/2012/04/27/ranjita-gita_sri-gangangar-rajasthan-india_26d4fa05,
+(Fernando) Carvalho Martins dos Santos,20,,,,28-Apr-2012,tgeu/28-Apr-2012/(Fernando) Carvalho Martins dos Santos,Franca,São Paulo,Brazil,-20.5179,-47.41451,violence,shot,"The murder took place on R. Jerônimo Teodoro Souza.
 
-TvT project: Agora Santa Ines, 30.04.2012",https://tdor.translivesmatter.info/reports/2012/04/29/cristiely-geovanilson-de-souza-da-costa_av-pres-castelo-branco-santa-ines-ma-brazil_1be6d0e9,
-Brandy Martell,37,2012_04_29_Brandy-Martell.jpg,https://www.facebook.com/photo.php?fbid=3363366321676&set=a.2603402963067&type=3&theater,29-Apr-2012,tgeu/29 Apr 2012/Brandy Martell,"Oakland, California",USA,37.804828,-122.27248,shot,"Brandy was sitting in her car having a conversation with two men when one of them ""became enraged and shot her when he realized she was trans."" Witnesses believed that it was a hate crime.
+TvT project: Folha Franca News, online portal, 28.04.2012",,https://tdor.translivesmatter.info/reports/2012/04/28/fernando-carvalho-martins-dos-santos_franca-sao-paulo-brazil_c6b7c969,
+Cristiely (Geovanilson) de Souza da Costa,19,,,,29-Apr-2012,tgeu/29-Apr-2012/Cristiely (Geovanilson) de Souza da Costa,Santa Inês,Maranhão,Brazil,-3.67141,-45.39443,violence,shot,"The killing took place on Av. Pres. Castelo Branco.
+
+TvT project: Agora Santa Ines, 30.04.2012",,https://tdor.translivesmatter.info/reports/2012/04/29/cristiely-geovanilson-de-souza-da-costa_santa-ines-maranhao-brazil_1be6d0e9,
+Brandy Martell,37,,2012_04_29_Brandy-Martell.jpg,https://www.facebook.com/photo.php?fbid=3363366321676&set=a.2603402963067&type=3&theater,29-Apr-2012,tgeu/29-Apr-2012/Brandy Martell,Oakland,California,USA,37.804828,-122.27248,violence,shot,"Brandy was sitting in her car having a conversation with two men when one of them ""became enraged and shot her when he realized she was trans."" Witnesses believed that it was a hate crime.
 
 Her killer was postumously identified several years later.
 
@@ -144,11 +141,11 @@ TvT project: ABC Local 30.04.2012; Huffington Post, 02.05.2012
 
 https://www.eastbaytimes.com/2015/11/19/police-name-oakland-homicide-victim-as-transgender-womans-killer/
 
-https://www.huffpost.com/entry/brandy-martell-california-transgender-woman-shooting_n_1471209",https://tdor.translivesmatter.info/reports/2012/04/29/brandy-martell_oakland-california-usa_abd9f27c,
-Bianca Niero (José Dejair) Melle Sobrinho,21,,,30-Apr-2012,30 Apr 2012/Bianca Niero (José Dejair) Melle Sobrinho,"Vinhedo, SP",Brazil,-23.02972,-46.97528,beaten and stabbed,"The victim died in hospital on 30 April, after having been in coma since 19 April with severe injuries of stabs and beatings.
+https://www.huffpost.com/entry/brandy-martell-california-transgender-woman-shooting_n_1471209",,https://tdor.translivesmatter.info/reports/2012/04/29/brandy-martell_oakland-california-usa_abd9f27c,
+Bianca Niero (José Dejair) Melle Sobrinho,21,,,,30-Apr-2012,tgeu/30-Apr-2012/Bianca Niero (José Dejair) Melle Sobrinho,Vinhedo,São Paulo,Brazil,-23.02972,-46.97528,violence,beaten and stabbed,"The victim died in hospital on 30 April, after having been in coma since 19 April with severe injuries of stabs and beatings.
 
-TvT project: Quem a Homofobia Matou Hoje?, online portal, 30.04.2012",https://tdor.translivesmatter.info/reports/2012/04/30/bianca-niero-jose-dejair-melle-sobrinho_vinhedo-sp-brazil_48416c92,
-Chrissie Azzopardi,22,2012_04_30_Chrissie-Azzopardi.jpg,https://www.pinknews.co.uk/2013/10/18/london-drug-dealer-jailed-for-stabbing-transgender-woman-to-death/,30-Apr-2012,04 Jun 2012/Chrissie Azzopardi,"Finsbury Park, North London",United Kingdom,51.507276,-0.12766,stabbed,"Chrissie was stabbed multiple times in the bedroom of her home. Her body was found lying on her bed with fatal stab wounds after neighbours noticed a bad smell coming from her flat on 4th June 2012.
+TvT project: Quem a Homofobia Matou Hoje?, online portal, 30.04.2012",,https://tdor.translivesmatter.info/reports/2012/04/30/bianca-niero-jose-dejair-melle-sobrinho_vinhedo-sao-paulo-brazil_48416c92,
+Chrissie Azzopardi,22,,2012_04_30_Chrissie-Azzopardi.jpg,https://www.pinknews.co.uk/2013/10/18/london-drug-dealer-jailed-for-stabbing-transgender-woman-to-death/,30-Apr-2012,tgeu/4-Jun-2012/Chrissie Azzopardi,Finsbury Park,London,United Kingdom,51.507276,-0.12766,violence,stabbed,"Chrissie was stabbed multiple times in the bedroom of her home. Her body was found lying on her bed with fatal stab wounds after neighbours noticed a bad smell coming from her flat on 4th June 2012.
 
 Her exact date of death is unknown, but she is thought to have been murdered sometime in April 2012.
 
@@ -170,42 +167,42 @@ https://www.islingtongazette.co.uk/news/crime-court/man-charged-with-murder-of-c
 
 https://www.theguardian.com/uk-news/2013/oct/18/chrissie-azzopardi-murder-life-sentence
 
-https://www.bbc.co.uk/news/uk-england-london-24433283",https://tdor.translivesmatter.info/reports/2012/04/30/chrissie-azzopardi_finsbury-park-north-london-united-kingdom_2a2544fd,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
+https://www.bbc.co.uk/news/uk-england-london-24433283",,https://tdor.translivesmatter.info/reports/2012/04/30/chrissie-azzopardi_finsbury-park-london-united-kingdom_2a2544fd,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
