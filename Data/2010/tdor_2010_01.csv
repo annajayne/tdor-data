@@ -1,15 +1,15 @@
-﻿Name,Age,Photo,Photo source,Date,Source ref,Location,Country,Latitude,Longitude,Cause of death,Description,Permalink
-"""Toninho""",,,,2-Jan-2010,"02 Jan 2010/""Toninho""","Campo Largo, Paraná",Brazil,-25.459773,-49.527085,beaten,"The victim was a sex worker. It is suspected that she was killed by a client, who tried to suffocate her with a plastic bag before beating her to death.
+﻿Name,Age,Birthdate,Photo,Photo source,Date,Source ref,Location,State/Province,Country,Latitude,Longitude,Category,Cause of death,Description,Tweet,Permalink
+"""Toninho""",,,,,2-Jan-2010,"tgeu/2 Jan 2010/""Toninho""",Campo Largo,Paraná,Brazil,-25.459773,-49.527085,violence,beaten,"The victim was a sex worker. It is suspected that she was killed by a client, who tried to suffocate her with a plastic bag before beating her to death.
 
-""Transrespect versus Transphobia Worldwide"" research project: Paraná Online, 04.01.2010",https://tdor.translivesmatter.info/reports/2010/01/02/toninho_campo-largo-pr-brazil_871ec1dc
-Name Unknown,30,,,2-Jan-2010,January 2nd 2010/N. N.,Naples,Italy,40.844116,14.2423,shot,"Victim was found near a market place and was beaten before she was killed.
+""Transrespect versus Transphobia Worldwide"" research project: Paraná Online, 04.01.2010",,https://tdor.translivesmatter.info/reports/2010/01/02/toninho_campo-largo-parana-brazil_871ec1dc
+Name Unknown,30,,,,2-Jan-2010,tgeu/2 Jan 2010/N. N.,Naples,Campania,Italy,40.844116,14.2423,violence,shot,"Victim was found near a market place and was beaten before she was killed.
 
-""Transrespect versus Transphobia Worldwide"" research project: La Repubblica, 03.01.2009",https://tdor.translivesmatter.info/reports/2010/01/02/name-unknown_naples-italy_091cf148
-Name Unknown,,,,4-Jan-2010,04 Jan 2010/N. N.,São Paulo,Brazil,-23.550651,-46.633382,shot,TvT Partner Organization: Grupo Gay da Bahia (Tabelas 2010),https://tdor.translivesmatter.info/reports/2010/01/04/name-unknown_sao-paulo-sp-brazil_c62aa10b
-"""José Luis"" Conde",39,,,9-Jan-2010,"09 Jan 2010/""José Luis"" Conde",Rosario,Argentina,-32.9595,-60.661542,beaten,"The     victim      was      a    lawyer      of    the     Federal      Administration (Administración Federal de Ingresos Públicos).
+""Transrespect versus Transphobia Worldwide"" research project: La Repubblica, 03.01.2009",,https://tdor.translivesmatter.info/reports/2010/01/02/name-unknown_naples-campania-italy_091cf148
+Name Unknown,,,,,4-Jan-2010,tgeu/4 Jan 2010/N. N.,São Paulo,São Paulo,Brazil,-23.550651,-46.633382,violence,shot,TvT Partner Organization: Grupo Gay da Bahia (Tabelas 2010),,https://tdor.translivesmatter.info/reports/2010/01/04/name-unknown_sao-paulo-sao-paulo-brazil_c62aa10b
+"""José Luis"" Conde",39,,,,9-Jan-2010,"tgeu/9 Jan 2010/""José Luis"" Conde",Rosario,Santa Fe,Argentina,-32.9595,-60.661542,violence,beaten,"The victim was a Federal Administration (Administración Federal de Ingresos Públicos) lawyer.
 
-",https://tdor.translivesmatter.info/reports/2010/01/09/jose-luis-conde_rosario-argentina_c9507e98
-Myra Chanel Ical,51,2010_01_18_Myra-Chanel-Ical.jpg,https://www.glaad.org/2010/11/19/transgender-day-of-remembrance-honoring-the-lives-lost,18-Jan-2010,18 Jan 2010/Myra Chanel Ical,"Houston, Texas",USA,29.760803,-95.369506,beaten,"Myra was found partially clothed. She had suffered bruises and defensive wounds. 
+",,https://tdor.translivesmatter.info/reports/2010/01/09/jose-luis-conde_rosario-santa-fe-argentina_c9507e98
+Myra Chanel Ical,51,,2010_01_18_Myra-Chanel-Ical.jpg,https://www.glaad.org/2010/11/19/transgender-day-of-remembrance-honoring-the-lives-lost,18-Jan-2010,tgeu/18 Jan 2010/Myra Chanel Ical,Houston,Texas,USA,29.760803,-95.369506,violence,beaten,"Myra was found partially clothed. She had suffered bruises and defensive wounds. 
 
 > Organizers of a candlelight vigil Monday night say say it was the largest transgender event in Houston's history. About 200 people attended, wanting to know who killed a transgender woman one week ago.
 > 
@@ -25,60 +25,62 @@ https://web.archive.org/web/20101026231202/http://www.myfoxhouston.com:80/dpp/ne
 
 https://web.archive.org/web/20101026035324/http://www.myfoxhouston.com/dpp/news/local/100120-partially-clothed-folo
 
-https://www.glaad.org/2010/11/19/transgender-day-of-remembrance-honoring-the-lives-lost",https://tdor.translivesmatter.info/reports/2010/01/18/myra-chanel-ical_houston-texas-usa_8e997a5d
-Ingrid Huayaba Gonzáles,23,2010_01_23_Ingrid-Huayaba-Gonzales.jpg,https://www.facebook.com/photo.php?fbid=1228165142981&set=a.2361225428780&type=3&theater,23-Jan-2010,23 Jan 2010/Ingrid Huayaba Gonzáles,Lima,Peru,-12.045969,-77.030581,defenestrated,"Ingrid was a sex worker and activist of the trans association Luchando Unidas por el Futuro. She died in hospital two days after being pushed out of a second floor window by her companion - who was suspected of exploiting and mistreating her.
+https://www.glaad.org/2010/11/19/transgender-day-of-remembrance-honoring-the-lives-lost",,https://tdor.translivesmatter.info/reports/2010/01/18/myra-chanel-ical_houston-texas-usa_8e997a5d
+Ingrid Huayaba Gonzáles,23,,2010_01_23_Ingrid-Huayaba-Gonzales.jpg,https://www.facebook.com/photo.php?fbid=1228165142981&set=a.2361225428780&type=3&theater,23-Jan-2010,tgeu/23 Jan 2010/Ingrid Huayaba Gonzáles,Lima,Lima,Peru,-12.045969,-77.030581,violence,defenestrated,"Ingrid died in hospital two days after being pushed out of a second floor window by her companion - who was suspected of exploiting and mistreating her.
+
+She was a sex worker and activist of the trans association Luchando Unidas por el Futuro.
 
 ""Transrespect versus Transphobia Worldwide"" research project: Vida de travestis (Web-Blog), 23.01.2010 and 04.05.2010
 
-https://www.facebook.com/photo.php?fbid=1228165142981&set=a.2361225428780&type=3&theater",https://tdor.translivesmatter.info/reports/2010/01/23/ingrid-huayaba-gonzales_lima-peru_eb5680fd
-"Fernanda (""Alex"") Correia de Brito",33,,,23-Jan-2010,"23 Jan 2010/Fernanda (""Alex"") Correia de Brito","Maceió, Alagoas",Brazil,-9.647684,-35.733926,shot,"The victim was a sex worker.
+https://www.facebook.com/photo.php?fbid=1228165142981&set=a.2361225428780&type=3&theater",,https://tdor.translivesmatter.info/reports/2010/01/23/ingrid-huayaba-gonzales_lima-peru_eb5680fd
+"Fernanda (""Alex"") Correia de Brito",33,,,,23-Jan-2010,"tgeu/23 Jan 2010/Fernanda (""Alex"") Correia de Brito",Maceió,Alagoas,Brazil,-9.647684,-35.733926,violence,shot,"The victim was a sex worker.
 
-TvT Partner Organization: Grupo Gay da Bahia (Tabelas 2010)",https://tdor.translivesmatter.info/reports/2010/01/23/fernanda-alex-correia-de-brito_maceio-al-brazil_c02599f2
-Lacraia,,,,26-Jan-2010,26 Jan 2010/Lacraia,"Salvador, Bahia",Brazil,-12.981636,-38.482077,shot,"The victim was a homeless person.
+TvT Partner Organization: Grupo Gay da Bahia (Tabelas 2010)",,https://tdor.translivesmatter.info/reports/2010/01/23/fernanda-alex-correia-de-brito_maceio-alagoas-brazil_c02599f2
+Lacraia,,,,,26-Jan-2010,tgeu/26 Jan 2010/Lacraia,Salvador,Bahia,Brazil,-12.981636,-38.482077,violence,shot,"The victim was a homeless person.
 
-TvT Partner Organization: Grupo Gay da Bahia (Tabelas 2010)",https://tdor.translivesmatter.info/reports/2010/01/26/lacraia_salvador-ba-brazil_ea79cf0f
-"""Fernando"" Vásquez Roque",26,,,26-Jan-2010,"26 Jan 2010/""Fernando"" Vásquez Roque",Lima,Peru,-12.045969,-77.030581,beaten,"The victim was tortured.
-",https://tdor.translivesmatter.info/reports/2010/01/26/fernando-vasquez-roque_lima-peru_f8ab6f4f
-Brigitte,,2010_01_28_Brigitte.jpg,https://www.facebook.com/photo.php?fbid=1232284125953&set=a.2361225428780&type=3&theater,28-Jan-2010,28 Jan 2010/Brigitte,Caracas,Venezuela,10.501823,-66.912105,shot,"Brigitte was shot dead by street gangs. She was a student at Bolívar University, Caracas, and a trans activist of Alianza Lambda de Venezuela. 
+TvT Partner Organization: Grupo Gay da Bahia (Tabelas 2010)",,https://tdor.translivesmatter.info/reports/2010/01/26/lacraia_salvador-bahia-brazil_ea79cf0f
+"""Fernando"" Vásquez Roque",26,,,,26-Jan-2010,"tgeu/26 Jan 2010/""Fernando"" Vásquez Roque",Lima,Lima,Peru,-12.045969,-77.030581,violence,beaten,"The victim was tortured.
+",,https://tdor.translivesmatter.info/reports/2010/01/26/fernando-vasquez-roque_lima-peru_f8ab6f4f
+Brigitte,,,2010_01_28_Brigitte.jpg,https://www.facebook.com/photo.php?fbid=1232284125953&set=a.2361225428780&type=3&theater,28-Jan-2010,tgeu/28 Jan 2010/Brigitte,Caracas,Distrito Capital,Venezuela,10.501823,-66.912105,violence,shot,"Brigitte was shot dead by street gangs. She was a student at Bolívar University, Caracas, and a trans activist of Alianza Lambda de Venezuela. 
 
 https://www.facebook.com/photo.php?fbid=1232284125953&set=a.2361225428780&type=3&theater
 
-",https://tdor.translivesmatter.info/reports/2010/01/28/brigitte_caracas-venezuela_f52a63d6
-Name Unknown,,,,29-Jan-2010,29 Jan 2010/N. N.,"Ariquemes, Rondônia",Brazil,-9.907652,-63.033069,beaten,"-
+",,https://tdor.translivesmatter.info/reports/2010/01/28/brigitte_caracas-distrito-capital-venezuela_f52a63d6
+Name Unknown,,,,,29-Jan-2010,tgeu/29 Jan 2010/N. N.,Ariquemes,Rondônia,Brazil,-9.907652,-63.033069,violence,beaten,"-
 
-TvT Partner Organization: Grupo Gay da Bahia (Tabelas 2010)",https://tdor.translivesmatter.info/reports/2010/01/29/name-unknown_ariquemes-ro-brazil_164e740c
-Name Unknown,,,,29-Jan-2010,29 Jan 2010/N. N.,"Belém, Pará",Brazil,-1.45056,-48.468245,shot,"The victim was a sex worker.
+TvT Partner Organization: Grupo Gay da Bahia (Tabelas 2010)",,https://tdor.translivesmatter.info/reports/2010/01/29/name-unknown_ariquemes-rondonia-brazil_164e740c
+Name Unknown,,,,,29-Jan-2010,tgeu/29 Jan 2010/N. N.,Belém,Pará,Brazil,-1.45056,-48.468245,violence,shot,"The victim was a sex worker.
 
-TvT Partner Organization: Grupo Gay da Bahia (Tabelas 2010)",https://tdor.translivesmatter.info/reports/2010/01/29/name-unknown_belem-pa-brazil_e079e3aa
-"""Josué"" Arredondo García",,,,31-Jan-2010,"31 Jan 2010/""Josué"" Arredondo García",Zacapu,Mexico,19.818409,-101.792317,beaten,"The victim was a sex worker.
+TvT Partner Organization: Grupo Gay da Bahia (Tabelas 2010)",,https://tdor.translivesmatter.info/reports/2010/01/29/name-unknown_belem-para-brazil_e079e3aa
+"""Josué"" Arredondo García",,,,,31-Jan-2010,"tgeu/31 Jan 2010/""Josué"" Arredondo García",Zacapu,Michoacán,Mexico,19.818409,-101.792317,violence,beaten,"The victim was a sex worker.
 
-""Transrespect versus Transphobia Worldwide"" research project: Quadratin, 31.01.2010",https://tdor.translivesmatter.info/reports/2010/01/31/josue-arredondo-garcia_zacapu-mexico_73b3531b
-Nadia Malik (khusra),28,,,31-Jan-2010,January 2010/Nadia Malik (khusra),Rawalpindi,Pakistan,33.599148,73.0641,run over,"The victim was stabbed repeatedly and then run over by a car.
+""Transrespect versus Transphobia Worldwide"" research project: Quadratin, 31.01.2010",,https://tdor.translivesmatter.info/reports/2010/01/31/josue-arredondo-garcia_zacapu-michoacan-mexico_73b3531b
+Nadia Malik (khusra),28,,,,31-Jan-2010,tgeu/Jan 2010/Nadia Malik (khusra),Rawalpindi,Punjab,Pakistan,33.599148,73.0641,violence,stabbed and run over,"The victim was stabbed repeatedly and then run over by a car.
 
-""Transrespect versus Transphobia Worldwide"" research project: News Vine, 07.02.2010",https://tdor.translivesmatter.info/reports/2010/01/31/nadia-malik-khusra_rawalpindi-pakistan_790d8628
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
+""Transrespect versus Transphobia Worldwide"" research project: News Vine, 07.02.2010",,https://tdor.translivesmatter.info/reports/2010/01/31/nadia-malik-khusra_rawalpindi-punjab-pakistan_790d8628
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
