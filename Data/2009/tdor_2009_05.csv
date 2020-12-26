@@ -1,207 +1,209 @@
-﻿Name,Age,Photo,Photo source,Date,Source ref,Location,Country,Latitude,Longitude,Cause of death,Description,Permalink
-"""Caio Júnior” dos Santos",19,,,3-May-2009,03 May 2009/“Caio Júnior” dos Santos,Varzea Grande,Brazil,-15.645816,-56.132218,strangled,"Dos was strangled.
+﻿Name,Age,Birthdate,Photo,Photo source,Date,Source ref,Location,State/Province,Country,Latitude,Longitude,Category,Cause of death,Description,Tweet,Permalink
+"""Caio Júnior” dos Santos",19,,,,3-May-2009,tgeu/3 May 2009/“Caio Júnior” dos Santos,Varzea Grande,Mato Grosso,Brazil,-15.645816,-56.132218,violence,strangled,"Dos was strangled.
 
-Sources: 24horas News, 04.05.2009 and www.liminalis.org",https://tdor.translivesmatter.info/reports/2009/05/03/caio-junior-dos-santos_varzea-grande-brazil_1e44203e
-Fernanda Botelho,,,,4-May-2009,04 May 2009/Fernanda Botelho,Curitiba,Brazil,-25.428693,-49.272373,not reported,"Athos GLS, 07.05.2009",https://tdor.translivesmatter.info/reports/2009/05/04/fernanda-botelho_curitiba-brazil_87ce2fb7
-Jenifer,,,,6-May-2009,06 May 2009/Jenifer,Curitiba,Brazil,-25.428693,-49.272373,shot,"Sources: www.liminalis.org and Athos GLS, 07.05.2009",https://tdor.translivesmatter.info/reports/2009/05/06/jenifer_curitiba-brazil_55341139
-Diksy Jones,64,,,6-May-2009,06 May 2009/Diksy Jones,"Upper Hut, Wellington",New Zealand,-41.09699,175.11311,not reported,"Diksy was a cabinet Maker. He was found dead in his apartment, with ""severe injuries"" according to police.
+Sources: 24horas News, 04.05.2009 and www.liminalis.org",,https://tdor.translivesmatter.info/reports/2009/05/03/caio-junior-dos-santos_varzea-grande-mato-grosso-brazil_1e44203e
+Fernanda Botelho,,,,,4-May-2009,tgeu/4 May 2009/Fernanda Botelho,Curitiba,Paraná,Brazil,-25.428693,-49.272373,uncategorised,not reported,"Athos GLS, 07.05.2009",,https://tdor.translivesmatter.info/reports/2009/05/04/fernanda-botelho_curitiba-parana-brazil_87ce2fb7
+Jenifer,,,,,6-May-2009,tgeu/6 May 2009/Jenifer,Curitiba,Paraná,Brazil,-25.428693,-49.272373,violence,shot,"Sources: www.liminalis.org and Athos GLS, 07.05.2009",,https://tdor.translivesmatter.info/reports/2009/05/06/jenifer_curitiba-parana-brazil_55341139
+Diksy Jones,64,,,,6-May-2009,tgeu/6 May 2009/Diksy Jones,Upper Hutt,Wellington,New Zealand,-41.09699,175.11311,violence,not reported,"Diksy was a cabinet Maker. He was found dead in his apartment, with ""severe injuries"" according to police.
 
-The Dominion Post, 07.05.2009",https://tdor.translivesmatter.info/reports/2009/05/06/diksy-jones_upper-hut-wellington-new-zealand_cb6b0676
-Tigresa de Souza Reis,,,,7-May-2009,07 May 2009/Tigresa de Souza Reis,Feira de Santana,Brazil,-12.257893,-38.959805,shot,"Tigresa was shot in the back of the head.
+The Dominion Post, 07.05.2009",,https://tdor.translivesmatter.info/reports/2009/05/06/diksy-jones_upper-hutt-wellington-new-zealand_cb6b0676
+Tigresa de Souza Reis,,,,,7-May-2009,tgeu/7 May 2009/Tigresa de Souza Reis,Feira de Santana,Bahia,Brazil,-12.257893,-38.959805,violence,shot,"Tigresa was shot in the back of the head.
 
-Sources: www.liminalis.org and Correio 24horas, 08.05.2009",https://tdor.translivesmatter.info/reports/2009/05/07/tigresa-de-souza-reis_feira-de-santana-brazil_2b1023ba
-Name Unknown,,,,15-May-2009,Between January 1  and May 15   2009/N.N.,,Guatemala,14.642516,-90.513138,not reported,"The victim was one of several reported killed between 1st January and 15th May 2009.
-
-Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
-
-CERIGUA 15.05.2009 ",https://tdor.translivesmatter.info/reports/2009/05/15/name-unknown_guatemala_3767bc59
-Name Unknown,,,,15-May-2009,Between January 1  and May 15   2009/N.N.,,Guatemala,14.642516,-90.513138,not reported,"The victim was one of several reported killed between 1st January and 15th May 2009.
+Sources: www.liminalis.org and Correio 24horas, 08.05.2009",,https://tdor.translivesmatter.info/reports/2009/05/07/tigresa-de-souza-reis_feira-de-santana-bahia-brazil_2b1023ba
+Name Unknown,,,,,15-May-2009,tgeu/1 Jun - 15 May 2009/N.N.,,,Guatemala,14.642516,-90.513138,violence,not reported,"The victim was one of several reported killed between 1st January and 15th May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-CERIGUA 15.05.2009 ",https://tdor.translivesmatter.info/reports/2009/05/15/name-unknown_guatemala_1dfbc681
-Name Unknown,,,,15-May-2009,Between January 1  and May 15   2009/N.N.,,Guatemala,14.642516,-90.513138,not reported,"The victim was one of several reported killed between 1st January and 15th May 2009.
+CERIGUA 15.05.2009 ",,https://tdor.translivesmatter.info/reports/2009/05/15/name-unknown_guatemala_3767bc59
+Name Unknown,,,,,15-May-2009,tgeu/1 Jun - 15 May 2009/N.N.,,,Guatemala,14.642516,-90.513138,violence,not reported,"The victim was one of several reported killed between 1st January and 15th May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-CERIGUA 15.05.2009 ",https://tdor.translivesmatter.info/reports/2009/05/15/name-unknown_guatemala_19b31e4e
-Name Unknown,,,,15-May-2009,Between January 1  and May 15   2009/N.N.,,Guatemala,14.642516,-90.513138,not reported,"The victim was one of several reported killed between 1st January and 15th May 2009.
+CERIGUA 15.05.2009 ",,https://tdor.translivesmatter.info/reports/2009/05/15/name-unknown_guatemala_1dfbc681
+Name Unknown,,,,,15-May-2009,tgeu/1 Jun - 15 May 2009/N.N.,,,Guatemala,14.642516,-90.513138,violence,not reported,"The victim was one of several reported killed between 1st January and 15th May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-CERIGUA 15.05.2009 ",https://tdor.translivesmatter.info/reports/2009/05/15/name-unknown_guatemala_a4f9224f
-Name Unknown,,,,15-May-2009,Between January 1  and May 15   2009/N.N.,,Guatemala,14.642516,-90.513138,not reported,"The victim was one of several reported killed between 1st January and 15th May 2009.
+CERIGUA 15.05.2009 ",,https://tdor.translivesmatter.info/reports/2009/05/15/name-unknown_guatemala_19b31e4e
+Name Unknown,,,,,15-May-2009,tgeu/1 Jun - 15 May 2009/N.N.,,,Guatemala,14.642516,-90.513138,violence,not reported,"The victim was one of several reported killed between 1st January and 15th May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-CERIGUA 15.05.2009 ",https://tdor.translivesmatter.info/reports/2009/05/15/name-unknown_guatemala_e831b4fa
-Name Unknown,,,,15-May-2009,Between January 1  and May 15   2009/N.N.,,Guatemala,14.642516,-90.513138,not reported,"The victim was one of several reported killed between 1st January and 15th May 2009.
+CERIGUA 15.05.2009 ",,https://tdor.translivesmatter.info/reports/2009/05/15/name-unknown_guatemala_a4f9224f
+Name Unknown,,,,,15-May-2009,tgeu/1 Jun - 15 May 2009/N.N.,,,Guatemala,14.642516,-90.513138,violence,not reported,"The victim was one of several reported killed between 1st January and 15th May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-CERIGUA 15.05.2009 ",https://tdor.translivesmatter.info/reports/2009/05/15/name-unknown_guatemala_aa8676a5
-Name Unknown,,,,15-May-2009,Between January 1  and May 15   2009/N.N.,,Guatemala,14.642516,-90.513138,not reported,"The victim was one of several reported killed between 1st January and 15th May 2009.
+CERIGUA 15.05.2009 ",,https://tdor.translivesmatter.info/reports/2009/05/15/name-unknown_guatemala_e831b4fa
+Name Unknown,,,,,15-May-2009,tgeu/1 Jun - 15 May 2009/N.N.,,,Guatemala,14.642516,-90.513138,violence,not reported,"The victim was one of several reported killed between 1st January and 15th May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-CERIGUA 15.05.2009 ",https://tdor.translivesmatter.info/reports/2009/05/15/name-unknown_guatemala_02a44a43
-Name Unknown,,,,15-May-2009,Between January 1  and May 15   2009/N.N.,,Guatemala,14.642516,-90.513138,not reported,"The victim was one of several reported killed between 1st January and 15th May 2009.
+CERIGUA 15.05.2009 ",,https://tdor.translivesmatter.info/reports/2009/05/15/name-unknown_guatemala_aa8676a5
+Name Unknown,,,,,15-May-2009,tgeu/1 Jun - 15 May 2009/N.N.,,,Guatemala,14.642516,-90.513138,violence,not reported,"The victim was one of several reported killed between 1st January and 15th May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-CERIGUA 15.05.2009 ",https://tdor.translivesmatter.info/reports/2009/05/15/name-unknown_guatemala_50666e4e
-Name Unknown,,,,15-May-2009,Between January 1  and May 15   2009/N.N.,,Guatemala,14.642516,-90.513138,not reported,"The victim was one of several reported killed between 1st January and 15th May 2009.
+CERIGUA 15.05.2009 ",,https://tdor.translivesmatter.info/reports/2009/05/15/name-unknown_guatemala_02a44a43
+Name Unknown,,,,,15-May-2009,tgeu/1 Jun - 15 May 2009/N.N.,,,Guatemala,14.642516,-90.513138,violence,not reported,"The victim was one of several reported killed between 1st January and 15th May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-CERIGUA 15.05.2009 ",https://tdor.translivesmatter.info/reports/2009/05/15/name-unknown_guatemala_9d4cbae2
-Xiomaran Duras,27,,,18-May-2009,18 May 2009/Xiomaran Duras,Caracas,Venezuela,10.501823,-66.912105,shot,"Xiomaran was shot 6 times.
+CERIGUA 15.05.2009 ",,https://tdor.translivesmatter.info/reports/2009/05/15/name-unknown_guatemala_50666e4e
+Name Unknown,,,,,15-May-2009,tgeu/1 Jun - 15 May 2009/N.N.,,,Guatemala,14.642516,-90.513138,violence,not reported,"The victim was one of several reported killed between 1st January and 15th May 2009.
 
-Sources: www.liminalis.org and ILGA Trans Secretariat: http://trans.ilga.org/",https://tdor.translivesmatter.info/reports/2009/05/18/xiomaran-duras_caracas-venezuela_4d15fb61
-Çağla,,,,22-May-2009,22 May 2009/Çağla,Ankara,Turkey,39.927232,32.851977,stabbed,"Cagla was found stabbed to death in her home.
+Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
+
+CERIGUA 15.05.2009 ",,https://tdor.translivesmatter.info/reports/2009/05/15/name-unknown_guatemala_9d4cbae2
+Xiomaran Duras,27,,,,18-May-2009,tgeu/18 May 2009/Xiomaran Duras,Caracas,Distrito Capital,Venezuela,10.501823,-66.912105,violence,shot,"Xiomaran was shot 6 times.
+
+Sources: www.liminalis.org and ILGA Trans Secretariat: http://trans.ilga.org/",,https://tdor.translivesmatter.info/reports/2009/05/18/xiomaran-duras_caracas-distrito-capital-venezuela_4d15fb61
+Çağla,,,,,22-May-2009,tgeu/22 May 2009/Çağla,Ankara,Ankara,Turkey,39.927232,32.851977,violence,stabbed,"Cagla was found stabbed to death in her home.
 
 http://news.kaosgl.com/item/2009/5/26/again-a-transgender-murder-in-turkey
 
-Kaos Gl-Turkey, TGEU-Mailing-List 22.05.2009, 26.05.2009",https://tdor.translivesmatter.info/reports/2009/05/22/cala_ankara-turkey_d4aca5a5
-Name Unknown,26,,,24-May-2009,24 May 2009/N.N.,Belo Horizonte,Brazil,-19.922732,-43.945095,shot,"The victim was shot 13 times. Police are investigating her murder as a hate crime.
+Kaos Gl-Turkey, TGEU-Mailing-List 22.05.2009, 26.05.2009",,https://tdor.translivesmatter.info/reports/2009/05/22/cala_ankara-turkey_d4aca5a5
+Name Unknown,26,,,,24-May-2009,tgeu/24 May 2009/N.N.,Belo Horizonte,Minas Gerais,Brazil,-19.922732,-43.945095,violence,shot,"The victim was shot 13 times. Police are investigating her murder as a hate crime.
 
-Sources: www.liminalis.org and O Tempo, 24.05.2009",https://tdor.translivesmatter.info/reports/2009/05/24/name-unknown_belo-horizonte-brazil_44d5de62
-Foxy Ivy,Under 35,,,25-May-2009,25 May 2009/Foxy Ivy,"Detroit, Michigan",USA,42.332916,-83.047853,shot,"Foxy was an African American woman under the age of 35. She was found in Highland Park having been fatally shot in the back of the head.
+Sources: www.liminalis.org and O Tempo, 24.05.2009",,https://tdor.translivesmatter.info/reports/2009/05/24/name-unknown_belo-horizonte-minas-gerais-brazil_44d5de62
+Foxy Ivy,Under 35,,,,25-May-2009,tgeu/25 May 2009/Foxy Ivy,Detroit,Michigan,USA,42.332916,-83.047853,violence,shot,"Foxy was an African American woman under the age of 35. She was found in Highland Park having been fatally shot in the back of the head.
 
-www.transgenderdor.org",https://tdor.translivesmatter.info/reports/2009/05/25/foxy-ivy_detroit-michigan-usa_e7a6345a
-Dara,,,,26-May-2009,26 May 2009/Dara,Curitiba,Brazil,-25.428693,-49.272373,shot,"Sources: www.liminalis.org and Bem Paraná, 26.05.2009, 27.05.2009, Gay-Portugal, 28.05.2009",https://tdor.translivesmatter.info/reports/2009/05/26/dara_curitiba-brazil_413893b6
-"""Pedro"" Sánchez Pérez",20-25,,,26-May-2009,"26 May 2009/""""Pedro"""" Sánchez Pérez",San Miguel Canoa,Honduras,14.942731,-88.330203,stabbed,"The victim was found in female clothing.
+www.transgenderdor.org",,https://tdor.translivesmatter.info/reports/2009/05/25/foxy-ivy_detroit-michigan-usa_e7a6345a
+Dara,,,,,26-May-2009,tgeu/26 May 2009/Dara,Curitiba,Paraná,Brazil,-25.428693,-49.272373,violence,shot,"Sources: www.liminalis.org and Bem Paraná, 26.05.2009, 27.05.2009, Gay-Portugal, 28.05.2009",,https://tdor.translivesmatter.info/reports/2009/05/26/dara_curitiba-parana-brazil_413893b6
+"""Pedro"" Sánchez Pérez",20-25,,,,26-May-2009,"tgeu/26 May 2009/""Pedro"" Sánchez Pérez",San Miguel Canoa,,Honduras,14.942731,-88.330203,violence,stabbed,"The victim was found in female clothing.
 
-Síntesis Digital 27.05.2009",https://tdor.translivesmatter.info/reports/2009/05/26/pedro-sanchez-perez_san-miguel-canoa-honduras_a205f824
-Ketlin,19,,,31-May-2009,May 2009/Ketlin,Uruaçu,Brazil,-14.524416,-49.151002,beaten and dismembered,"Ketlin was beaten with a hatchet and her breasts cut off.
-LGBTT-Blogspot, 03.07.2009 ",https://tdor.translivesmatter.info/reports/2009/05/31/ketlin_uruacu-brazil_af65c202
-Name Unknown,,,,31-May-2009,Between January 1  and May 31   2009/N.N.,,Venezuela,7.159467,-66.245689,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
+Síntesis Digital 27.05.2009
 
-Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
-
-BBC News 02.06.2009",https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_29621265
-Name Unknown,,,,31-May-2009,Between January 1  and May 31   2009/N.N.,,Venezuela,7.159467,-66.245689,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
+[*Editor's Note: the location given may be incorrect or incomplete - the only ""San Miguel Canoa"" we could find is in Mexico*]",,https://tdor.translivesmatter.info/reports/2009/05/26/pedro-sanchez-perez_san-miguel-canoa-honduras_a205f824
+Ketlin,19,,,,31-May-2009,tgeu/May 2009/Ketlin,Uruaçu,Goiás,Brazil,-14.524416,-49.151002,violence,beaten and dismembered,"Ketlin was beaten with a hatchet and her breasts cut off.
+LGBTT-Blogspot, 03.07.2009 ",,https://tdor.translivesmatter.info/reports/2009/05/31/ketlin_uruacu-goias-brazil_af65c202
+Name Unknown,,,,,31-May-2009,tgeu/1 Jan - 31 May 2009/N.N.,,,Venezuela,7.159467,-66.245689,violence,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-BBC News 02.06.2009",https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_53181e49
-Name Unknown,,,,31-May-2009,Between January 1  and May 31   2009/N.N.,,Venezuela,7.159467,-66.245689,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
+BBC News 02.06.2009",,https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_29621265
+Name Unknown,,,,,31-May-2009,tgeu/1 Jan - 31 May 2009/N.N.,,,Venezuela,7.159467,-66.245689,violence,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-BBC News 02.06.2009",https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_83d2285c
-Name Unknown,,,,31-May-2009,Between January 1  and May 31   2009/N.N.,,Venezuela,7.159467,-66.245689,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
+BBC News 02.06.2009",,https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_53181e49
+Name Unknown,,,,,31-May-2009,tgeu/1 Jan - 31 May 2009/N.N.,,,Venezuela,7.159467,-66.245689,violence,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-BBC News 02.06.2009",https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_b39a4922
-Name Unknown,,,,31-May-2009,Between January 1  and May 31   2009/N.N.,,Venezuela,7.159467,-66.245689,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
+BBC News 02.06.2009",,https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_83d2285c
+Name Unknown,,,,,31-May-2009,tgeu/1 Jan - 31 May 2009/N.N.,,,Venezuela,7.159467,-66.245689,violence,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-BBC News 02.06.2009",https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_16ead0b1
-Name Unknown,,,,31-May-2009,Between January 1  and May 31   2009/N.N.,,Venezuela,7.159467,-66.245689,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
+BBC News 02.06.2009",,https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_b39a4922
+Name Unknown,,,,,31-May-2009,tgeu/1 Jan - 31 May 2009/N.N.,,,Venezuela,7.159467,-66.245689,violence,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-BBC News 02.06.2009",https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_b3ef06af
-Name Unknown,,,,31-May-2009,Between January 1  and May 31   2009/N.N.,,Venezuela,7.159467,-66.245689,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
+BBC News 02.06.2009",,https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_16ead0b1
+Name Unknown,,,,,31-May-2009,tgeu/1 Jan - 31 May 2009/N.N.,,,Venezuela,7.159467,-66.245689,violence,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-BBC News 02.06.2009",https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_231675c1
-Name Unknown,,,,31-May-2009,Between January 1  and May 31   2009/N.N.,,Venezuela,7.159467,-66.245689,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
+BBC News 02.06.2009",,https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_b3ef06af
+Name Unknown,,,,,31-May-2009,tgeu/1 Jan - 31 May 2009/N.N.,,,Venezuela,7.159467,-66.245689,violence,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-BBC News 02.06.2009",https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_83b21699
-Name Unknown,,,,31-May-2009,Between January 1  and May 31   2009/N.N.,,Venezuela,7.159467,-66.245689,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
+BBC News 02.06.2009",,https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_231675c1
+Name Unknown,,,,,31-May-2009,tgeu/1 Jan - 31 May 2009/N.N.,,,Venezuela,7.159467,-66.245689,violence,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-BBC News 02.06.2009",https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_b5599287
-Name Unknown,,,,31-May-2009,Between January 1  and May 31   2009/N.N.,,Venezuela,7.159467,-66.245689,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
+BBC News 02.06.2009",,https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_83b21699
+Name Unknown,,,,,31-May-2009,tgeu/1 Jan - 31 May 2009/N.N.,,,Venezuela,7.159467,-66.245689,violence,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-BBC News 02.06.2009",https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_8f30a111
-Name Unknown,,,,31-May-2009,Between January 1  and May 31   2009/N.N.,,Venezuela,7.159467,-66.245689,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
+BBC News 02.06.2009",,https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_b5599287
+Name Unknown,,,,,31-May-2009,tgeu/1 Jan - 31 May 2009/N.N.,,,Venezuela,7.159467,-66.245689,violence,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-BBC News 02.06.2009",https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_7477068f
-Name Unknown,,,,31-May-2009,Between January 1  and May 31   2009/N.N.,,Venezuela,7.159467,-66.245689,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
+BBC News 02.06.2009",,https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_8f30a111
+Name Unknown,,,,,31-May-2009,tgeu/1 Jan - 31 May 2009/N.N.,,,Venezuela,7.159467,-66.245689,violence,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-BBC News 02.06.2009",https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_4a28e668
-Name Unknown,,,,31-May-2009,Between January 1  and May 31   2009/N.N.,,Venezuela,7.159467,-66.245689,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
+BBC News 02.06.2009",,https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_7477068f
+Name Unknown,,,,,31-May-2009,tgeu/1 Jan - 31 May 2009/N.N.,,,Venezuela,7.159467,-66.245689,violence,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-BBC News 02.06.2009",https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_9aca87c6
-Name Unknown,,,,31-May-2009,Between January 1  and May 31   2009/N.N.,,Venezuela,7.159467,-66.245689,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
+BBC News 02.06.2009",,https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_4a28e668
+Name Unknown,,,,,31-May-2009,tgeu/1 Jan - 31 May 2009/N.N.,,,Venezuela,7.159467,-66.245689,violence,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-BBC News 02.06.2009",https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_1537423a
-Name Unknown,,,,31-May-2009,Between January 1  and May 31   2009/N.N.,,Venezuela,7.159467,-66.245689,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
+BBC News 02.06.2009",,https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_9aca87c6
+Name Unknown,,,,,31-May-2009,tgeu/1 Jan - 31 May 2009/N.N.,,,Venezuela,7.159467,-66.245689,violence,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-BBC News 02.06.2009",https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_0093e2b2
-Name Unknown,,,,31-May-2009,Between January 1  and May 31   2009/N.N.,,Venezuela,7.159467,-66.245689,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
+BBC News 02.06.2009",,https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_1537423a
+Name Unknown,,,,,31-May-2009,tgeu/1 Jan - 31 May 2009/N.N.,,,Venezuela,7.159467,-66.245689,violence,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-BBC News 02.06.2009",https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_e38203a1
-Name Unknown,,,,31-May-2009,Between January 1  and May 31   2009/N.N.,,Venezuela,7.159467,-66.245689,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
+BBC News 02.06.2009",,https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_0093e2b2
+Name Unknown,,,,,31-May-2009,tgeu/1 Jan - 31 May 2009/N.N.,,,Venezuela,7.159467,-66.245689,violence,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-BBC News 02.06.2009",https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_2b3de610
-Name Unknown,,,,31-May-2009,Between January 1  and May 31   2009/N.N.,,Venezuela,7.159467,-66.245689,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
+BBC News 02.06.2009",,https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_e38203a1
+Name Unknown,,,,,31-May-2009,tgeu/1 Jan - 31 May 2009/N.N.,,,Venezuela,7.159467,-66.245689,violence,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
 
 Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
 
-BBC News 02.06.2009",https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_22dac480
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
+BBC News 02.06.2009",,https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_2b3de610
+Name Unknown,,,,,31-May-2009,tgeu/1 Jan - 31 May 2009/N.N.,,,Venezuela,7.159467,-66.245689,violence,not reported,"The victim was one of 18 trans people reported killed in Venezuela between 1st January and 31st May 2009.
+
+Source: http://www.transgenderdor.org/wp-content/uploads/2009/10/liminalis-2009-tmm-namelistjanjune2009-en.pdf
+
+BBC News 02.06.2009",,https://tdor.translivesmatter.info/reports/2009/05/31/name-unknown_venezuela_22dac480
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
