@@ -1,5 +1,5 @@
-Name,Age,Photo,Photo source,Date,Source ref,Location,Country,Latitude,Longitude,Cause of death,Description,Permalink
-Gwen Amber Rose Araujo,17,2002_10_03_Gwen-Araujo.jpg,https://www.mercurynews.com/2016/10/14/the-murder-of-gwen-araujo/,3-Oct-2002,tdor.info/10-3-2002/Gwen Araujo,"Newark, California",USA,37.535981,-122.028735,beaten and strangled,"Gwen was beaten and strangled to death at a house party by Michael Magidson, Jose Merél, Jaron Nabors and Jason Casarez after they discovered that she was transgender.
+﻿Name,Age,Birthdate,Photo,Photo source,Date,Source ref,Location,State/Province,Country,Latitude,Longitude,Category,Cause of death,Description,Tweet,Permalink
+Gwen Amber Rose Araujo,17,,2002_10_03_Gwen-Araujo.jpg,https://www.mercurynews.com/2016/10/14/the-murder-of-gwen-araujo/,3-Oct-2002,tdor.info/3 Oct 2002/Gwen Araujo,Newark,California,USA,37.535981,-122.028735,violence,beaten and strangled,"Gwen was beaten and strangled to death at a house party by Michael Magidson, Jose Merél, Jaron Nabors and Jason Casarez after they discovered that she was transgender.
 
 After killing her, they wrapped her body in a blanket and buried it in the Sierra Nevada foothills.
 
@@ -35,4 +35,4 @@ https://lgbthistorymonth.com/gwen-araujo
 
 https://en.wikipedia.org/wiki/Murder_of_Gwen_Araujo
 
-http://lgbt.wikia.com/wiki/Gwen_Araujo",https://tdor.translivesmatter.info/reports/2002/10/03/gwen-amber-rose-araujo_newark-california-usa_724acdfc
+http://lgbt.wikia.com/wiki/Gwen_Araujo",,https://tdor.translivesmatter.info/reports/2002/10/03/gwen-amber-rose-araujo_newark-california-usa_724acdfc
