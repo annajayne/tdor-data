@@ -1,5 +1,5 @@
-﻿Name,Age,Birthdate,Photo,Photo source,Date,Source ref,Location,State/Province,Country,Latitude,Longitude,Category,Cause of death,Description,Tweet,Permalink
-Alexis L. King,21,,,,3-Feb-2006,tdor.info/3 Feb 2006/Alexis (Brandon) L. King ,Philadelphia,Pennsylvania,USA,39.951061,-75.16562,violence,shot,"Alexis was shot attempting to flee a man who had propositioned her and then turned violent after discovering that she was trans.
+﻿Name,Age,Birthdate,Photo,Photo source,Date,TDoR list ref,Address,Locality,Town/City/Municipality,State/Province,Country,Latitude,Longitude,Category,Cause of death,Description,Tweet,Permalink
+Alexis L. King,21,,,,3-Feb-2006,tdor.info/3 Feb 2006/Alexis (Brandon) L. King ,,,Philadelphia,Pennsylvania,USA,39.951061,-75.16562,violence,shot,"Alexis was shot attempting to flee a man who had propositioned her and then turned violent after discovering that she was trans.
 
 Her killer Terron Oates was given just 5 to 10 years in jail for manslaughter and weapons offenses.
 
@@ -18,7 +18,7 @@ https://transgriot.blogspot.com/2008/08/shooter-of-trans-woman-convicted-of.html
 https://www.inquirer.com/philly/hp/news_update/20081004_5_years_in_jail_for_killing_a_woman_who_wasn_t.html
 
 http://tgdor.org/list.shtml",,https://tdor.translivesmatter.info/reports/2006/02/03/alexis-l-king_philadelphia-pennsylvania-usa_c70b61d1
-Tiffany Berry,,,,,9-Feb-2006,tdor.info/9 Feb 2006/Tiffany Berry,Memphis,Tennessee,USA,35.143378,-90.052136,violence,shot,"Tiffany was shot 3 times after stepping out of her front door at the Camelot Manor Apartments in South Memphis. The Memphis Police Department (MPD) originally thought the death was a robbery, but nothing was taken from Berry’s purse or apartment.
+Tiffany Berry,21,,2006_02_09_Tiffany-Berry.jpg,https://unfinishedlivesblog.com/the-victims/,9-Feb-2006,tdor.info/9 Feb 2006/Tiffany Berry,"Camelot Manor Apartments, Ashwood Street",,Memphis,Tennessee,USA,35.0625136,-89.9318981,violence,shot,"Tiffany was shot 3 times after stepping out of her front door at the Camelot Manor Apartments in South Memphis. The Memphis Police Department (MPD) originally thought the death was a robbery, but nothing was taken from Berry’s purse or apartment.
 
 > In February, Berry, a 21-year-old male-to-female [trans woman], was gunned down after stepping out of her front door at the Camelot Manor Apartments in South Memphis. The Memphis Police Department (MPD) originally thought the death was a robbery, but nothing was missing from Berry’s purse or apartment.
 >
@@ -26,8 +26,12 @@ Tiffany Berry,,,,,9-Feb-2006,tdor.info/9 Feb 2006/Tiffany Berry,Memphis,Tennesse
 
 https://www.memphisflyer.com/remembering-tiffany-berry
 
+https://unfinishedlivesblog.com/the-victims/
+
+https://youthprideservices.wordpress.com/frankie-foundation/
+
 http://tgdor.org/list.shtml",,https://tdor.translivesmatter.info/reports/2006/02/09/tiffany-berry_memphis-tennessee-usa_682a6970
-Yardena Marsh,46,,2006_02_15_Yardena-Marsh.jpg,https://awiderbridge.org/the-life-and-death-of-yardena-marsh/,15-Feb-2006,tdor.info/15 Feb 2006/Yardena Marsh,Tel Aviv,Tel Aviv,Israel,32.0566073,34.780704,violence,shot,"Yardena was shot dead in her apartment on Levanda Street. Ze’ev Biso admitted murdering her.
+Yardena Marsh,46,,2006_02_15_Yardena-Marsh.jpg,https://awiderbridge.org/the-life-and-death-of-yardena-marsh/,15-Feb-2006,tdor.info/15 Feb 2006/Yardena Marsh,,,Tel Aviv,Tel Aviv,Israel,32.0566073,34.780704,violence,shot,"Yardena was shot dead in her apartment on Levanda Street. Ze’ev Biso admitted murdering her.
 
 > Tel Aviv thief Ze’ev Biso was arrested by police on suspicion of murdering [trans woman] Yardena Marsh,” reads the news story published on March 24, 2006 in Yediot Aharonot. “Her body was found yesterday in her apartment on Levanda street with one bullet in the chest that caused her death.” Thus ended the life of Yardena Marsh Z”L, a pioneer of the transgender community in Israel, who was found dead in her modest apartment near the central bus station in Tel Aviv.
 >
@@ -44,7 +48,7 @@ https://www.jpost.com/israel/ta-womans-killer-admits-to-2nd-murder
 https://www.haaretz.com/1.4898983
 
 http://tgdor.org/list.shtml",,https://tdor.translivesmatter.info/reports/2006/02/15/yardena-marsh_tel-aviv-israel_1ff41342
-Gisberta Salce Junior,45,,2006_02_22_Gisberta-Salce-Junior.jpg,https://www.pensarcontemporaneo.com/conheca-historia-de-gisberta-trans-brasileira-assassinada-em-portugal/,22-Feb-2006,tdor.info/22 Feb 2006/Gisberta Salce Junior,Porto,Norte,Portugal,41.149456,-8.610766,violence,tortured and drowned,"Gisberta was tortured by a group of 14 teenagers from St. Jos Center (""a strict Catholic school for boys""). She ultimately died by drowning after they threw her into a pit of water.
+Gisberta Salce Junior,45,,2006_02_22_Gisberta-Salce-Junior.jpg,https://www.pensarcontemporaneo.com/conheca-historia-de-gisberta-trans-brasileira-assassinada-em-portugal/,22-Feb-2006,tdor.info/22 Feb 2006/Gisberta Salce Junior,,,Porto,Norte,Portugal,41.149456,-8.610766,violence,tortured and drowned,"Gisberta was tortured by a group of 14 teenagers from St. Jos Center (""a strict Catholic school for boys""). She ultimately died by drowning after they threw her into a pit of water.
 
 > ""According to the case, they told the others that they knew a ""man"" with ""tits"" and that ""he looked like a woman"". That's how 14 boys got together, eager to meet the transsexual, and the abandoned building became a rendezvous point - and some of the teenagers started attacking Gisberta.
 > 
@@ -80,6 +84,12 @@ In March 2021 an online petition to name a street in Porto after Gisberta was la
 > Fifteen years later, the Organizing Committee of the Porto Pride March (COMOP), an organization founded to combat the oppression to which LGBTI + people are subjected, considers that ""it is time to recognize and honor the life of Gisberta Salce Júnior"".
 >
 > This Wednesday, they launched an online petition to the Commission of Toponymy, created together with actress and activist Sara Barros Leitão, which proposes that one of the streets of the city be named Gisberta, considering this “a giant step towards representation , as well as a source of pride for the city of Porto”. ""The initiative aims to promote a reflection on how we can make Porto a more inclusive city and how we can combat the oppression to which LGBT + people are subjected"", reads a statement.
+
+https://observador.pt/2022/03/25/nome-de-gisberta-evidencia-necessidade-de-revisao-de-regulamento-toponimico-do-porto/
+
+https://dezanove.blogs.sapo.pt/aprovado-gisberta-tera-uma-rua-no-porto-1639181
+
+https://www.publico.pt/2022/03/19/culturaipsilon/noticia/aprovacao-comissao-toponimia-gisberta-perto-rua-porto-1999403
 
 https://24.sapo.pt/atualidade/artigos/psporto-propoe-rua-da-cidade-com-nome-de-gisberta-a-transexual-assassinada-em-2006
 
@@ -120,38 +130,38 @@ https://tgeu.org/gisberta-campaign-2006/
 http://ai.eecs.umich.edu/people/conway/TS/News/Portugal/Look%20in%20the%20Mirror,%20Portugal.html
 
 http://tgdor.org/list.shtml",,https://tdor.translivesmatter.info/reports/2006/02/22/gisberta-salce-junior_porto-norte-portugal_dfe8e432
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
