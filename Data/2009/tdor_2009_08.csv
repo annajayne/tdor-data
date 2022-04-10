@@ -1,13 +1,13 @@
-﻿Name,Age,Birthdate,Photo,Photo source,Date,Source ref,Location,State/Province,Country,Latitude,Longitude,Category,Cause of death,Description,Tweet,Permalink
-"""Kleberson Allan” dos Anjos Santos",18,,,,2-Aug-2009,tgeu/2 Aug 2009/“Kleberson Allan” dos Anjos Santos,Ribeirão Pires,São Paulo,Brazil,-23.711075,-46.414406,violence,shot,"The victim was shot in the street.
+﻿Name,Age,Birthdate,Photo,Photo source,Date,Source ref,,,Location,State/Province,Country,Latitude,Longitude,Category,Cause of death,Description,Tweet,Permalink
+"""Kleberson Allan” dos Anjos Santos",18,,,,2-Aug-2009,tgeu/2 Aug 2009/“Kleberson Allan” dos Anjos Santos,,,Ribeirão Pires,São Paulo,Brazil,-23.711075,-46.414406,violence,shot,"The victim was shot in the street.
 
 Diário do Grande ABC 03.08.2009",,https://tdor.translivesmatter.info/reports/2009/08/02/kleberson-allan-dos-anjos-santos_ribeirao-pires-sao-paulo-brazil_0b35e4a1
-"""Héctor Emilio"" Maradiaga Snaider",24,,,,9-Aug-2009,"tgeu/9 Aug 2009/""Héctor Emilio"" Maradiaga Snaider",Tegucigalpa,Distrito Central,Honduras,14.093192,-87.201263,violence,shot,"The victim was shot three times. Her body found a kilometer from the Colonia Lomas de Toncontín in an abandoned car.
+"""Héctor Emilio"" Maradiaga Snaider",24,,,,9-Aug-2009,"tgeu/9 Aug 2009/""Héctor Emilio"" Maradiaga Snaider",,,Tegucigalpa,Distrito Central,Honduras,14.093192,-87.201263,violence,shot,"The victim was shot three times. Her body found a kilometer from the Colonia Lomas de Toncontín in an abandoned car.
 
 She worked in a restaurant.
 
 El Heraldo, 10/08/09",,https://tdor.translivesmatter.info/reports/2009/08/09/hector-emilio-maradiaga-snaider_tegucigalpa-distrito-central-honduras_7c4bf969
-Name Unknown,,,,,14-Aug-2009,tgeu/1-14 Aug 2009/N. N.,Algiers,Algiers,Algeria,36.775348,3.060066,violence,beaten,"The victim was attacked and beaten at night in the street by a group of strangers. She died in hospital.
+Name Unknown,,,,,14-Aug-2009,tgeu/1-14 Aug 2009/N. N.,,,Algiers,Algiers,Algeria,36.775348,3.060066,violence,beaten,"The victim was attacked and beaten at night in the street by a group of strangers. She died in hospital.
 
 She was a young trans woman who had a degree in Spanish from the University of Algiers, but after being abandoned by her family she had no choice but to earn a living as a sex worker.
 
@@ -26,8 +26,8 @@ The exact date of her death is unknown, but it was sometime in the first two wee
 http://www.bekhsoos.com/web/2009/09/algerian-transsexual-woman- murdered/ 07.09.2009
 
 https://web.archive.org/web/20141012091021/http://www.bekhsoos.com/web/2009/09/algerian-transsexual-woman-murdered/",,https://tdor.translivesmatter.info/reports/2009/08/14/name-unknown_algiers-algeria_158e7fd0
-"La George (""Jorge” Eliecer Burbano)",,,,,16-Aug-2009,tgeu/16 Aug 2009/La George (“Jorge” Eliecer Burbano),Bogotá,Distrito Capital,Colombia,4.598048,-74.076087,violence,shot,La Prensa Escrita 12/09/2009,,https://tdor.translivesmatter.info/reports/2009/08/16/la-george-jorge-eliecer-burbano_bogota-distrito-capital-colombia_da882b75
-Kanan al Muthia,42,,,,25-Aug-2009,tgeu/25 Aug 2009/Kanan al Muthia,Setapak,,Malaysia,3.188615,101.710813,violence,murdered,"Kanan's body was found inside a water retention pond. Police believe she was murdered elsewhere and her body  dumped in the pond.
+"La George (""Jorge” Eliecer Burbano)",,,,,16-Aug-2009,tgeu/16 Aug 2009/La George (“Jorge” Eliecer Burbano),,,Bogotá,Distrito Capital,Colombia,4.598048,-74.076087,violence,shot,La Prensa Escrita 12/09/2009,,https://tdor.translivesmatter.info/reports/2009/08/16/la-george-jorge-eliecer-burbano_bogota-distrito-capital-colombia_da882b75
+Kanan al Muthia,42,,,,25-Aug-2009,tgeu/25 Aug 2009/Kanan al Muthia,,,Setapak,,Malaysia,3.188615,101.710813,violence,murdered,"Kanan's body was found inside a water retention pond. Police believe she was murdered elsewhere and her body  dumped in the pond.
 
 Malay Mail 27.08.2009
 
@@ -37,7 +37,7 @@ http://yukishock.blogspot.com/2009/02/transgender-woman-found-dead-with-neck.htm
 
 http://yukishock.blogspot.com/2009/10/two-months-ago-another-transgender.html
 ",,https://tdor.translivesmatter.info/reports/2009/08/25/kanan-al-muthia_setapak-malaysia_284618af
-Tyli’a Mack,21,,2009_08_26_Tylia-Mack.jpg,https://mpdc.dc.gov/publication/tylia-nana-boo-mack-homicide-victim,26-Aug-2009,tgeu/26 Aug 2009/Tyli’a Mack,Washington,D.C.,USA,38.892062,-77.019912,violence,stabbed,"Tyli'a was one of two transgender people stabbed on the street and taken to hospital. Although the other victim survived but Tyli'a died from her injuries.
+Tyli’a Mack,21,,2009_08_26_Tylia-Mack.jpg,https://mpdc.dc.gov/publication/tylia-nana-boo-mack-homicide-victim,26-Aug-2009,tgeu/26 Aug 2009/Tyli’a Mack,,,Washington,D.C.,USA,38.892062,-77.019912,violence,stabbed,"Tyli'a was one of two transgender people stabbed on the street and taken to hospital. Although the other victim survived but Tyli'a died from her injuries.
 
 The police investigated the death as a possible hate crime.
 
@@ -54,7 +54,34 @@ Examiner, 01.09.2009
 http://theangels.co.uk/2009/09/tylia-mack-another-hate-crime-another-murder/
 
 https://mpdc.dc.gov/publication/tylia-nana-boo-mack-homicide-victim",,https://tdor.translivesmatter.info/reports/2009/08/26/tylia-mack_washington-dc-usa_8d917ed7
-Paulina Ibarra,24,,,,28-Aug-2009,tgeu/28 Aug 2009/Paulina Ibarra,Hollywood,California,USA,34.098301,-118.325798,violence,stabbed,"Paulina was stabbed to death inside her apartment in East Hollywood. The suspected murderer is a homeless person who was known to frequent transgender sex workers.
+Paulina Ibarra,24,,2009_08_28_Paulina-Ibarra.jpg,https://laist.com/news/lapd-announces-arrest-in-transgende,28-Aug-2009,tgeu/28 Aug 2009/Paulina Ibarra,900 N Mariposa Ave,East Hollywood,Hollywood,California,USA,34.0864137,-118.3008146,violence,stabbed,"Paulina was stabbed to death inside her apartment in East Hollywood. The suspected murderer, Jesus Catalan (also known as Brian Nanes or Luis Santiago), was later apprehended by authorities.
 
-ABC 7, 07.09.2009 September 2009",,https://tdor.translivesmatter.info/reports/2009/08/28/paulina-ibarra_hollywood-california-usa_591823c9
-Michelle Torres,,,,,30-Aug-2009,tdor.info/30 Aug 2009/Michelle Torres,,,Honduras,14.818892,-86.600739,violence,shot,"According to tdor.info, Michelle was shot. No other information is known.",,https://tdor.translivesmatter.info/reports/2009/08/30/michelle-torres_honduras_06dfeda2
+Catalan was a homeless person who was known to frequent transgender sex workers.
+
+> Police this afternoon officially announced an arrest in last year's brutal murder of Paulina Ibarra. Jesus Catalan stands accused of killing the 24-year-old transgender woman in her East Hollywood apartment on August 28th, 2009. Catalan became an immediate person of interest a few hours after police reported to Ibarra's home on the 900 block of Mariposa Street. Catalan apparently contacted mutual friends in the LGBT community after the murder, claiming he was a victim of a robbery and was in need of help. Once with them, he put on new clothes and left. When those friends learned of Ibarra's death, they stepped forward with information and his bloody clothes, police said.
+>
+> Since then, Catalan was on the loose, even getting the attention of ""America's Most Wanted"" last December. Then on July 3rd, he was arrested in Tijuana after a disturbance at a motel. Because he was a U.S. citizen -- born in Puerto Rico -- he was transferred to the U.S. Border Patrol. A fingerprint scan alerted the LAPD, which brought him back to Los Angeles to face one charge of murder. A hearing is set for July 19th.
+>
+> Police do not believe it was a hate crime.
+
+ABC 7, 07.09.2009 September 2009
+
+https://laist.com/news/lapd-announces-arrest-in-transgende
+
+https://www.youtube.com/watch?v=4Hk6lrtiYlY
+
+https://www.sbsun.com/2010/07/09/man-arrested-in-fatal-09-stabbing-in-la/
+
+https://www.presstelegram.com/2010/07/09/arrest-made-in-2009-transgender-stabbing-2/
+
+https://www.pasadenastarnews.com/2010/07/09/arrest-made-in-2009-transgender-stabbing/
+
+https://unfinishedlivesblog.com/2009/09/26/transgender-latina-stabbed-to-death-in-los-angeles-story-of-injustice/
+
+https://www.lapdonline.org/newsroom/person-of-interest-sought-in-murder-of-east-hollywood-resident-nr09454rf/
+
+https://archive.kpcc.org/news/2010/07/09/17094/suspected-killer-hollywood-transgender-custody/
+","Paulina Ibarra was stabbed in her apartment in Hollywood, California (USA) on 28 Aug 2009.
+
+She was 27. #SayHerName #TransLivesMatter #TDoR",https://tdor.translivesmatter.info/reports/2009/08/28/paulina-ibarra_hollywood-california-usa_591823c9
+Michelle Torres,,,,,30-Aug-2009,tdor.info/30 Aug 2009/Michelle Torres,,,,,Honduras,14.818892,-86.600739,violence,shot,"According to tdor.info, Michelle was shot. No other information is known.",,https://tdor.translivesmatter.info/reports/2009/08/30/michelle-torres_honduras_06dfeda2
