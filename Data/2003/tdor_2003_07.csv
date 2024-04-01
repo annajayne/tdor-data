@@ -1,9 +1,9 @@
-﻿Name,Age,Birthdate,Photo,Photo source,Date,Source ref,Location,State/Province,Country,Latitude,Longitude,Category,Cause of death,Description,Tweet,Permalink
-Dayana Valverde,,,,,1-Jul-2003,tdor.info/1 Jul 2003/Dayana Valverde,Ciudad de Guatemala,Guatemala,Guatemala,14.642516,-90.513138,violence,shot,Shot,,https://tdor.translivesmatter.info/reports/2003/07/01/dayana-valverde_ciudad-de-guatemala-guatemala_0c4152a2
-Rogelio Jiménez Cortez,,,,,4-Jul-2003,tdor.info/4 Jul 2003/Rogelio Jiménez Cortez,Ciudad de Guatemala,Guatemala,Guatemala,14.642516,-90.513138,violence,shot,Shot,,https://tdor.translivesmatter.info/reports/2003/07/04/rogelio-jimenez-cortez_ciudad-de-guatemala-guatemala_65b230d6
-Ericka (Erick David) Yáñez,,,,,15-Jul-2003,tdor.info/15 Jul 2003/Ericka (Erick David) Yáñez,San Pedro Sula,Cortés,Honduras,15.505647,-88.024196,violence,shot,"Shot and killed, allegedly by a police officer",,https://tdor.translivesmatter.info/reports/2003/07/15/ericka-erick-david-yanez_san-pedro-sula-cortes-honduras_d8e8f833
-Cinnamon (Kendrick) Perry,,,,,20-Jul-2003,tdor.info/20 Jul 2003/Cinnamon (Kendrick) Perry,Houston,Texas,USA,29.760803,-95.369506,violence,shot,Shot to death,,https://tdor.translivesmatter.info/reports/2003/07/20/cinnamon-kendrick-perry_houston-texas-usa_fbbb5392
-Nireah Johnson,17,,2003_07_22_Nireah-Johnson.jpg,http://wearinggayhistory.com/exhibits/show/advocacyexhibit/remember,22-Jul-2003,tdor.info/22 Jul 2003/Nireah Johnson,Indianapolis,Indiana,USA,39.76845,-86.156212,violence,shot,"Nireah and her friend Brandie Coleman were murdered by Paul Moore after Moore discovered that Nireah was transgender. He then set their vehicle on fire.
+﻿Name,Age,Birthdate,Photo,Photo source,Date,TDoR list ref,Address,Locality,Town/City/Municipality,State/Province,Country,Latitude,Longitude,Category,Cause of death,Description,Tweet,Permalink
+Dayana Valverde,,,,,1-Jul-2003,tdor.info/1 Jul 2003/Dayana Valverde,,,Ciudad de Guatemala,Guatemala,Guatemala,14.642516,-90.513138,violence,shot,Shot,,https://tdor.translivesmatter.info/reports/2003/07/01/dayana-valverde_ciudad-de-guatemala-guatemala_0c4152a2
+Rogelio Jiménez Cortez,,,,,4-Jul-2003,tdor.info/4 Jul 2003/Rogelio Jiménez Cortez,,,Ciudad de Guatemala,Guatemala,Guatemala,14.642516,-90.513138,violence,shot,Shot,,https://tdor.translivesmatter.info/reports/2003/07/04/rogelio-jimenez-cortez_ciudad-de-guatemala-guatemala_65b230d6
+Ericka (Erick David) Yáñez,,,,,15-Jul-2003,tdor.info/15 Jul 2003/Ericka (Erick David) Yáñez,,,San Pedro Sula,Cortés,Honduras,15.505647,-88.024196,violence,shot,"Shot and killed, allegedly by a police officer",,https://tdor.translivesmatter.info/reports/2003/07/15/ericka-erick-david-yanez_san-pedro-sula-cortes-honduras_d8e8f833
+Cinnamon (Kendrick) Perry,,,,,20-Jul-2003,tdor.info/20 Jul 2003/Cinnamon (Kendrick) Perry,,,Houston,Texas,USA,29.760803,-95.369506,violence,shot,Shot to death,,https://tdor.translivesmatter.info/reports/2003/07/20/cinnamon-kendrick-perry_houston-texas-usa_fbbb5392
+Nireah Johnson,17,,2003_07_22_Nireah-Johnson.jpg,http://wearinggayhistory.com/exhibits/show/advocacyexhibit/remember,22-Jul-2003,tdor.info/22 Jul 2003/Nireah Johnson,,,Indianapolis,Indiana,USA,39.76845,-86.156212,violence,shot,"Nireah and her friend Brandie Coleman were murdered by Paul Moore after Moore discovered that Nireah was transgender. He then set their vehicle on fire.
 
 Moore was convicted on two counts of murder, criminal confinement and arson and sentenced to a total of 120 years in prison. Moore's half brother, Clarence McGee, 26, was convicted of arson, assisting a criminal and obstruction of justice and sentenced to 10 years
 
@@ -16,7 +16,7 @@ https://web.archive.org/web/20040413201754/http://www.gaywired.com/print_this_ar
 https://twitter.com/WalterKlingler/status/1021368023368847361
 
 http://wearinggayhistory.com/exhibits/show/advocacyexhibit/remember",,https://tdor.translivesmatter.info/reports/2003/07/22/nireah-johnson_indianapolis-indiana-usa_6547a3f7
-Brandie Coleman,18,,2003_07_22_Brandie-Colman.jpg,https://twitter.com/WalterKlingler/status/1021368023368847361,22-Jul-2003,tdor.info/22 Jul 2003/Brandie Coleman,Indianapolis,Indiana,USA,39.76845,-86.156212,violence,shot,"Brandie (who was a cisgender woman) and her friend Nireah Johnson were murdered by Paul Moore after Moore discovered that Nireah was transgender. He then set their vehicle on fire.
+Brandie Coleman,18,,2003_07_22_Brandie-Colman.jpg,https://twitter.com/WalterKlingler/status/1021368023368847361,22-Jul-2003,tdor.info/22 Jul 2003/Brandie Coleman,,,Indianapolis,Indiana,USA,39.76845,-86.156212,violence,shot,"Brandie (who was a cisgender woman) and her friend Nireah Johnson were murdered by Paul Moore after Moore discovered that Nireah was transgender. He then set their vehicle on fire.
 
 Moore was convicted on two counts of murder, criminal confinement and arson and sentenced to a total of 120 years in prison. Moore's half brother, Clarence McGee, 26, was convicted of arson, assisting a criminal and obstruction of justice and sentenced to 10 years
 
@@ -35,4 +35,26 @@ http://wearinggayhistory.com/exhibits/show/advocacyexhibit/remember
 https://twitter.com/WalterKlingler/status/1021368023368847361
 
 https://www.facebook.com/118409028563696/posts/nireah-johnson-and-brandie-coleman-were-murdered-and-why-did-some-asswipe-fuckwi/160827654321833/",,https://tdor.translivesmatter.info/reports/2003/07/22/brandie-coleman_indianapolis-indiana-usa_943e322a
-Selena çlvarez-Hernández,,,,,31-Jul-2003,tdor.info/31 Jul 2003/Selena çlvarez-Hernández,Council Bluffs,Iowa,USA,41.258963,-95.85436,violence,stabbed,Selena was stabbed several times. No other information is known.,,https://tdor.translivesmatter.info/reports/2003/07/31/selena-clvarez-hernandez_council-bluffs-iowa-usa_54518ff1
+Selena Alvarez-Hernández,32,,2003_07_31_Selena-Alvarez-Hernandez.jpg,https://iowacoldcases.org/case-summaries/nelson-alvarez-hernandez/,31-Jul-2003,tdor.info/31 Jul 2003/Selena çlvarez-Hernández,1613 S. 13th St.,,Council Bluffs,Iowa,USA,41.2460191,-95.8656783,violence,stabbed,"Selena was stabbed multiple times in the chest, abdomen, and arms outside of an apartment complex. In 2014 James Cain Harris, 36, was convicted of first degree murder.
+
+Harris had repeatedly stabbed Selena while robbing her.
+
+> In the early morning hours on July 31, 2003, [deadname] Selena” Alvarez-Hernandez, 33, was stabbed to death in front of an apartment building located at 1613 So. 13th St. in Council Bluffs, Iowa.
+>
+> Officers were dispatched at 1:59 a.m. to Apartment #1 regarding a disturbance, and reported that upon arrival they located a Hispanic [female] lying on the ground in front of the apartment building. [She] had been stabbed eight times.
+>
+> The victim — who carried several ID cards and whose identity was not immediately known — was transported by ambulance to Creighton Medical Center in Omaha, Neb., where [she] died from [her] injuries.
+
+https://iowacoldcases.org/case-summaries/nelson-alvarez-hernandez/
+
+https://web.archive.org/web/20200810194852/https://www.kcci.com/article/the-week-ahead-aug-9-2020-schools-reopen-congress-at-impasse/33551344
+
+https://www.newspapers.com/article/the-des-moines-register-murder-of-transg/143693016/
+
+https://www.advocate.com/news/2003/09/09/vigil-held-murdered-iowa-resident-9794
+
+https://www.newspapers.com/article/the-des-moines-register-murder-of-transg/143693125/
+
+https://www.newspapers.com/article/the-daily-nonpareil-murder-of-transgende/143693272/
+
+https://www.newspapers.com/article/omaha-world-herald-murder-of-selena-alva/143695593/",,https://tdor.translivesmatter.info/reports/2003/07/31/selena-clvarez-hernandez_council-bluffs-iowa-usa_54518ff1
